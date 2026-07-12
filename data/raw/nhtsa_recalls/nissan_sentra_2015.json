@@ -1,0 +1,56 @@
+{
+  "Count": 3,
+  "Message": "Results returned successfully",
+  "results": [
+    {
+      "Manufacturer": "Nissan North America, Inc.",
+      "NHTSACampaignNumber": "16V244000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "NHTSAActionNumber": "EA15004",
+      "ReportReceivedDate": "26/04/2016",
+      "Component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+      "Summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2016-2017 Nissan Maxima, 2013-2016 Nissan Altima, NV200, LEAF, Sentra, and Pathfinder, 2014-2016 Nissan NV200 Taxi, Infiniti QX60, QX60 Hybrid, and Q50 Hybrid, 2014-2017 Nissan Rogue and Infiniti Q50, 2015-2016 Nissan Murano, Murano Hybrid, and Chevrolet City Express, 2014-2015 Nissan Pathfinder Hybrid, and 2013 Infiniti JX35 vehicles.  In these vehicles, the front seat passenger Occupant Classification System (OCS) may incorrectly classify an adult passenger as a child or classify the seat as empty despite it being occupied.  As a result, the passenger frontal air bag may be turned off and not deploy in the event of a crash.",
+      "Consequence": "If the passenger frontal air bag does not deploy as intended in the event of a crash, the passenger is at an increased risk of injury.",
+      "Remedy": "Nissan will notify their owners.  Chevrolet City Express owners will be notified by General Motors.  Dealers will reprogram the Air Bag Control Unit (ACU) and OCS Electronic Control Unit (ECU) in Altima, Maxima, Murano, Rogue, and Sentra vehicles, and replace the OCS ECU in LEAF, NV200, NV200 Taxi, Pathfinder, Infiniti Q50, JX35, and QX60 and Chevrolet City Express vehicles, free of charge.  Interim notices were sent to owners on May 31, 2016.  Owners will receive a second notice when remedy parts become available.  Owners may contact Nissan customer service at 1-800-867-7669, Infiniti customer service at 1-888-833-3216 or Chevrolet customer service at 1-800-222-1020.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+      "ModelYear": "2015",
+      "Make": "NISSAN",
+      "Model": "SENTRA"
+    },
+    {
+      "Manufacturer": "Nissan North America, Inc.",
+      "NHTSACampaignNumber": "15V453000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "21/07/2015",
+      "Component": "LATCHES/LOCKS/LINKAGES",
+      "Summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2015 Nissan Rogue vehicles manufactured June 9, 2015, to June 10, 2015, and 2015 Nissan Sentra and Versa Note vehicles manufactured June 5, 2015, to June 13, 2015.  In the affected vehicles, the driver side front and rear doors may not fully latch.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 206, \"Door Locks and Door Retention Components.\"",
+      "Consequence": "A door that does not fully latch may result in the door opening while the car is moving.  The distraction may increase the risk of a crash and/or a vehicle occupant may fall out of the vehicle if they are not wearing a seatbelt, increasing their risk of injury.",
+      "Remedy": "Nissan will notify owners, and dealers will inspect the date, lot number, and cavity code on the left front and rear door latches, and replace them, as necessary, free of charge.  The recall began on August 31, 2015.  Owners may contact Nissan customer service at 1-800-647-7261.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+      "ModelYear": "2015",
+      "Make": "NISSAN",
+      "Model": "SENTRA"
+    },
+    {
+      "Manufacturer": "Nissan North America, Inc.",
+      "NHTSACampaignNumber": "16V242000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "NHTSAActionNumber": "EA15004",
+      "ReportReceivedDate": "26/04/2016",
+      "Component": "AIR BAGS:SENSOR:OCCUPANT CLASSIFICATION",
+      "Summary": "Nissan North America, Inc. (Nissan) is recalling certain model year 2013-2016 Sentra vehicles manufactured June 4, 2012, to April 9, 2016.  The front passenger seat belt bracket may become deformed if it is used to secure a Child Restraint System (CRS).  The deformed seat bracket may cause the Occupant Classification System (OCS) to incorrectly classify the installed CRS, resulting in the front passenger air bag to not be turned off as designed when a CRS is in the seat.",
+      "Consequence": "If the frontal passenger air bag deploys in the event of a crash when a child seat is installed in the front passenger seat, there will be an increased risk of injury to the child in the CRS.",
+      "Remedy": "Nissan will notify owners, and dealers will reinforce the seat belt bracket as well as reprogram the Air Bag Control Unit (ACU) and OCS Electronic Control Unit (ECU), free of charge.  The recall began on June 13, 2016.  Owners are warned not to install a CRS in the front seat.  Owners may contact Nissan customer service at 1-800-867-7669.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+      "ModelYear": "2015",
+      "Make": "NISSAN",
+      "Model": "SENTRA"
+    }
+  ]
+}

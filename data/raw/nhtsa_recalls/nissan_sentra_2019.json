@@ -1,0 +1,38 @@
+{
+  "Count": 2,
+  "Message": "Results returned successfully",
+  "results": [
+    {
+      "Manufacturer": "Nissan North America, Inc.",
+      "NHTSACampaignNumber": "21V135000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "03/03/2021",
+      "Component": "EXTERIOR LIGHTING:BRAKE LIGHTS:SWITCH",
+      "Summary": "Nissan North America, Inc. (Nissan) is recalling certain 2016-2019 Nissan Sentra vehicles.  The brake light switch may become contaminated, preventing the circuit from closing and the brake lights from illuminating.",
+      "Consequence": "The brake lights may not illuminate, increasing the risk of a crash.",
+      "Remedy": "Dealers will replace the brake light switch and install a protective grommet, free of charge.  Owner notification letters were mailed July 1, 2022.  Owners may contact Nissan customer service at 1-800867-7769.  Nissan's number for this recall is PM971.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+      "ModelYear": "2019",
+      "Make": "NISSAN",
+      "Model": "SENTRA"
+    },
+    {
+      "Manufacturer": "Nissan North America, Inc.",
+      "NHTSACampaignNumber": "19V654000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "12/09/2019",
+      "Component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+      "Summary": "Nissan North America, Inc. (Nissan) is recalling certain 2018-2019 Nissan Altima, Armada, Frontier, Kicks, Leaf, Maxima, Murano, NV, NV200, Pathfinder, Rogue, Rogue Sport, Sentra, Titan, Titan Diesel, Versa Note and Versa Sedan vehicles, as well as Infiniti Q50, Q60, QX30 and QX80 vehicles.  Additionally included are 2019 Nissan GT-R and Taxi and Infiniti QX50, QX60, Q70, Q70L vehicles.  The back-up camera and display settings can be adjusted such that the rear view image is no longer visible and the system will retain that setting the next time the vehicle is placed in reverse.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
+      "Consequence": "The lack of an image in the back-up camera display increases the risk of a crash.",
+      "Remedy": "Nissan will notify owners in phases, having dealers update the back-up camera settings software, free of charge.  The recall began November 11, 2019 and all affected VINs should be activated.  Owners may contact Nissan customer service at 1-800-867-7669 or INFINITI customer service at 1-800-662-6200.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.",
+      "ModelYear": "2019",
+      "Make": "NISSAN",
+      "Model": "SENTRA"
+    }
+  ]
+}

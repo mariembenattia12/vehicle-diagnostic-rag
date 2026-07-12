@@ -1,0 +1,828 @@
+{
+  "count": 37,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11741116,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/15/2026",
+      "dateComplaintFiled": "05/31/2026",
+      "vin": "3VWG17AU5JM",
+      "components": "STRUCTURE,UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+      "summary": "Vehicle brought in for Recall 20UF (fuel tank suction pump fire risk) on 04/15/2026. Upon pickup after approximately one week of dealer service, a strong chemical odor was present in the cabin that did not exist prior to service. Odor persists despite cabin air filter replacement with activated charcoal filter, professional carpet shampooing, and extended airing out over several weeks. Dealer dismissed concerns and suggested owner pay for cabin filter replacement which had no effect. VW's own Recall 20UF documentation acknowledges that fuel odor may be noticed by occupants when the recall condition exists. Requesting investigation into whether recall repair was fully completed and whether odor is related to incompletely resolved recall condition. A neighbor experienced identical odor issue after bringing their Tiguan to a different Westchester dealer for service.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11740201,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/26/2026",
+      "dateComplaintFiled": "05/26/2026",
+      "vin": "3VWG17AU4JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Took my car into VW in Johnson City TN because my millage has been dropping drastically. Went from about 420 miles to a tank, down to less than 300. There is hesitation and jerking when I accelerate as well as a gasoline odor in the cab of the vehicle after refueling. Service manager said there was no code thrown and when he took it for a drive her drove “conservatively” and the mpg was normal. They did not physically inspect the fuel pump jet and gaslit me saying it was how I’m driving. Refused to actually look at the problem and then threatened that if I wanted them to look they would charge me for the labor. They did not seem concerned that a safety hazard of smelling fuel in the cab and poor fuel efficiency was an issue.manager said he knew of the active extended recall but hid behind the no code from their scanner instead of listening to the customer who voiced concerns. They didn’t want to do the work if they had to pay for it.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11740222,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/26/2026",
+      "dateComplaintFiled": "05/26/2026",
+      "vin": "3VWG17AU4JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "SUPPLEMENTAL INFORMATION OF ODI COMPLAINT NUMBER 11740201.   I am submitting critical supplemental information to my active safety complaint regarding a 2018 Volkswagen Golf SportWagen (1.8T engine).  My primary safety issues are a severe drop in fuel efficiency (cut completely in half), heavy vehicle hesitation/jerking during acceleration, and a powerful raw gasoline smell inside the cabin immediately after fueling. These symptoms heavily align with the known physical failures covered under Volkswagen's Suction Jet Pump safety campaigns.  I took my vehicle to the Volkswagen dealership today for a diagnostic inspection. The service manager initially dismissed my complaints, refused to physically check the EVAP charcoal canister or suction pump, and claimed that my 50% drop in fuel economy was merely due to my 'driving style.'  However, upon forcing me to pay a $136 diagnostic fee to retrieve my keys, the official paperwork provided by the dealership directly contradicted the manager. The technician documented finding a physical fuel leak.  Alarmingly, this is the exact same 'small fuel leak' that this specific dealership claimed to have fully repaired a few months ago. That previous visit occurred because my steering wheel completely locked up while driving, nearly causing a severe accident—an issue the dealership also dismissed at the time because it 'failed to throw an error code.'  The dealership has demonstrated a reckless pattern of ignoring severe mechanical safety hazards—including steering failures and active, recurring fuel leaks—solely because the vehicle's computer does not register a digital fault code. I am trapped driving a vehicle that is actively leaking fuel, smelling of raw gas inside the passenger cabin, and suffering from dangerous acceleration hesitation due to an unresolved fuel-system defect. I request a formal investigation into this ongoing safety hazard and the dealer's failure to remedy it.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11704994,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/14/2025",
+      "dateComplaintFiled": "12/15/2025",
+      "vin": "3VWG17AU0JM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Sunroof Glass Implosion While Driving (2018 Volkswagen Golf) While driving my 2018 Volkswagen Golf at normal highway speed, my sunroof suddenly and violently imploded without any warning or external impact. The sound was extremely loud—similar to a gunshot or an explosion—and initially I believed something had struck the vehicle or that a large object had landed on the sunroof.Glass shattered and fell into the interior of the vehicle, sending shards throughout the cabin. The incident was extremely frightening and caused me to momentarily lose focus while driving. I narrowly avoided a potential car accident due to the sudden noise, falling glass, and shock of the event. There were no visible objects, debris, or overpasses that could explain the breakage, and no other vehicles were involved. This appears to be a spontaneous sunroof glass failure. The incident poses a serious safety risk, as it could easily lead to a crash or cause injury to occupants. I am reporting this issue to raise awareness and request investigation, as spontaneous sunroof implosions while driving are dangerous and should not occur under normal driving conditions.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11661666,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/18/2025",
+      "dateComplaintFiled": "05/18/2025",
+      "vin": "3VWH17AUXJM",
+      "components": "ENGINE",
+      "summary": "Volkswagen Wastegate Turbo Failure / design flaw and  “wrongfully and intentionally” concealed a defect from consumers that could cause their vehicle’s engine turbocharger to fail prematurely at any time. Drivers have been unfairly forced to pay thousands out of pocket to repair and my estimate from a VW. dealer is: $4199.21 and I had to pay a $200 diagnostic fee. This is a major safety issue for the vehicle will lag and not accelerate. There is a class action lawsuit filed and settled but I cannot get Volkswagen to help me.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11625316,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/14/2024",
+      "dateComplaintFiled": "11/14/2024",
+      "vin": "3VW547AU7JM",
+      "components": "STRUCTURE",
+      "summary": "There is an issue with the gear shift cover trim.  The piece that goes around the gear shift has a chrome coating that has been pealing off.   Over multiple occasions that pealed off piece of metal has cut my finger causing bleeding.  There seems to be a recall on the DSG GTI for this, but not the MT.  I am having the same exact issue as the DSG and the replacement part is the exact same (likely same original part).  The safety issue is that this has cut my finger multiple times with bleeding and can be quite painful.  I called VW and was told my car was not part of the DSG recall 34J7/34L9, but clearly it has the same issue. Here is the case number from that call: VW Customer CARE [XXX] INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11602381,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/15/2024",
+      "dateComplaintFiled": "07/15/2024",
+      "vin": "3VW547AUXJM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Cannot fill gas tank. Recall issued February 2024 no remedy available still.  24V110",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11600571,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2024",
+      "dateComplaintFiled": "07/09/2024",
+      "vin": "3VW447AU4JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I have a recall for the jet pump in the fuel tank of my vehicle. I have had fuel leaking from my charcoal canister. The vehicle is at the dealership right now, and they have confirmed this. Yet they will not make a repair on it and have been without my vehicle for over a week now. I am stuck in limbo with no date when anything will be done. I am unable to drive my vehicle due to he leak as it is unsafe and a fire hazard. The vehicle will also cut off while driving and will not start, even though it says there is still fuel in it. This should be due to the leak, and the dealer will do nothing to fix my problem until they are notified by Volkswagen themselves. This is ridiculous as i am without a vehicle, which i am still paying a loan on and insurance every month. Yet i have called Volkswagen and have been offered no solution on this matter. I have been told to wait for the recall, but this issue has been known about since February. Am i just supposed to wait indefinitely for a solution while i can't work or drive anywhere, while i continue to pay for this vehicle? I need a solution and Volkswagen to fix my issue and to be help responsible.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11570664,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/06/2024",
+      "dateComplaintFiled": "02/07/2024",
+      "vin": "3VW447AU2JM",
+      "components": "STEERING",
+      "summary": "There is a peeling plastic/metal chrome  trim piece on the steering wheel that cause a finger laceration.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11565903,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/07/2024",
+      "dateComplaintFiled": "01/17/2024",
+      "vin": "3VW447AU2JM",
+      "components": "STEERING,SUSPENSION,ELECTRICAL SYSTEM",
+      "summary": "I was coming back from work and was driving on the highway at around 80 mph. All of a sudden, literally out of nowhere, the car started shaking violently, and the steering wheel was shaking super fast violently (vibrating) and was very heavy and hard to move. Also, the D started flashing. I was struggling to control the car. I noticed that the Abs light, steering light, suspension light for DCC, and a whole bunch of other lights except the engine light.  The car was in custom mode. Sport steering and sport Suspension, Normal for powertrain.   All windows and sunroof were fully open, and music was playing.  When all this occurred, I could hear outside the car something that sounded like metal tinging or metal contact. idk. This was while the car was still moving.  When I pulled over, all the lights went away. I turned off the car for a few minutes and turned it back on. The lights did not come back, and it drove like nothing ever happened.    The car is currently at VW Dealership awaiting a response from VW helpline (VTA) as of 1/17/24.    I have been doing research on this issue and I have found multiple VW GTI/R owners who are currently and/or have experienced this issue.   A Golf R (Model year 2018) owner with about 19.5k miles said \"The real problem was the electric power assist motor, the part that controls how heavy the steering is when you change modes. But it can't be serviced. So the whole thing has to be swapped. It needed the entire power steering rack assembly replaced\". He took this to a VW dealership and was covered under warranty.   I strongly believe VW needs to release a recall for this as it is very dangerous to happen while driving especially at highway speeds like it did to me and many others.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11565501,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/14/2024",
+      "dateComplaintFiled": "01/15/2024",
+      "vin": "3VWH17AUXJM",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "Second occurrence of this issue approximately two years apart, unresolved and unaddressed by manufacturer. Driving during evening on lit city street at night traveling in lane of traffic. In normal course of driving (~25 mph) vehicle applied full brakes with no advance notice in the middle of road. Forward Collision Assist had been activated by what appeared to be a patch of ice on the road ahead. Full braking while driving posed significant risk of rear collision due to automated full brake application without input or forewarning to the driver.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11544849,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/21/2023",
+      "dateComplaintFiled": "09/15/2023",
+      "vin": "3VW547AU6JM",
+      "components": "EXTERIOR LIGHTING",
+      "summary": "Hello my left front headlamp failed. Initially both my headlights were sweaty/foggy, which started early 2021 but no light present. This is a safety issue especially when driving at night. It is available for inspection. The vehicle was inspected at the dealer Galpin VW. AFS light came on when system failed.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11538196,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/11/2023",
+      "dateComplaintFiled": "08/13/2023",
+      "vin": "3VW547AU5JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "During refueling after low fuel indicator, fuel tank was not able to accept any fuel. During a second attempt, vehicle accepted 0.25 gallons but all of this fuel came gushing out of the tank from the inlet and from the passenger side rear wheel well. Fuel kept leaking for another 20miles until vehicle was taken to the Rochester Hills, MI VW dealership. The vehicle continued to leak fuel at the dealership and I was requested to park outside due to the risk of a fire. During this 20mile trip, engine was very hesitant and spluttered and almost stalled. No warning lights on dash. My personal safety was at risk since any ignition source would cause a fire due to this fuel leak, vehicle did not show any warning lights besides low fuel. VW dealership information was that the fuel tank suction jet pump needs replacement. No information was shared if the component will be sent to the manufacturer for inspection. No information how this new pump will not cause a repeat event.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11530629,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/26/2023",
+      "dateComplaintFiled": "07/06/2023",
+      "vin": "3VW547AU3JM",
+      "components": "ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+      "summary": "I have owned the 2018 VW GTI since new.  With 105,000 miles, following a 30 minute highway drive, the EPC light came on and the vehicle entered limp mode.  After turning car off, letting it sit 5 minutes, and restarting, EPC light went off and no limp mode.  Drove car daily for another week with no observed issues until appointment. Brought car to dealer.  They identified the fuel injector wiring harness was faulty and needed to be replaced, and fuel injector #3 was dirty and needed to be replaced, at total cost of $1,756. Online search turned up VWP-23-03, a FUEL INJECTOR WIRING HARNESS LIMITED WARRANTY EXTENSION up to 10 years or 120,000 miles for similar VW cars: 2018-2019 Tiguan 2018-2019 Beetle 2018-2020 Passat So the same exact part, on thousands of other VW models produced at the same time, is covered by a warranty extension.  The dealer declined to cover this repair.  VW Customer Care declined to cover this repair or offer partial coverage.   The car has been repaired by dealer (harness was shorted). I am not asking for special treatment.  I am looking for fairness.  If VW has identified a given component as defective on three different models, and the same component fails on my GTI, then VW should also cover the GTI under the Warranty Extension.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11508588,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/22/2023",
+      "dateComplaintFiled": "02/22/2023",
+      "vin": "3VWM17AU9JM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "We were driving on the highway when the sunroof exploded.  There were 4 of us in the car and none of us recalls anything striking the sunroof. Glass exploded wverywhere.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11500614,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/01/2022",
+      "dateComplaintFiled": "01/07/2023",
+      "vin": "3VW447AU2JM",
+      "components": "EXTERIOR LIGHTING",
+      "summary": "Headlights don't turn on immediately upon ignition start. Error message appears on infotainment and dashboard. The temporary fix, Turned off the vehicle and locked the car, and tried again and it worked just fine.   I took the car for regular service when I had mentioned to them that my headlights were acting up. they told me they found no fault codes and could not do anything about it. I spoke to a manager and they told me to take pictures if it happens again, so I did.  (The picture in the dark) The headlights would not turn on once again in evening in the Auto setting and I had to cycle the car off and on to get them working properly again. Once turned on the driver-side headlight is now a yellow color similar to a halogen light.   (The picture in the daytime) Last week I went to warm up the car for 3-5 minutes and when I returned to the vehicle I noticed the driver-side headlight DRL was not Illuminated. I went into the vehicle and saw that there was an error message on the infotainment screen regarding the headlights. I cycled the car on and off and the vehicle went back to \"normal\"  These issues happen on both headlights but is more persistent on the driver side headlight on my vehicle.I mentioned this on a Facebook group to ask if anyone has experienced this and many people are/did, unfortunately, experience this issue, even as far back as the 2015 Model years.   Many people mentioned that they went to the dealership(s) and they would not cover the headlight under warranty as according to them it's impossible to have both headlights inoperable at the same time.  I am lucky to have a good dealership to where to they actually are replacing the entire headlight assembly on the driverside. But i am worried even with a new headlight assembly, in a few years it will happen again.  If this would have happened while driving at nighttime I would’ve not had any visibility whatsoever.   Please recall the LED headlights in these vehicles",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11490647,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/24/2022",
+      "dateComplaintFiled": "10/24/2022",
+      "vin": "3VW547AU5JM",
+      "components": "POWER TRAIN",
+      "summary": "Received a low coolant warning and then checked the coolant level. Coolant was low and was topped off. One week later the issue recurred as the coolant level and dropped below minimum levels again. Thermostat housing had a slow leak which was discovered by the dealer. This seems to be a flaw in the design of the thermostat housing as multiple owners are reporting the same issue with the same flaw in the thermostat housing.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11484494,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/09/2021",
+      "dateComplaintFiled": "09/14/2022",
+      "vin": "3VW447AU5JM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "Vehicle intermittently stalls when coming to a stop in traffic while in gear.  Has occurred on multiple separate occasions, but cannot be easily re-produced.  When vehicle stalls it can be difficult to restart while in traffic and occurs without warning creating safety hazard.  Usually there are no codes stored by the computer when this occurs, but check engine light has been noticed.  Vehicle has been brought to dealership 3 different times for same issue.  Upon first visit starter was replaced. Upon 2nd visit an oxygen sensor was replaced. Upon 3rd visit no further action was taken and I was told by dealer vehicle tested normal with no further repairs being authorized.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11476551,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/28/2022",
+      "dateComplaintFiled": "07/29/2022",
+      "vin": "3VW447AU0JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Fuel leaking from charcoal canister next to exhaust can lead to fire. Fuel leaking on to ground by passenger side rear wheel. Strong smell of gasoline outside and inside car. Caused dizziness while driving can harm children. No warning or any lights other then strong odour of gasoline from inside/outside of vehicle   Similar to safety recall 20Y6  Parts requested for repair by dealer -EVAP can system -Fuel Tank",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11469462,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/15/2022",
+      "dateComplaintFiled": "06/15/2022",
+      "vin": "3VWH17AU8JM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I was driving west on I-80 and my sunroof exploded/shattered. There was no rock to be found anywhere.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11459292,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/28/2022",
+      "dateComplaintFiled": "04/01/2022",
+      "vin": "3VWH17AUXJM",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "Had forward collision assist (turned on by default at engine start) turned on. When entering an intersection, vehicle stopped short to a full stop right in front of a metal plate on the road in the intersection. Had there been a vehicle behind me, the system may have needlessly caused a collision.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11440068,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/10/2021",
+      "dateComplaintFiled": "11/10/2021",
+      "vin": "3VW447AU4JM",
+      "components": "TIRES",
+      "summary": "UNKNOWN  We have Hankook Ventus S1 Noble 2   225/40R18 tires on our 2018 VW GTI that came OEM, and are the same on the car as when we took possession of the car from the dealer in 2018. The front right tire, has two substantial cracks and one section where a more open gap occurred in the exterior sidewall. In this latter section, it is very near the tire's tread. We have less than 14,000 miles on this vehicle, as we are retired and did not drive much to begin with, but even less after the Pandemic occurred.   Additional Details (below) - I first saw the tire issues on 11/10/2021, but the tire has not yet failed. Per Hankook's earlier recall, I am concerned that the cracks/opening are precursors to failure while in use.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        },
+        {
+          "type": "Tire",
+          "productYear": "9999",
+          "productMake": "HANKOOK",
+          "productModel": "VENTUS S1 NOBLE 2",
+          "size": "225/40R18 88W",
+          "manufacturer": "Hankook Tire America Corp."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11413606,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/22/2021",
+      "dateComplaintFiled": "04/23/2021",
+      "vin": "3VWG17AU4JM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "TRIM ON CENTER CONSOLE ABOVE SHIFTER AND BELOW CENTER CUBBY IS RAZOR SHARP AND HAS CUT MY HAND DEEPLY TWICE WHILE PARKED AND CLEANING INTERIOR SINCE PURCHASING THE CAR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11395424,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/08/2021",
+      "dateComplaintFiled": "02/09/2021",
+      "vin": "3VWH17AU9JM",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "AUTOMATIC EMERGENCY BRAKING SYSTEM ENGAGES WITHOUT CAUSE OR WARNING.  AT BOTH SLOW AND MODERATE SPEEDS WITH NO OBSTACLE IN FRONT OF CAR.  RISK OF CAUSING A REAR-END ACCIDENT VERY HIGH.  DEALERSHIP RAN DIAGNOSTIC AND FOUND NOTHING.  RECOMMENDS DISABLING SYSTEM IF ISSUE PERSISTS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11390636,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/03/2020",
+      "dateComplaintFiled": "01/29/2021",
+      "vin": "3VW447AU4JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "RIGHT FRONT (PASSENGER) SIDE HAS A VERY LOUD CONSISTENT RATTLING NOISE AT AROUND 2000-3500 ENGINE RPM RANGE. READING ALONE AND CONFIRMING WITH OTHER OWNERS OF THE SAME VEHICLE, IT IS A LOOSE FUEL LINE GOING UNDER THE FRONT PASSENGER SIDE RATTLING AGAINST THE CHASSIS. COULD BE A HIGH RISK, NOT SURE, CHECK AND ADVISE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11385067,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/26/2020",
+      "dateComplaintFiled": "12/26/2020",
+      "vin": "3VW447AU2JM",
+      "components": "SUSPENSION,POWER TRAIN,LANE DEPARTURE",
+      "summary": "SO WHAT HAPPEN WAS EVER SINCE I GOT MY 2018 GOLF GTI AUTOBAHN DSG, I'VE EXPERIENCED ISSUES WITH THE TRANSMISSION, IT JERKS WHEN SLOWING DOWN FROM 2ND GEAR TO FIRST AND SOMETIMES FROM 4TH THROUGH 1ST. I TOOK IN THE CAR TO THE DEALERSHIP AND THEY SAID NOTHING WAS WRONG I TOOK IT TO THEM MULTIPLE TIMES AND THEY STILL SAID NOTHING IS WRONG HOWEVER I HAVE SHOWED THEM PROOF THAT THERE IS SOMETHING WRONG WITH THE CAR, I HAVE A SCANNER TOOL AND IT SHOWS THAT I HAVE MULTIPLE CODES FOR TRANSMISSION AND OTHER STUFF AS WELL. THE CAR HAS 7600 MILES WHICH IS BASICALLY BRAND NEW CONSIDERING ITS 2YRS OLD. ALSO WHEN REVERSING THE TRANSMISSION MAY DISENGAGE REPEATEDLY, THIS HAPPENS MOSTLY WHEN REVERSING ON AN INCLINE, HOWEVER THE INCLINE IS AS LITTLE AS 1.5-2%.THE LANE DEPARTURE KEEP FEATURE IS DANGEROUS, LET ME EXPLAIN WHY. WHEN DRIVING ON A ROAD THAT DOESN'T HAVE VISIBLE LINES THE SYSTEM MAY JERK THE STEERING WHEEL HARD TO ONE SIDE DEPENDING ON ROAD CONDITIONS, IF A DRIVER DOESN'T HAVE A GOOD GRIP OF THE STEERING WHEEL, THERE IS A HIGH RISK OF A CRASH. THE SUSPENSION IN THIS CAR IS AMAZING BUT WHEN IT WAS NEW, NOW IT FEELS LIKE THE CAR HAS NO STABILITY AND DOES NOT ABSORB BUMPS IN THE ROAD.MY 2013 TOYOTA COROLLA LE DOES A BETTER JOB AT ABSORBING BUMPS THAN MY 2018 GTI WITH ADAPTIVE DAMPENING. MY CAR USED TO FEEL LIKE A SUPER EXPENSIVE MERCEDES-BENZ OR BMW WHEN IT CAME TO SUSPENSION COMFORT BUT NOW ITS JUST NOT THE SAME AT ALL.SO THE OTHER DAY THIS CRAZY DRIVER SLAMMED ON HIS/HERS BRAKES AND THE AUTOMATIC BRAKING SYSTEM ENGAGED WHICH IS GOOD CAUSE NO ACCIDENTS HAPPENED, HOWEVER THE CAR HAD A HARD TIME ACCELERATING AFTER, IT FELT LIKE THE FRONT BRAKES WERE STILL ENGAGED, BUT AFTER 1 LONG MINUTE THE CAR STARTED MOVING AGAIN NORMALLY UNTIL YOU TRY TO REVERSE AND THEN IT STARTED JERKING REPEATEDLY WHILE GOING IN REVERSE.THIS CAR NEEDS TO BE RECALLED ESPECIALLY THE 6 SPEED DSG TRANSMISSION",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11384548,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/21/2020",
+      "dateComplaintFiled": "12/22/2020",
+      "vin": "3VW447AU6JM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "COOLANT LEAK NOTICED UNDERNEAT THE ENGINE. IT RUN DOWN TO THE OIL PAN DRIPPING ON THE DRIVE WAY. TOOK THE CAR TO THE DEALERSHIP FOR DIAGNOSIS. THEY SAID LEAK IS COMING FROM THE THERMOSTAT HOUSING. MILEAGE IS NOW 73700. VW POWERTRAIN WARRANTY COVERS UP TO 72000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11281526,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/13/2019",
+      "dateComplaintFiled": "11/21/2019",
+      "vin": "3VWB17AU0JM",
+      "components": "STRUCTURE",
+      "summary": "IMMEDIATELY AFTER BEGINNING TO LEAVE WORK ON NOVEMBER 13, 2019, I NOTICED THE SUNROOF ON MY 2018 VW GOLF WAS SHATTERING AND CRUMBLING AWAY, STARTING TOWARD THE FRONT AND CENTER OF THE SUNROOF. THE INITIAL BREAK MUST HAVE OCCURRED EITHER AS IT WAS SITTING IN THE PARKING LOT AT WORK, OR IMMEDIATELY AFTER BEGINNING TO DRIVE, AT NO MORE THAN 20MPH, BECAUSE I NOTICED IT ON THE DRIVEWAY LEADING AWAY FROM MY WORKPLACE. THE WEATHER WAS ABOUT 30 DEGREES FAHRENHEIT WITH NO PRECIPITATION AND THERE WAS NO ROAD DEBRIS INVOLVED. OVER THE NEXT FEW DAYS, I TRIED TO LIMIT MY USE OF THE CAR (I SECURED A RENTAL CAR THROUGH MY INSURANCE FOR A FEW DAYS) BUT THE AREA OF BROKEN GLASS EXPANDED SIGNIFICANTLY ANYWAY. TO DATE, VW HAS NOT ACCEPTED ANY RESPONSIBILITY FOR THIS UNDER WARRANTY EVEN THOUGH THE CAR WAS BOUGHT NEW, I AM THE ONLY OWNER, AND IT ONLY HAD ABOUT 20,300 MILES ON IT AT THE TIME OF THE INCIDENT. THEY SUGGESTED I GO THROUGH MY INSURANCE FOR THE REPAIR. THE REPAIR IS IN PROGRESS BUT I AM TOLD BY THE GLASS SHOP THAT IS HANDLING IT THAT ONE OF THE TWO SUNROOF ACTUATORS ACTUALLY APPEARS DAMAGED BY THE FLEXING AND BREAKING OF THE GLASS AND THIS IS MAKING IT DIFFICULT TO REMOVE THE ORIGINAL SUNROOF PANEL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11269976,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/20/2019",
+      "dateComplaintFiled": "10/21/2019",
+      "vin": "3VWM17AU8JM",
+      "components": "STRUCTURE,VISIBILITY/WIPER",
+      "summary": "WATER LEAK FROM THE PANORAMIC ROOF. HEADLINER AND A PILLAR IS WET AND WILL BE REPLACED. WINDSHIELD FOGGED AND HAD CONDENSATION.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11265296,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2019",
+      "dateComplaintFiled": "10/01/2019",
+      "vin": "3VWH17AU2JM",
+      "components": "STRUCTURE",
+      "summary": "PANORAMIC MOONROOF LEAKING AROUND EDGES AND STAINING HEADLINER AND UPHOLESTRY",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11220197,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/28/2018",
+      "dateComplaintFiled": "06/14/2019",
+      "vin": "3VWB17AU2JM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "TL* THE CONTACT OWNS A 2018 VOLKSWAGEN GOLF. ON SEVERAL OCCASIONS, WHILE DRIVING, THE VEHICLE ACCELERATED WITHOUT WARNING. THE CONTACT TOOK THE VEHICLE TO SUNTRUP VOLKSWAGEN (LOCATED AT 6000 S LINDBERGH BLVD, ST LOUIS, MO 63123, (314) 892-8200) FOUR TIMES, BUT THEY WERE UNABLE TO DUPLICATE THE FAILURE. DIAGNOSTICS REVEALED A FAULTY VALVE, WHICH WAS REPLACED. THE VEHICLE WAS NOT REPAIRED. THE CONTACT ALSO STATED THAT THE VEHICLE WOULD ALSO ACCELERATE WHILE ON AN INCLINE. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 16,000. *BF  CONSUMER STATED VOLKSWAGEN IS UNDER NO OBLIGATION TO HONOT THEIR WARRANTY AS LONG AS THEY MAINTAIN THAT MY CAR IS OPERATING NORMALLY.   'PARTS OF THIS DOCUMENT HAVE BEEN REDACTED TO PROTECT PERSONALLY IDENTIFIABLE INFORMATION PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).'*JB",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11185500,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/01/2018",
+      "dateComplaintFiled": "03/09/2019",
+      "vin": "3VWH17AU5JM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "AFTER CAR HAS BEEN DRIVEN LONG ENOUGH TO BE COMPLETELY WARMED UP AND THEN PARKED, ON RE-ENTERING THE CAR AND BEFORE STARTING IT, THERE IS A STRONG ODOR OF GASOLINE NOTICEABLE TO THE DRIVER AND FRONT-SEAT PASSENGER. ONCE THE ENGINE HAS BEEN STARTED AND THE VENTILATION FAN HAS RUN, THE ODOR DISSIPATES; THE ODOR IS NOT COMING THROUGH THE VENTILATION SYSTEM. THE DEALER'S SERVICE DEPARTMENT FOUND ONE ENGINE FUEL LINE CONNECTION WHICH APPEARED TO BE LEAKING AND REPLACED THAT FUEL LINE, BUT THE PROBLEM REMAINS. THIS HAS BEEN AN ONGOING PROBLEM STARTING SHORTLY AFTER WE BOUGHT THE CAR IN JULY 2018.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11183961,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/20/2019",
+      "dateComplaintFiled": "03/04/2019",
+      "vin": "3VWH17AU6JM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "LESS THAN ONE YEAR INTO OWNERSHIP, THE CAR HAS EXPERIENCED A PANORAMIC SUNROOF LEAK ON BOTH THE DRIVERS SIDE AND PASSENGER SIDE FRONT AREA NEAR THE A-PILLAR AND THE SUNVISOR. THERE HAVE BEEN MULTIPLE REPORTED INCIDENTS ALL OVER VARIOUS SOURCES ON THE INTERNET. THE SUNROOF, VISOR AND DOME LIGHT AREA IS EXACTLY THE SAME DESIGN AS THE 2018 TIGUAN THAT HAS NOW BEEN RECALLED DUE TO SUNROOF LEAKS CAUSING SHORT CIRCUITS ON THE DOME LIGHT THUS CAUSING A FIRE. THE FEAR WE HAVE IS THAT THIS IS A LOW VOLUME CAR SO IT'S NOT GETTING THE SAME EXPOSURE VS. THE TIGUAN WHICH IS A HIGH VOLUME CAR AND MANY MORE ARE ON THE ROAD. IN ADDITION, THIS FOLLOWS-UP ON SEVERAL COMPLAINTS MADE OF THE SAME ISSUE ON THE 2017 ALLTRACK MODEL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11183564,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2019",
+      "dateComplaintFiled": "03/01/2019",
+      "vin": "WVWWF7AU6JW",
+      "components": "SERVICE BRAKES",
+      "summary": "THE \"FRONT ASSIST\" SYSTEM ON A 2018 VW GOLF R IS PRONE TO MAKING UNSAFE ABRUPT STOPS IN TRAFFIC.    IF A LEADING CAR MAKES AN ABRUPT STOP, THE FRONT ASSIST SYSTEM APPLIES INSTANT HEAVY BRAKING EVEN WHEN THE DRIVER IS ALREADY BRINGING THE CAR TO A SMOOTH STOP AT A SAFE DISTANCE.  THIS DOUBLE-BRAKING RESULTS IN UNEXPECTED SKIDDING AND RISKS A REAR-END COLLISION WITH FOLLOWING CARS.    THE MANUAL OVERRIDE TO FRONT ASSIST IS PRESSING HARD ON THE GAS PEDAL.  THIS ACTION CAN'T BE PERFORMED WHEN THE DRIVER IS ALREADY BRINGING THE CAR TO A STOP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11181349,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/20/2019",
+      "dateComplaintFiled": "02/20/2019",
+      "vin": "3VWG17AUXJM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "OVER TIME, A BUILD-UP OF SILICATE ON THE SHIFT LEVER MICRO SWITCH CONTACTS CAN MAKE IT POSSIBLE TO REMOVE THE KEY FROM THE IGNITION SWITCH WITHOUT THE SHIFT LEVER BEING IN THE \"P\" PARK POSITION. THIS MAKES THE VEHICLE NONCOMPLIANT WITH 49 CFR 571.114 STANDARD NO. 114 THEFT PROTECTION AND ROLLAWAY PREVENTION. IF THE IGNITION KEY IS REMOVED WITHOUT THE SHIFT LEVER BEING IN THE \"P\" PARK POSITION, THERE IS A RISK THAT THE VEHICLE MAY ROLL AWAY, RESULTING IN A CRASH THAT COULD INJURE PEOPLE AND DAMAGE PROPERTY.    RECALL STILL NOT FIXED PARTS SUPPOSED TO BE AVAILABLE BEGINNING OF JANUARY VW HAS STILL NOT RELEASED",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11128345,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/09/2018",
+      "dateComplaintFiled": "09/09/2018",
+      "vin": "3VW447AU1JM",
+      "components": "SERVICE BRAKES",
+      "summary": "I HAD TO BRAKE HARD AS THE PERSON IN FRONT OF ME ON THE OFFRAMP STOPPED SHORT. I THINK SOMEONE CUT THE DRIVER IN FRONT OF ME OFF, OR PEOPLE WERE JUST HAVING TROUBLE MERGING. THE ANTI-LOCK BRAKES DID NOT WORK, THE CAR FISH-TAILED FROM RIGHT TO LEFT. I LET UP ON THE BRAKES AND THE CAR STRAIGHTENED OUT AND I DIDN'T GET KILLED BUT IT WOULD HAVE BEEN A BAD ACCIDENT. THANKFULLY THE GUY BEHIND ME WAS ABLE TO STOP. THIS IS A CAR I BOUGHT LAST WEEK. THERE IS SOMETHING WRONG WITH THE BRAKES. EVEN MY 10 YEAR OLD CAR WOULD HAVE ACTIVATED ANTI-LOCK.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11110481,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/10/2018",
+      "dateComplaintFiled": "07/10/2018",
+      "vin": "3VW447AU0JM",
+      "components": "ENGINE",
+      "summary": "AFTER RESTARTING HOT ENGINE AFTER A BRIEF STOP, CAR MIGHT STUMBLE DURING FIRST ATTEMPT TO ACCELERATE, FOR EXAMPLE TRYING TO ENTER TRAFFIC FROM A PARKING LOT.  THIS HAS HAPPENED SEVERAL TIMES AND HAS BEEN CAUSE FOR ALARM. THE ENGINE IS RUNNING BUT FEELS AS IF IT IS NOT.  THIS IS NOT NORMAL TURBO LAG AND THE PROBLEM CLEARS AFTER THE FIRST INSTANCE.  I REPORTED THIS TO THE DEALER AND THEIR RESPONSE IS THAT THEY CAN'T DUPLICATE AND THERE ARE NO DIAGNOSTIC CODES SET.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2018",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    }
+  ]
+}

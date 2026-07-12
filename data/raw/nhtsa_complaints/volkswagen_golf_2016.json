@@ -1,0 +1,1883 @@
+{
+  "count": 85,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11742727,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/27/2026",
+      "dateComplaintFiled": "06/08/2026",
+      "vin": "3VW217AUXGM",
+      "components": "AIR BAGS",
+      "summary": "I am reporting a severe safety system failure regarding the airbag deployment force on a 2016 Volkswagen Golf SE. The vehicle was involved in a collision where the frontal/side air bag safety systems engaged. While the impact speed was moderate, the airbag deployment was violently disproportionate, resulting in severe, direct injuries to the occupant rather than providing the intended safety cushioning or protection. The force of the deployment appeared heavily uncalibrated, acting as a primary source of trauma rather than an emergency restraint. In contrast, the secondary vehicle involved in the identical impact matrix sustained similar property damage but experienced a completely stable, non-injurious environment with no air bag enaged at all. I am requesting that NHTSA review this incident against existing vehicle data logs for 2016 Volkswagen Golf models to determine if there is an active trend of excessive pyrotechnic deployment force or uncalibrated SRS module sensors.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11688624,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/19/2025",
+      "dateComplaintFiled": "09/20/2025",
+      "vin": "3VW217AU2GM",
+      "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "The EPC light has luminated 3 times in the last several months.  The vehicle stutters and will not accelerate past 25 MPH.  Shutting off the engine and restarting it clears the light and vehicle drives normally.  The check engine light does not illuminate and no OBDII codes are stored.  Manual states to take vehicle to authorized dealership for diagnosis if light stays illuminated.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11656404,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/23/2025",
+      "dateComplaintFiled": "04/23/2025",
+      "vin": "3VW217AU4GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I was driving my vehicle on the highway when a driver stopped me and warned me that my vehicle was leaking a huge amount of gasoline. I had a technician inspect the car to see if it might be a fuel line, the technician told me the fuel.lines were good and there were no signs of the gas coming from the lines and no cracks on the tank either. I received a letter from Volkswagen about the recall and I researched it and it says that if that is the problem the car would be leaking gas and it was dangerous as an ignition might cause a fire. I towed my vehicle to the Volkswagen here in Laredo after calling and speaking to someone from service and told yes I could bring it in and the recall part would be replaced free but I would have to leave the vehicle there. When I arrived they told me I would have to pay a diagnostic of 185 dlls and the repair. Which was not what I was told when I called earlier. So I had to pay again to have the vehicle removed from the premises without having the recall part changed.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11627766,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/25/2024",
+      "dateComplaintFiled": "11/27/2024",
+      "vin": "3VW217AU8GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Car began spraying fuel upon turning the key in the ignition. Recall work pertaining to the suction jet pump was recently performed and is the only likely cause of this issue. Car did not leak when fuel pump was disengaged. Very lucky that issue occurred in a parking lot while not moving and did not lead to a fire or crash.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11623672,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/25/2024",
+      "dateComplaintFiled": "11/05/2024",
+      "vin": "3VW217AU6GM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "My EPC light began to appear randomly in early 2024. I received a recall notice on the gear shift trim around the same time, so called Jack Ingram VW in Montgomery to schedule a time for them to fix it (and also ensure they had the part). I asked them to also check on why the EPC light was coming on. Brought in my car on 2/28/24. Service Dept then tells me they weren't sure what was causing the EPC light to come on, and they didn't have the gear shift trim part. They quoted me a lot of work to do, which I wasn't prepared financially to have completed. EPC light continued to appear at random. Each time it did, my car would shake and it would feel like I was losing control of the vehicle. I received another recall notice for the suction jet pump inside the fuel tank. When I called Jack Ingram VW to schedule this work, I asked if this had anything to do with my EPC light coming on. They weren't sure. The recall work for both the suction jet pump inside the fuel tank and the gear shift trim were completed on 8/28/24. Car worked fine until about a month later and the EPC light came on again. Called another VW mechanic in Montgomery (Powell's Automotive) to see if they can fix it. On 9/20/24 they replaced battery, spark plugs, ignition coil, and did an oil change. Worked great until [XXX] when my engine failed and left me stranded in the road. There were no warning lights prior to the engine failing. Could not restart car. Had it towed to Powell's who could not fix it, then to Jack Ingram VW. I asked them if this had anything to do with the recall work that was done. They said this would be the first if it was. They told me the in tank fuel pump needed replacing. Work completed 10/25/24. How can they work on the suction jet pump inside the fuel tank and not get a diagnostic that the in tank fuel pump was failing? I've already paid a lot of money to try to resolve the issue, and my EPC light is still coming on.  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11598685,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/01/2024",
+      "dateComplaintFiled": "07/03/2024",
+      "vin": "3VW217AU9GM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2016 Volkswagen Golf. The contact received notification of NHTSA Campaign Number: 24V110000 (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. The contact stated while starting the vehicle, there was an abnormally strong fuel odor inside the vehicle. The vehicle was taken to the dealer, where it was diagnosed that the fuel tank suction jet pump had failed, causing damage to the fuel tank. The vehicle was not repaired. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the failure, but no assistance was provided. The failure mileage was 36,018. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11594770,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/15/2024",
+      "dateComplaintFiled": "06/17/2024",
+      "vin": "3VW217AUXGM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2016 Volkswagen Golf. The contact stated there was fuel leaking from the charcoal canister. The contact received notification of NHTSA Campaign Number: 24V110000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the failure. The failure mileage was approximately 41,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11590634,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/23/2024",
+      "dateComplaintFiled": "05/24/2024",
+      "vin": "3VW447AU9GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "We are unable to fill up the gas tank due the recall issue. The dealership says we can bring it in and they will repair but at this time we would have to pay for the repair. VW has not come up with a fix for the recall problem at this time. This problem has rendered our vehicle not drivable. What is the recourse?   Fuel also leaks out when trying to fill the gas tank. It could start a fire.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11588794,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/24/2024",
+      "dateComplaintFiled": "05/14/2024",
+      "vin": "3VW5T7AU1GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "My vehicle is leaking fuel.  I have been unable to drive it for a few weeks due to the recall not having an approved repair.  The dealership did not offer me any solution other than to pay for the repair out of pocket.  This has been a known issue since February and no remedy is available from Volkswagen.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11586168,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2024",
+      "dateComplaintFiled": "04/30/2024",
+      "vin": "3VW217AU5GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "When refueling, the gasoline spills out and can't fill the tank. Took the car to the dealer and they are asking for 2,500$ for repair.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11581003,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2024",
+      "dateComplaintFiled": "04/03/2024",
+      "vin": "3VW4T7AU5GM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "I have had this car since 2021, when I first bought it they had to keep it for another week due to a coolant break error? Had to fix it but later on I had to put tons of money into the car almost more money than it’s worth. And I’ve had a engine light on religiously for the entirety of the car, however my cars engine lights flash at times when I am driving and it gets hard to accelerate and reeks of gas- I’ve given up on dealerships because they have done everything else but what I have asked them to do and I still leave and the engine light turns on after. I did some research and learned my car has a recall since 2/14/2024 and I’ve had no update on my vehicles recall or if it’s repairable. My car will refuse to start at times and I’ve told this dealership this car will most likely kill me since I’ve put so much money into it for nothing to be fixed? And if it’s been this recall error what do I do? Please help me bought from Allen web Mitsubishi. All the symptoms are there but I’m scared",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11577026,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/02/2023",
+      "dateComplaintFiled": "03/12/2024",
+      "vin": "3VW4T7AUXGM",
+      "components": "ELECTRICAL SYSTEM,STRUCTURE",
+      "summary": "My VW golf has experienced rear door lock issues where both rear dock locks no longer work (lock or unlock) when pressing the lock button on the key or inside the vehicle. The only way to get the doors to lock is by manually locking the doors via a little slot in the door sill on each side. While it can be unlocked internally by just pulling the handle one time. This is a safety issue as door locks are a necessity for a vehicle to prevent theft of vehicle or items inside. It can also cause safety concerns for passengers in the rear(which is usually children. This also poses a danger to children due to the ease of unlocking from inside the rear passenger seats. The problem was confirmed to be the rear door latches via a dealer on 2/23/2024, however after replacing both latches with new parts, nothing was resolved. This issue is not the first time, as it is known that VW locks and many electrical components may randomly stop working, I have experienced the issue with a previous Volkswagen vehicle as well (2009 VW Jetta). There are no warning lights on the dashboard or other signs of the failure.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11571071,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/01/2024",
+      "dateComplaintFiled": "02/09/2024",
+      "vin": "3VW217AUXGM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2016 Volkswagen Golf. The contact stated while driving approximately 35 MPH, there was an abnormally strong gasoline odor in the cabin of the vehicle. The contact drove to the residence and became aware that there was a puddle of gasoline under the passenger’s side rear wheel nearby the fuel tank. The contact stated no warning light was illuminated. The contact had the vehicle towed to a local dealer, where it was diagnosed and determined that the fuel tank needed to be replaced. The vehicle was not repaired. The manufacturer was informed of the failure. The failure mileage was approximately 41,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11568365,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/28/2024",
+      "dateComplaintFiled": "01/28/2024",
+      "vin": "3VW4T7AU2GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I have a leak in my trunk from water leaking from my pressure valve in the rear of my car.   Found that this is a common issue with my car. The seal around the pressure valve doesn't prevent water from entering into the trunk of my car.  I got a flat tire on the highway and opened the hatch to get my spare and there was water flooded there and it rusted my spare tools. I could not put on my spare tire.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11556624,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/23/2023",
+      "dateComplaintFiled": "11/24/2023",
+      "vin": "3VW5T7AU1GM",
+      "components": "ENGINE",
+      "summary": "GFF TEST PLAN ON STORED ENGINE LIGHT. RECOMMEND REPLACING THERMOSTAT HOUSING CAUSING THE CHECK ENGINE LIGHT. RECOMMNED REPLACE THERMOSTAT HOUSING. SEEP/SLIGHT COOLING LEAK. ADVISED TO WATCH COOLANT LEVELS UNTIL FIXED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11549709,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/12/2023",
+      "dateComplaintFiled": "10/12/2023",
+      "vin": "3VW217AU2GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "After parking car and turning off engine, I exited vehicle and noticed a cascade of fuel falling to the pavement by the rear wheel near the fuel tank. Fire Department was called as I was in a public parking lot. Vehicle was towed to dealer.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11544872,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/15/2023",
+      "dateComplaintFiled": "09/16/2023",
+      "vin": "3VW4T7AU9GM",
+      "components": "WHEELS",
+      "summary": "aftermarket/replacement rim purchased from CAR-ID in May 2023 and installed on vehicle in May 2023. On September 15, 2023, wheel/rim suffered a total and catastrophic failure. The wheel/rim face separated from the rest of the rim while driving.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        },
+        {
+          "type": "Vehicle",
+          "productYear": "9999",
+          "productMake": "TBD",
+          "productModel": "TBD",
+          "manufacturer": "ODI Demo Co"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11539859,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/21/2023",
+      "dateComplaintFiled": "08/21/2023",
+      "vin": "3VW4T7AU2GM",
+      "components": "EXTERIOR LIGHTING,STRUCTURE",
+      "summary": "The headlight assembly design, prevents owners from changing a light bulb own their own. Per the law, a car must have functioning headlights. The design on the HID headlight assembly, requires hours of work, removing the bumper, the grill, other parts that require many tools and skilled knowledge of the brand.  Considering this is a headlight that is required to be street legal, an owner can't change the bulb in emergencies. An owner must wait for an appointment with a dealer or certified Volkswagen mechanic with  the proper training to change a light bulb. Regulation should prevent such designs, as the current design can make it dangerous for the driver.   Just as when a driver needs to change a tire that's flat, and use the spare, a light bulb is just as critical to prevent accidents.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11530543,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/25/2023",
+      "dateComplaintFiled": "07/05/2023",
+      "vin": "3VW447AU0GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "My vehicle is unable to fuel up, when attempting to fuel at the pump the fuel will build up in the filler neck causing the pump ti stop and fuel spill out from the filler neck and when driven, fuel will begin to leak from the EVAP canister located on the right rear of the vehicle.  Dealership is unwilling to correct this issue as it is a known issue to them of the problem",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11529540,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2023",
+      "dateComplaintFiled": "06/29/2023",
+      "vin": "3VW447AU3GM",
+      "components": "ENGINE",
+      "summary": "Thermostat and Gasket repair quoted by VW dealership. The coolant is leaking according to their inspection.   Car could malfunction unexpectedly and leave me stranded as a road hazard  Many more claims in this thread. They quote $1,600 to repair.  https://www.reddit.com/r/GolfGTI/comments/drna5m/mk775_thermostat_housing_issue_and_coolant_loss/",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11524045,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/26/2023",
+      "dateComplaintFiled": "05/26/2023",
+      "vin": "3VW4T7AUXGM",
+      "components": "ENGINE",
+      "summary": "Dealer found thermostat housing leak and recommended housing and pump replacement at a cost of over $2K. Thermostat is housing leak could cause loss of coolant which could strand you in the middle of the road. There were no warning lamps active. This appears to be a common issue with these vehicles. The thermostat should not be having problems like this at this mileage. The component has not been inspected by insurance, manufacturer, or police, only the dealer.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11521624,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/10/2023",
+      "dateComplaintFiled": "05/11/2023",
+      "vin": "3VW217AU8GM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,FORWARD COLLISION AVOIDANCE",
+      "summary": "Airbag light came on, then all electrics to steering wheel failed, including the horn. Clock spring failed. Safety issue with no airbag and no horn. Known that VWs have a problem with clock spring failure. Should be a recall.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11517819,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/15/2023",
+      "dateComplaintFiled": "04/19/2023",
+      "vin": "3VW547AU1GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Fuel was found to be leaking from the rear passenger side wheel well.  A secondary flame source could cause a significant fire risk.  Issue is being investigated by local VW dealer.  There are no warning lamps or messages prior to the failure.  Dealer recommends a replacement of the charcoal filter and N80 valve in order to have the ability to test the fuel pressure and fuel pump.  My particular VIN number is not part of an existing recall on the fuel pump where fuel leak, bad charcoal canister, and N80 valve are symptomatic (secondary failures) of a bad fuel pump (primary failure).  I question if the parts under the existing recall should be expanded to include a larger population.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11514895,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/31/2023",
+      "dateComplaintFiled": "04/01/2023",
+      "vin": "3VW217AU9GM",
+      "components": "UNKNOWN OR OTHER,VISIBILITY/WIPER",
+      "summary": "While driving down the highway around 60 mph, nowhere near any other vehicles or pedestrians, the sunroof spontaneously shattered. The break goes outward/upward from the cabin.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11511460,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/12/2023",
+      "dateComplaintFiled": "03/12/2023",
+      "vin": "3VW217AU3GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Sunroof Frame Cracked. Leaky sunroof. Drains are cleaned. A pillars get wet where airbags and wiring are located. Could cause a short.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11510372,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/04/2023",
+      "dateComplaintFiled": "03/06/2023",
+      "vin": "3VW217AU9GM",
+      "components": "SUSPENSION",
+      "summary": "While accelerating from a traffic light, loud bang from left rear corner of car. Investigation found left rear coil spring had broken at the lower bas of the spring where it contacts the lower control arm",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11509371,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/27/2023",
+      "dateComplaintFiled": "02/27/2023",
+      "vin": "3VW547AU3GM",
+      "components": "ENGINE",
+      "summary": "The vehicle overheated during normal driving. The car advised the driver to stop immediately. The car was inspected later the same day by a VW dealer service department that determined the water pump and thermostat housing required replacement. Estimated cost is $1400.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11507592,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/04/2023",
+      "dateComplaintFiled": "02/16/2023",
+      "vin": "3VW217AU2GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "The sunroof leaks water into the passenger side A pillar",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11505133,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/05/2022",
+      "dateComplaintFiled": "02/02/2023",
+      "vin": "3VW117AUXGM",
+      "components": "AIR BAGS",
+      "summary": "The contact owns a 2016 Volkswagen Golf. The contact received notification of the NHTSA Campaign Number: 22V543000 (Air Bags) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. Additionally, the contact mentioned that a recall notice was received confirming the remedy was available and to contact a local dealer however, the dealer informed that the part was not available for the recall remedy. The manufacturer was notified of the issue and confirmed that parts were unavailable. The contact had not experienced a failure. Parts distributions disconnect.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11504539,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/09/2023",
+      "dateComplaintFiled": "01/30/2023",
+      "vin": "3VW547AU7GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Fuel leaking and pooling from the rear right tire well. Tire well saturated with fuel. Occurs after engine hesitation at high speeds, similar to running out of gas. Opening the gas cap causes some fuel splashing around the opening and gurgling and hissing sounds. Difficulty re-fueling after incident, gas pump keeps shutting off. Fuel siphon pump was tested, and vehicle has been inspected by dealership, problem is not reproducible on demand. No warning lamps turn on.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11503331,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/07/2022",
+      "dateComplaintFiled": "01/24/2023",
+      "vin": "3VW217AU7GM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,VEHICLE SPEED CONTROL",
+      "summary": "First, the airbag warning light came on, then followed by the horn not working and cruise control was lost. I also suspecting the power steering is also gone. This is related to the clock spring failure from my research online. This should have been recall because this is a safety hazard.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11502623,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/19/2023",
+      "dateComplaintFiled": "01/19/2023",
+      "vin": "3VW447AUXGM",
+      "components": "STRUCTURE",
+      "summary": "Front passenger door opened on its own with a bang while making a left turn. Driving alone, passenger door had been securely locked for over a week, during left turn going 25 mph, a loud banging sound occurred, passenger door opened and indicator warning light in dash came on. Door opened approx 1 cm. Car is not safe to drive for fear of door opening again randomly. VW of America nonchalantly stated they are sorry my door opened and stated they would not cover any potential repairs.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11497479,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/14/2022",
+      "dateComplaintFiled": "12/14/2022",
+      "vin": "3VW5T7AU5GM",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,SERVICE BRAKES",
+      "summary": "Vehicle exhibits multiple electrical and systems faults related to the airbags, TMPS, ABS, etc, as similarly described in 07/26/2019 Volkswagen Technical Tip 97-1902TT.  Vehicle interior and sunroof tray is wet in various places.  These issues raise concerns as they relate to safety and drivability.  Upon inspection, the plastic sunroof tray is apparently cracked in multiple places as described in 12/06/2016 Volkswagen TSB 2045403 (supersedes V601608 November 22, 2016) and referenced again in Volkswagen Update 60C7.  According to dealership records, the sunroof tray was claimed repaired per Volkswagen Update 60C7. This does not seem to be true.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11490211,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/08/2022",
+      "dateComplaintFiled": "10/20/2022",
+      "vin": "3vw5t7au9gm",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Fuel leaking and pooling from the rear right tire well. Tire well saturated with fuel.  Occurs after engine hesitation at high speeds, similar to running out of gas.  Opening the gas cap causes some fuel splashing around the opening and gurgling and hissing sounds.  Difficulty re-fueling after incident, gas pump keeps shutting off.  Fuel siphon pump was tested, and vehicle has been inspected by dealership, problem is not reproducible on demand.   No warning lamps turn on.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11488155,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/23/2022",
+      "dateComplaintFiled": "10/06/2022",
+      "vin": "3VW117AU0GM",
+      "components": "AIR BAGS",
+      "summary": "Takata recall. The contact owns a 2016 Volkswagen Golf. The contact received notification of NHTSA Campaign Number: 22V543000 (Air Bags) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The dealer was made aware of the issue and confirmed that parts were not yet available. The manufacturer was not made aware of the issue. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11484279,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/07/2022",
+      "dateComplaintFiled": "09/13/2022",
+      "vin": "3VW217au1gm",
+      "components": "SUSPENSION",
+      "summary": "While driving car on highway heard a loud boom from rear right side. Stopped car and inspected, but no obvious damage. Resumed driving, and began hearing a repeated squeaking noise and some body lean in corners. Took vehicle to tire shop, where they removed right rear tire and found the right rear spring had snapped at the mounting location near the top of the spring. The attached photo of the spring suggests the mount may have been defective. Dealer confirmed spring damage and is now replacing both rear springs. However, no coverage of the damaged part even though multiple 2016 VW Golf’s have been recalled for rear spring issues.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11482782,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/02/2022",
+      "dateComplaintFiled": "09/03/2022",
+      "vin": "3VW117AU9GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "At 80. 7k miles the car began to smell heavily of gasoline and I found gasoline leaking from the back right bumper just in front of the tire. I took the car to the dealership the next day and today they've told me that it could be a number of parts but what we have on order is the evap canister and the n80 purge valve. If this does not fix it then it is the entire gas tank, very expensive. There were no warning lamps and this issue was reproduced at the dealership. They've told me there's no recalls or warranties but I have read that many other people in the local VW group have had this issue. Volkswagen needs to own up to their previous emissions hang-ups.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11482655,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/13/2022",
+      "dateComplaintFiled": "09/02/2022",
+      "vin": "3VW217AU7GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I was driving my 2016 Volkswagen Golf on a roadtrip from Pennsylvania to  North Carolina on 8/13.  I did the 60k mile service and had my mechanic do a safety check before the roadtrip.    I spent the night of 8/13 in Richmond, VA.  I went to put gas in the car the next day and it was not taking the gas instead it was propelling it out of the car.  The gas station attendant managed to get some gas in the tank and chalked it up to the new pumps. I stopped in NC to get more gas and none would go in.  I noticed there was gas coming out of the car on the passenger side, right behind the rear tire.  I had to get the car towed to my destination in NC.   A dealer in NC looked at the car and diagnosed that there was a problem with the evap system.  They tried this \"to start with the remedy of the fuel issue on the golf we will need to start by replacing  the  charcoal canister -AND LDP valve (one unit)  N80 purge valve.  Now if it came down to replacing that fuel tank (a rough idea) there may be some additional parts we could need with replacement of the tank because it is an updated unit compared to the original. that is a big job, the rear subframe does need to be removed and in doing so the car will need to be aligned afterwards. you could be looking at an additional...\"   At no part in the journey were there any warning lights that indicated something was wrong with the car.    Others here have pointed out that there was a recall for the EVAP system for this model and year of car. https://auto-recalls.justia.com/volkswagen/gti/2016/16v647000/  Like others I called VW Customer Care and they told me that my vehicle was not covered under any current recall and they would not confirm the 2016 recall happened at all.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11480310,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/18/2022",
+      "dateComplaintFiled": "08/20/2022",
+      "vin": "3vw117au9gm",
+      "components": "UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+      "summary": "at 80.7k miles the car began to smell heavily of gasoline and I found gasoline leaking from the back right bumper just in front of the tire. I took the car to the dealership the next day and today they've told me that it could be a number of parts but what we have on order is the EVAP cannister and the N80 purge valve. If this does not fix it then it is the entire gas tank, very expensive. There were NO warning lamps and this issue was reproduced at the dealership. They've told me there's no recalls or warranties but I have read that many other people in the MK7 group have had this issue. Volkswagen needs to own up to their previous emissions hang-ups",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11480145,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/17/2022",
+      "dateComplaintFiled": "08/19/2022",
+      "vin": "3VW5T7AUXGM",
+      "components": "POWER TRAIN",
+      "summary": "I am having the same safety issue that is outlined in this safety recall: https://static.nhtsa.gov/odi/tsbs/2022/MC-10206794-0001.pdf  However, Volkswagen says that my VIN number is not included.   Pictures: https://imgur.com/a/TKfal3R  I would like my car included in this safety recall. The foil cracked initially from a manufacturing defect and has now cut me to the point of bleeding multiple times.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11478891,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/01/2022",
+      "dateComplaintFiled": "08/11/2022",
+      "vin": "3VW4T7AUXGM",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "Water Pump Failed twice",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11476454,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/28/2022",
+      "dateComplaintFiled": "07/29/2022",
+      "vin": "3VW447AU1GM",
+      "components": "UNKNOWN OR OTHER,FORWARD COLLISION AVOIDANCE",
+      "summary": "On two occasions, warning messages appeared on the dash indicating that multiple government-mandated safety systems -- including airbags, ABS, ESC, and tire pressure monitoring -- were disabled.   On first occasion, vehicle was traveling at approximately 30 mph. Dealer was unable to find the source of the problem.  On second occasion, vehicle was traveling at approximately 65 mph on the freeway.   This is an extremely serious safety problem. Key safety systems that are federally mandated fail without warning during normal vehicle operation.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11474603,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/03/2022",
+      "dateComplaintFiled": "07/18/2022",
+      "vin": "3VW4T7AUXGM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "The car had a few hiccup on the freeway. Eventually the car had a strong gas smell, did not allow to add/fill up gas and was leaking gas at the back of the car.  The car could have caught fire without us knowing.  The problem was reproduced and known to the dealers. The second dealer Hewlett had seen another 3 cars with same issue as my car! Please see all invoices showing the parts and issues with car. suction pump in the fuel tank, fuel pump gasket, purge valve, evap canister, N80 valve.  There is a recall for same issue but my car was never recalled! Recall 16V647000 Summary Volkswagen Group of America, Inc. (Volkswagen) is recalling certain model year 2015-2016 Volkswagen Golf, Golf SportWagen, GTI, Audi A3 sedan and A3 Cabriolet vehicles. Due to a problem with the suction pump inside the fuel tank, fuel may flow into the evaporative emissions (EVAP) system.  Recall 16V647000 Consequence As fuel accumulates in the EVAP system, it may leak out through the charcoal canister filter element. A fuel leak in the presence of an ignition source increases the risk of a fire.  Recall 16V647000 Solution Volkswagen will notify owners, and dealers will replace the suction pump, free of charge. The recall began November 2016. Volkswagen owners may contact Volkswagen customer service at 1-800-893-5298, Audi owners may contact Audi customer service at 1-800-253-2834. Volkswagen's numbers for this recall are 20Y6 and 20Y5.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11469525,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/01/2022",
+      "dateComplaintFiled": "06/16/2022",
+      "vin": "3VW5T7AU3GM",
+      "components": "ENGINE",
+      "summary": "EPC light comes on whenever turbo is engages, loss of power (no turbo). EPC light goes off when car is restarted, back on after a few minutes of driving.   Error codes indicate turbo issues. Vehicle has 40K odometer mikes.   Chat forums have numerous similar reports from other owners. Seems to be a known turbo issue with early MK7 GTIs",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11452318,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/16/2022",
+      "dateComplaintFiled": "02/16/2022",
+      "vin": "3vw217au9gm",
+      "components": "ENGINE",
+      "summary": "At 49,086,  our 2016 Volkswagen  Golf developed a leak in the thermostat assembly housing. The Volkswagen dealership, Elk Grove Volkswagen in Elk Grove, CA, strongly recommended the replacement of the thermostat assembly housing which included replacement of the thermostat assembly housing, the thermostat itself, a gasket, the replacement of the coolant. Failure to do so would result in the engine overheating and potential damage to the engine.  Looking quickly online, I found several forums which discussed this specific problem:  https://www.vwvortex.com/threads/thermostat-housing-leaking-again-after-recall-done-in-2018.9458318/  https://www.golfmk7.com/forums/index.php?threads/failed-thermostat-housing-coolant-loss-info-gathering.368847/  A low coolant warning light was on, however there were no visable leaks underneath the car. The following is a ibetter description of the problem, taken from the golfmk7 website:  “Coolant will slowly seep out of a weep hole on the underside of the thermostat housing. It doesn't seem to be enough to ever leave a puddle but slight residue may be seen under the thermostat housing and possibly on the oil pan. The loss of coolant often trips the low coolant warning if the level isn't maintained. Depending on the size of the leak, the coolant drop can either be gradual or catastrophic.  Loss of coolant has also been linked to the water pump failing. Furthermore, the accessory bracket gasket can leak hot oil down onto the thermostat housing (even after repair) which can cause failure.“  The service was completed today, 02/16/2022.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11446672,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/07/2022",
+      "dateComplaintFiled": "01/07/2022",
+      "vin": "3VW217AU0GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Leaking coolant due to thermostat housing breaking",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11443427,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/10/2021",
+      "dateComplaintFiled": "12/11/2021",
+      "vin": "3VW447AU3GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "If I try to refill the gas tank, it will spill the gas back at me. And when I got home it was pouring gas to the floor. I’ve read is the suction pump but for some reason my car is not listed on this recall and is happening to me now. Is very dangerous because is gasoline pouring in the ground plus I can’t put any more gasoline in the tank. It just won’t let me. I have videos of the problem. Tried contacting VW dealers but they told me that there’s no recall on this for my vehicle. Online there’s a recall for this exact same problem and my car has it. I don’t want my car to catch fire or something.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11441391,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/07/2021",
+      "dateComplaintFiled": "11/22/2021",
+      "vin": "3VW5T7AU3GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "While parked the gas tank started leaking gas from rear passenger-side wheel well.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11440745,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/13/2021",
+      "dateComplaintFiled": "11/17/2021",
+      "vin": "3VW4T7AU0GM",
+      "components": "POWER TRAIN",
+      "summary": "EPC light illuminated on dash board. Vehicle was taken to dealer and it was determined that the thermostat housing had failed. Would have caused the vehicle to overheat had it been driven for any length of time with the failure",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11436458,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/12/2021",
+      "dateComplaintFiled": "10/12/2021",
+      "vin": "3VW5T7AU8GM",
+      "components": "POWER TRAIN",
+      "summary": "Thermostat housing failure. Leaking coolant. Yes it is available for inspection. The dealer has confirmed this is not an uncommon problem, and indicated this can be cause by the seal swelling (Dirito Bros dealer, CA BAR Reg# 257857). This issue was found by an independent mechanic during a routine oil change on 10/12/21 There is a warning lamp for low coolant, which is the first indicator, and occurred around Sept- 2021.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11433810,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/03/2021",
+      "dateComplaintFiled": "09/21/2021",
+      "vin": "3VW4T7AU7GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Volkswagen Group of America, Inc. \"Volkswagen\" is recalling certain model year 2015-2016 Volkswagen Golf, Golf SportWagen, GTI, Audi A3 sedan and A3 Cabriolet vehicles. Due to a problem with the suction pump inside the fuel tank, fuel may flow into the evaporative emissions \"EVAP\" system.       As fuel accumulates in the EVAP system, it may leak out through the charcoal canister filter element. A fuel leak in the presence of an ignition source increases the risk of a fire. VW is not honoring the recall in my vehicle because it notes that my VIN number is not associated with the defected part, but this is the same issue that happened to my vehicle.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11423690,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/07/2021",
+      "dateComplaintFiled": "07/07/2021",
+      "vin": "3VW4T7AU5GM",
+      "components": "ENGINE",
+      "summary": "The thermostat housing and water pump are leaking due to a known manufacturing defect. I had the water pump and thermostat housing replaced around 65,000 miles from an independent Volkswagen mechanic. He informed me that it appears the water pump had been replaced prior to my ownership of the vehicle. (41,000 miles). Again, I have to replace the thermostat housing and water pump, for a leak. The failure causes a leak in the pressurized cooling system. The leak is small while parked so there is no noticeable puddle but as the system warms up, the leak happens faster. Because of this issue, I have had multiple warning messages while driving, low coolant level, check engine light, and EPC (Electronic Power Control, which disables activate cruise control and front collision detection systems). On multiple occasions, I was stranded waiting on help because of the failure. As stated, this is a known issue from the manufacturer, as they have had at least 7 revisions to the part. The manufacturer is currently on revision “M”, I am only aware of revisions “F, G, H, J, K, L” and the current revision “M”. As previously stated, this is the second time I personally have had to pay out of pocket for this repair.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11417362,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/10/2021",
+      "dateComplaintFiled": "05/16/2021",
+      "vin": "3vw447auxgm",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "The gear shifter inside vehicle has a decorative aluminum trim that when you slide your hand in center cubby over time tends to separate. It creates sharp edges and I cut my hand while retrieving something from center console cubby.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11416723,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/15/2021",
+      "dateComplaintFiled": "05/15/2021",
+      "vin": "3VW217AU3GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "SUNROOF IS LEAKING",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11416209,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/04/2021",
+      "dateComplaintFiled": "05/11/2021",
+      "vin": "3VW5T7AU4GM",
+      "components": "ENGINE",
+      "summary": "2016 VW GOLF GTI MK7 ENGINE COOLANT BEGAN TO SLOWLY LEAK FROM THERMOSTAT HOUSING SEAL AT 25,000 MILES. DEALER REPLACED HOUSING WITH REV M PART JUST BEFORE MY WARRANTY EXPIRED. HAS THIS EVERY 25K MILE PROBLEM BEEN RESOLVED YET?",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11405153,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2021",
+      "dateComplaintFiled": "03/27/2021",
+      "vin": "3VW217AU2GM",
+      "components": "STRUCTURE",
+      "summary": "CAR HAS A WATER LEAK IN THE PANORAMIC SUNROOF SINCE NEW. VWOA HAS DONE THE TSB'S BUT THE PROBLEM CONTINUES. LEAK IS AROUND THE PASSENGER SIDE A PILLAR, SUNVISER AND DOME LIGHT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11385092,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/24/2020",
+      "dateComplaintFiled": "12/27/2020",
+      "vin": "3VW217AU1GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "RAW FUEL SMELL IN CABIN. IT SEEMS TO HAPPEN AFTER A SHORT TRIP. I STOP AND RESTART WITHIN A FEW MINUTES AND IT IS QUITE A HEAVY SMELL LIKE A FUEL LEAK. THIS HAS HAPPENED BEFORE THIS MONTH.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11383440,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/14/2020",
+      "dateComplaintFiled": "12/14/2020",
+      "vin": "3VW547AU1GM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,FORWARD COLLISION AVOIDANCE",
+      "summary": "ALL STEERING WHEEL CONTROLS INOPERATIVE.  THIS INCLUDES AIRBAG, HORN, CRUISE CONTROL, RADIO CONTROLS, ETC.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11376865,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/21/2020",
+      "dateComplaintFiled": "11/28/2020",
+      "vin": "3VW217AU5GM",
+      "components": "STRUCTURE",
+      "summary": "SUNROOF LEAKS INTO HEADLINER AND DOWN THE SIDE PILLARS. OCCURS WHEN STATIONARY AND IN MOTION DURING PERIODS OF EXTENDED RAIN. RESULTS IN DAMAGE TO ELECTRONICS, SOUND SYSTEM AND FABRIC/BODY COMPONENTS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11372726,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2020",
+      "dateComplaintFiled": "11/02/2020",
+      "vin": "3VW4T7AU0GM",
+      "components": "POWER TRAIN",
+      "summary": "COOLANT LEAK FROM THE WATER PUMP AND THERMOSTAT HOUSING. THE WATER PUMP AND THERMOSTAT WERE REPLACED UNDER WARRANT. I BELIEVE IT IS LEAKING AGAIN AS IT WAS REPLACED WITH THE SAME FAULTY PARTS AND I HAVE NOTICED A SLIGHT DROP IN COOLANT AND A SMELL, WHICH WAS THE ISSUE ORIGINALLY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11300201,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/14/2019",
+      "dateComplaintFiled": "01/17/2020",
+      "vin": "3VW217AU3GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "PANORAMIC SUNROOF LEAKS INTO THE INTERIOR A FRAME PILLARS. IT LEAKS IN THE RAIN, THE SNOW, AND EVEN THE CAR WASH. THE LEAK STARTS AS A DAMP SPOT IN THE INTERIOR WHERE THE HEADLINER MEETS THE A FRAME PILLAR. THE SUNROOF WILL LEAK IF THE CAR IS STATIONARY OR MOVING. THE LEAK WILL MAKE ITS WAY DOWN THE PILLAR AND ACROSS THE SIDE AIRBAG.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11270298,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/15/2019",
+      "dateComplaintFiled": "10/22/2019",
+      "vin": "3VW217AU9GM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,STRUCTURE",
+      "summary": "SUNROOF DRAIN REINFORCEMENT STEEL HAS DEVELOPED STRESS CRACKS. WHICH HAS LET WATER LEAK INSIDE VEHICLE, ONTO HEADLINER AND DOWN A-PILLARS SATURATING  FRONT SIDE CURTAIN AIRBAGS MAKING THEM DEFECTIVE. VEHICLE CAN BE STATIONARY OR OPERATED, IT WILL LEAK EITHER WAY.  VOLKSWAGEN REFUSES TO ADDRESS ISSUE WITH AIRBAGS AND LEAK SAYING THERE IS NOT A SAFETY ISSUE SO THEY WONT COVER REPAIR WHICH COULD COST GREATER THAN $2,500. VEHICLE HAS ALSO DEVELOPED BLACK MOLD BETWEEN ROOF AND HEADLINER WHICH IS HAZARDOUS TO BREATH. TECHNICAL BULLETIN #60-17-01(V601701) IS THE REPAIR INSTRUCTIONS FOR DEALERSHIP ONLY REPAIR BUT DOES NOT INCLUDE AIRBAG REPLACE OR HEADLINER REPLACEMENT. I ADDRESSED ISSUE WITH VOLKSWAGEN MULTIPLE TIMES WHICH THEY DENY ANY SAFETY ISSUES.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11245909,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/21/2019",
+      "dateComplaintFiled": "08/22/2019",
+      "vin": "3VW4T7AU3GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN GTI S 4D AUTO. WHILE DRIVING 45 MPH, THE CONTACT NOTICED AN ABNORMAL FUEL ODOR COMING FROM THE FUEL TANK WITHOUT WARNING. THE CONTACT MANAGED TO DRIVE THE VEHICLE AND NOTICED FUEL LEAKING FROM THE FUEL TANK. THE VEHICLE WAS TOWED BY THE CONTACT'S INSURANCE COMPANY TO FLAGSHIP VOLKSWAGEN CARRETERA (#2 14.7, BAYAMN, 00922, PUERTO RICO, 787-302-2718) WHERE IT WAS DIAGNOSED THAT THE EVAP SYSTEM FAILED AND NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND INFORMED THE CONTACT THAT THE VIN WAS NOT INCLUDED IN A RECALL. THE FAILURE MILEAGE WAS APPROXIMATELY 31,546.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11234534,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2019",
+      "dateComplaintFiled": "07/24/2019",
+      "vin": "3VW217AU4GM",
+      "components": "STRUCTURE",
+      "summary": "SUNROOF FRAME LEAKS WATER INTO THE CAR. THE WATER DRIPS ON TO THE CENTER CONSOLE HARDWARE/ELECTRONICS AND HARDWARE/ELECTRONICS LOCATED ON THE WINDSHIELD. THE LEAK IS A KNOWN DEFECT FOR VW GOLF 2016, AS VW PREVIOUSLY SENT OUT A RECALL FOR THE SUNROOF FRAME. THE LEAK OCCURS AFTER HEAVY RAINFALL. THE WATER DRIPS RIGHT ON TO THE ACC CRUISE CONTROL. VW ACKNOWLEDGED IN PHONE MESSAGE THAT SOURCE OF LEAK WAS SUNROOF AND THAT IT SHOULD BE COVERED BY THE RECALL. ORIGINALLY, I THOUGHT THE LEAK DERIVED FROM DIRTY DRAINS, BUT VW CLARIFIED THE ROOT CAUSE AS THE SUNROOF. HOWEVER, THEY DID NOT FOLLOW UP WITH ME. I RE-ENGAGED THEM AND THEY STATED THEY WOULD NEED TO TEST IT AGAIN. AFTER THE SECOND TEST, THEY SAID THEY COULD NOT REPRODUCE MY CLAIM DESPITE DESPITE THE INITIAL, POSITIVE IDENTIFICATION OF THE SUNROOF AS THE LEAK. I AM WORRIED THAT THIS WILL CAUSE OTHER, MORE SERIOUS PROBLEMS IF LEFT UNTREATED. THE LEAK CAN OCCUR WITH THE CAR EITHER STATIONARY OR IN MOTION. HOWEVER, THE LEAK IS MORE PROMINENT WHEN STATIONARY. FOR EXAMPLE, MY CAR LEAKS THE WORST WHEN I LEAVE IT IN THE PARKING LOT AT WORK DURING HEAVY RAINFALL. UPON ENTERING MY CAR, STANDING WATER WILL HAVE POOLED UP IN THE GEAR SELECTOR COVER AND DRIPS FROM MY REAR VIEW MIRROR ON TO THE CENTER CONSOLE. I STILL POSSESS THE VOICEMAIL WHERE THEY IDENTIFIED THE SUNROOF AS THE SOURCE OF THE LEAK. I ATTACHED A PHOTO OF THE WATER STAINS BECAUSE IT WAS NOT RAINING WHEN I FILED THE COMPLAINT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11186523,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/08/2019",
+      "dateComplaintFiled": "03/13/2019",
+      "vin": "3VW4T7AUXGM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN GOLF GTI. THE CONTACT STATED THAT THE CHECK ENGINE WARNING INDICATOR ILLUMINATED INTERMITTENTLY. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC WHO DIAGNOSED THAT THERE WAS A FUEL LEAK. THE DEALER WAS NOT CONTACTED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE APPROXIMATE FAILURE MILEAGE WAS 37,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11140077,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/12/2018",
+      "dateComplaintFiled": "10/12/2018",
+      "vin": "3VW217AU9GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I WAS DRIVING ON THE FREEWAY AND HEARD A LOUD POP LIKE A GUN SHOT.  I LOOKED UP AND IT WAS MY MOON ROOF.  IT WAS AS IF IT HAD BLOWN OUT.  I WAS NOT UNDER AN UNDERPASS OR NEAR ANY VEHICLES THAT COULD HAVE THROWN A ROCK.  IT HAPPENED LIKE COMBUSTION.  SO RANDOM AND SCARY!  IF I WOULDN'T HAVE HAD THE SHADE CLOSED, I WOULD HAVE BEEN COVERED IN GLASS.  THIS WAS AN ORDINARY MORNING WITH TEMPS AROUND 60 DEGREES.  I AM SHOCKED TO SEE THAT THIS HAS BEEN A PROBLEM FOR MANY AND YET THERE IS NO SAFETY RECALL. PLEASE HELP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11119886,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/09/2018",
+      "dateComplaintFiled": "08/14/2018",
+      "vin": "3VWC17AU3GM",
+      "components": "AIR BAGS,ELECTRONIC STABILITY CONTROL (ESC),SERVICE BRAKES",
+      "summary": "THE LEFT REAR WHEEL SPEED SENSOR MALFUNCTIONED RESULTING IN FALSE WARNINGS OF AIR BAG, STABILIZATION CONTROL, ABS SYSTEM, AND TIRE PRESSURE FAILURES. A REPLACEMENT PART IS ON BACK ORDER AND/OR UNAVAILABLE. THIS WILL RESULT IN DISREGARD OF ANY OF THE ABOVE WARNINGS IN THE FUTURE EVEN IF THEY ARE GENUINE. THIS PROBLEM OCCURS RANDOMLY AT ANY SPEED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11110420,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/08/2018",
+      "dateComplaintFiled": "07/10/2018",
+      "vin": "",
+      "components": "AIR BAGS",
+      "summary": "THE CLOCK SPRING ON MY CAR WENT BAD AFTER 46,000 MILES. MAKES AIRBAG UNUSEABLE AND STEERING COLUMN CONTROLS DO NOT WORK EITHER",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11105166,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/02/2018",
+      "dateComplaintFiled": "07/02/2018",
+      "vin": "3VW217AU2GM",
+      "components": "WHEELS",
+      "summary": "CONTINENTAL PROCONTACT' TX 195/65R15  RT REAR TIRE SIDE WALL BLEW OUT WITH NO WARNING. CAR HAS 16000 MILES AND HAS BEEN DEALER SERVICED SINCE NEW. CAR WAS ACCELERATING ON FREEWAY ON RAMP WHEN  VIBRATION AND THUMP WERE FELT INSIDE THE CAR. DRIVER PULLED INTO SECURE AREA AND SAW THAT TIRE SIDEWALL HAD BLOWN OUT ON INSIDE AND OUTSIDE SIDEWALLS. TIRE WAS REPLACED BY VOLKSWAGEN DEALERSHIP AT OWNERS EXPENSE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11099933,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/31/2018",
+      "dateComplaintFiled": "06/05/2018",
+      "vin": "",
+      "components": "STEERING,ELECTRICAL SYSTEM,AIR BAGS",
+      "summary": "DESPITE A 2015 RECALL,  2016 GOLFS ARE STILL BEING AFFECTED BY FAULTY CLOCK SPRING SETUPS AND A LACK OF SOME TYPE OF COVER THAT IS PREVENTING DEBRIS FROM GETTING INSIDE AND BREAKING THEM.      WHILE DRIVING THE CAR, THE AIRBAG WARNING LIGHT WENT ON.  I THEN NOTICED THAT NONE OF THE CONTROL FEATURES ON THE STEERING WHEEL WORKED..  NO CRUISE CONTROL, NOT HORN, NO SYSTEM DATA, ETC.  UPON FURTHER INVESTIGATION I DISCOVERED THAT THE CLOCK SPRING WAS THE REASON FOR THE PROBLEM AND THAT THIS HAS BEEN AN ONGOING PROBLEM THAT VW HAS KNOWN ABOUT SINCE 2011.  ONLY AFTER AN INVESTIGATION WAS VW FORCED INTO DOING A RECALL IN 2015.  THE PROBLEM OBVIOUSLY STILL EXISTS SINCE THERE ARE A NUMBER OF CONTINUED COMPLAINTS STILL BEING FILED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11099415,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/02/2018",
+      "dateComplaintFiled": "06/03/2018",
+      "vin": "3VWC17AU3GM",
+      "components": "ENGINE",
+      "summary": "CONSUMING OIL",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11030441,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/28/2017",
+      "dateComplaintFiled": "09/28/2017",
+      "vin": "3VW217AU1GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I LEASED A NEW 2016 VW GOLF. VW CLAIMED THE CAR GOT 25/35 MILEAGE. I AM GETTING 13/26 AND YET I AM A VERY CASUAL DRIVER. I HAVE TAKEN IT TO TWO VW DEALERSHIP A TOTAL OF FIVE TIMES. THEY ARE CLAIMING THAT THAT I ONLY DRIVE A FEW MILES A DAY, SO THE CAR DOESN'T HAVE ENOUGH TIME TO WARM UP AND THAT IS WHY I DO NOT GET THE STATED MILEAGE. IT'S A RIDICULOUS CLAIM. I FEEL LIKE THIS IS ANOTHER VW SCANDAL. I NEED TO ESCALATE THE RESOLUTION OF THIS ISSUE AS I HAVE PLENTY OF PROOF ON THE ISSUE. LET ME KNOW IF YOU ARE THE CORRECT GOVERNMENT DEPARTMENT TO DEAL WITH THIS ISSUE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11018861,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/01/2017",
+      "dateComplaintFiled": "08/22/2017",
+      "vin": "3VW217AU9GM",
+      "components": "VISIBILITY",
+      "summary": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN GOLF. THE CONTACT STATED THAT THE SUN ROOF MALFUNCTIONED AND CAUSED WATER TO ENTER THE VEHICLE. THE VEHICLE WAS TAKEN NUMEROUS TIMES TO AN UNKNOWN VOLKSWAGEN DEALER. THE DEALER REPLACED THE SUN ROOF SEALANT, BUT THE FAILURE WAS NOT CORRECTED. THE VEHICLE WAS TAKEN BACK TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE SUN ROOF RACK NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED. THE MANUFACTURER WAS NOTIFIED. THE FAILURE MILEAGE WAS 7,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10992847,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/01/2016",
+      "dateComplaintFiled": "06/02/2017",
+      "vin": "3VW217AU1GM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN GOLF. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V647000 (FUEL SYSTEM, ENGINE AND ENGINE COOLING). THE PARTS TO DO THE REPAIR WERE UNAVAILABLE. THE CONTACT STATED THAT THE VEHICLE DID NOT RECEIVE ADEQUATE FUEL MILEAGE AND THAT THE MANUFACTURER EXCEEDED A REASONABLE AMOUNT OF TIME FOR THE RECALL REPAIR. THE MANUFACTURER WAS NOT NOTIFIED OF THE ISSUE. THE LOCAL DEALER (OURISMAN VOLKSWAGEN OF BETHESDA LOCATED AT 7001 ARLINGTON RD, BETHESDA, MARYLAND 20814) WAS CONTACTED AND INFORMED THE CONTACT THAT THEY HAD NOT RECEIVED PARTS FROM THE MANUFACTURER AND THAT THE CONTACT WAS PLACED ON A WAITING LIST. THE MANUFACTURER WAS MAKING FLORIDA AND PUERTO RICO A PRIORITY FIRST. THE CONTACT HAD NOT EXPERIENCED A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10984229,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/01/2016",
+      "dateComplaintFiled": "05/08/2017",
+      "vin": "3VW117AU0GM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "TL* THE CONTACT OWNS A 2016 VOLKSWAGON GOLF. WHILE DRIVING VARIOUS SPEEDS, THE VEHICLE EXPERIENCED UNINTENDED ACCELERATION WHILE BEING OPERATED IN SECOND AND THIRD GEARS. THE CONTACT INDICATED THAT THE VEHICLE'S SPEED WOULD INCREASE BY APPROXIMATELY 35 MPH WITHOUT DEPRESSING THE ACCELERATOR PEDAL. THE FAILURE WAS INTERMITTENT AND WOULD OFTEN OCCUR AFTER THE VEHICLE HAD NOT BEEN DRIVEN FOR SEVERAL HOURS. THE VEHICLE WAS TAKEN TO SEVERAL DEALERS WHO INDICATED THAT THE ISSUE WAS A CHARACTERISTIC OF THE VEHICLE AND NO FAILURE WAS FOUND. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE. THE FAILURE MILEAGE WAS 3,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10971575,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2017",
+      "dateComplaintFiled": "04/10/2017",
+      "vin": "3VWC17AU7GM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "PERSISTENT FUEL SMELL.  VEHICLE RECALL WAS PERFORMED, VEHICLE WAS REPAIRED TWICE AT DEALERSHIP FOR SAME PROBLEM.  CARBON FILTER WAS REPLACED, FUEL SENSOR AND FUEL INJECTORS REPLACED (UNDER WARRANTY).  SMELL MOST NOTICEABLE AFTER BEING DRIVEN FOR 10-30 MINUTES, THEN PARKED FOR 10 MINUTES TO 1 HOUR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10968443,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/01/2017",
+      "dateComplaintFiled": "03/25/2017",
+      "vin": "",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "FUEL ODOR IN CAR CABIN USUALLY AFTER THE CAR IS STARTED AFTER BEING RUN AND SITTING BRIEFLY OFF.  THE PROBLEM HAS PERSISTED AFTER SUCTION PUMP RECALL WORK WAS DONE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10955589,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/01/2017",
+      "dateComplaintFiled": "02/20/2017",
+      "vin": "3VWC17AU4GM",
+      "components": "STEERING",
+      "summary": "STEERING POWER ASSIST \"TWITCHES\" WHILE CAR IS IN MOTION.  HAPPENS AT RANDOM TIMES, SPEEDS AND STEERING CONDITIONS WHILE DRIVING....ENOUGH TO JERK THE CAR INTO THE NEXT LANE.  MIGHT BE TIED TO VW'S DSR OR DYNAMIC STEERING RECOMMENDATION SETTING IN THE VEHICLE COMPUTER.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10948507,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/25/2017",
+      "dateComplaintFiled": "01/30/2017",
+      "vin": "3VW547AU4GM",
+      "components": "SERVICE BRAKES",
+      "summary": "BRAKE FAILURE. THE CAR WAS BEING DRIVEN AROUND 20MPH, WHEN A 'BRAKE: FLUID LOW SEE OWNER'S MANUAL' MESSAGE CAME ON. AFTER SEEING THIS MESSAGE PRESSURE WAS APPLIED TO THE BRAKE PEDAL AND THE PEDAL WENT TO THE FLOOR. THE PEDAL MADE A 'CHATTERING NOISE' AS IT MOVED THROUGH THE PEDAL STROKE. THE PARKING BRAKE WAS USED TO STOP THE CAR. THIS WAS EASILY RECREATED IN A PARKING LOT AND AT THE LOCAL DEALER.  THE WARNING LIGHT CAME ON EACH TIME THE CAR WAS STARTED AFTER THE INITIAL INCIDENT, AND WHEN PRESSURE WAS APPLIED TO THE PEDAL, THE PEDAL EASILY WENT TO THE FLOOR MAKING THE SAME CHATTERING NOISE.  THERE WERE NO SYMPTOMS BEFORE THIS INCIDENT. THE BRAKE SYSTEM SEEMED TO FUNCTION AS IT SHOULD AND HAD EVERY OTHER TIME THE CAR WAS DRIVEN.  I CHECKED FOR BRAKE FLUID LEAKS AT THE MASTER CYLINDER AND AT EACH OF THE FOUR CALIPERS, AND DID NOT FIND ANY LEAKED FLUID. IT APPEARED THAT THERE WAS STILL BRAKE FLUID IN THE BRAKE FLUID RESERVOIR.   UPON INITIAL CONTACT, THE DEALER SAID THEY HAD NEVER SEEN THIS BEFORE. AFTER THEIR INITIAL ASSESSMENT BY THE DEALER, THEY BELIEVED IT WAS A MASTER CYLINDER ISSUE AND THE SEAL ON THE SIDE OF THE BRAKE BOOSTER HAD FAILED, AND BRAKE FLUID LEAKED INTO THE BOOSTER.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10897865,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/20/2016",
+      "dateComplaintFiled": "08/23/2016",
+      "vin": "3VWC17AU8GM",
+      "components": "ENGINE",
+      "summary": "ENGINE MISFIRED AND CAUSE THE CAR TO STUTTER WITH LOSS OF PERFORMANCE.  THIS HAPPENED TO ME WHEN MAKING A LEFT HAND TURN NEARLY CAUSING AN ACCIDENT BECAUSE THE CAR WAS NOT MOVING AT THE NORMAL SPEED DUE TO LOSS OF PERFORMANCE.  THIS IS THE 3RD TIME THE ENGINE HAS MISFIRED SINCE I BOUGHT THE CAR.  IT HAS LESS THAN 2,800 MILES ON IT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10897131,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/29/2016",
+      "dateComplaintFiled": "08/19/2016",
+      "vin": "WVWUF7AU3GW",
+      "components": "SERVICE BRAKES, HYDRAULIC",
+      "summary": "TL* THE CONTACT OWNS A 2016 VOLKSWAGEN GOLF. WHILE DRIVING APPROXIMATELY 20 TO 25 MPH, THE CONTACT HEARD A CRACKLING NOISE WHEN THE BRAKE PEDAL WAS DEPRESSED. THE BRAKES FAILED WITHOUT WARNING. THE CONTACT HAD TO APPLY THE EMERGENCY BRAKE TO STOP THE VEHICLE. THE VEHICLE WAS TOWED TO THE DEALER. IT WAS DIAGNOSED THAT THERE WAS A MECHANICAL FAILURE IN THE VACUUM PUMP. THE VEHICLE WAS REPAIRED. THE MANUFACTURER WAS NOT NOTIFIED. THE APPROXIMATE FAILURE MILEAGE WAS 9,558.      THE CONSUMER STATED THE CONCERN WAS THAT THE VEHICLE WAS REPAIRED WITH THE SAME OEM PART THAT INITIALLY FAILED. THE MANUFACTURER WAS NOTIFIED. THE CONSUMER REQUESTED FOR THE VEHICLE TO BE BOUGHT BACK BUT, THE MANUFACTURER DECLINED AND OFFERED A 200.00 GIFT CARD. *JS",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10888512,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/28/2016",
+      "dateComplaintFiled": "07/25/2016",
+      "vin": "3VWC17AU5GM",
+      "components": "UNKNOWN OR OTHER,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "SUDDEN VIOLENT SHAKING WHILE DRIVING. THEY REPLACED ALL FOUR FUEL INJECTORS, SECOND TIME HAPPENED A MONTH LATER. SHAKING WHILE DRIVING. THEY CANNOT FIX. MILES JUST UNDER 2000 ON SECOND OCCURRENCE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10885240,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/23/2015",
+      "dateComplaintFiled": "07/16/2016",
+      "vin": "3VW217AU5GM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "TWO PRIMARY PROBLEMS WITH THIS CAR AT THIS TIME:    1. EPC  (ENGINE POWER CONTROL) LIGHT COMES ON FREQUENTLY WHILE DRIVING AT STREET AND FREEWAY SPEEDS. WHEN THE LIGHT COMES ON THE CAR JERKS FORWARD AND RIDES ROUGH. I AM CONCERNED ABOUT THE SAFETY OF THIS CAR AND IT NOT RUNNING CORRECTLY. THE CAR MANUAL INDICATES THAT WHEN THE EPC LIGHT IS DISPLAYED THE ENGINE IS MALFUNCTIONING.    2. THE BLUETOOTH/INFOTAINMENT SYSTEM WILL INTERMITTENTLY FREEZE AND THE PHONE WILL NOT DISCONNECT AND THE RADIO WILL WORK. THIS IS ALSO A SAFETY ISSUE SINCE I HAVE TO CONSTANTLY ADJUST THE SETTINGS TO TRY AND FIX IT AND PULL OVER THE CAR, TURN OFF THE CAR AND TRY AND FIX THE PROBLEM.      I HAVE TAKEN THE CAR TO A VOLKSWAGEN DEALER /SERVICE CENTER  ON MULTIPLE OCCASIONS TO FIX BOTH PROBLEMS AND THEY HAVE BEEN UNABLE TO FIX EITHER PROBLEM.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10853372,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/04/2016",
+      "dateComplaintFiled": "04/04/2016",
+      "vin": "",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "ON MANUAL TRANSMISSION VEHICLES CRUISE CONTROL DOES NOT DEACTIVATE WHEN DEPRESSING CLUTCH, CHANGING GEAR. ONCE CLUTCH IS RELEASED CRUISE AUTOMATICALLY RE ENGAGES. THIS IS A HUGE SAFETY LIABILITY. VW CALLS IT A NEW FEATURE, THIS FEATURE HAS CAUSED A FEW NEAR MISSES.. THIS FEATURE WILL EVENTUALLY CAUSE AN ACCIDENT I'VE BEEN DRIVING MANUAL TRANSMISSION CARS FOR OVER 20 YEARS AND EVERY TIME THE CLUTCH IS DEPRESSED CRUISE TURNS OFF AND WILL ONLY RE-ENGAGE ONCE THE BUTTON IS DEPRESSED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10816865,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/16/2015",
+      "dateComplaintFiled": "12/29/2015",
+      "vin": "WVWKP7AU0GW",
+      "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "SAFETY ISSUE - 2016 EGOLF WOULD NOT MOVE AFTER A ROUTINE TRAFFIC STOP WITH \"MAIN CHARGING FAILED\" ERROR. DURING A NORMAL COMMUTE AFTER 3, 4 MILES OF DRIVING 30 - 40 MPH, CAR WOULDN'T MOVE AFTER A ROUTINE TRAFFIC STOP RIGHT AFTER A TRAFFIC LIGHT. THIS IS EVENING 6PM RUSH HOUR TRAFFIC, CAR JUST STOPPED IN THE MIDDLE OF THE ROAD. WHILE REST OF THE SYSTEMS SEEM TO BE FUNCTIONING, THE CAR IGNITION IS ON, PRESSING ACCELERATOR PEDAL DOESN'T DO ANYTHING WITH \"ELECTRICAL ERROR , STOP\" MESSAGE ON THE DASH. AFTER GETTING STUCK IN A LANE FOR AN HOUR IN RUSH HOUR TRAFFIC, GOT THE CAR TOWED TO NEARBY VW DEALER. DEALER INFORMED THAT THE MAIN CHARGING MODULE THAT CHARGES BATTERY FAILED, WHICH NEEDS TO BE REPLACED WITH NEW PART FORM GERMANY. IT COULD TAKE UP TO TWO WEEKS.    SAFETY ISSUE - THE FACT THAT CAR JUST STOPS WHILE DRIVING EVEN THOUGH THE BATTERY HAS PLENTY OF CHARGE LEFT POSES A SERIOUS AND SIGNIFICANT SAFETY RISK. A SERIOUS ACCIDENT IS JUST WAITING TO HAPPEN.I WAS TOLD THAT THE DESIGN PROTECTS DRIVERS AGAINST GETTING STRANDED AFTER BATTERY IS DISCHARGED, SINCE THE CHARGING MODULE FAILED. THIS SEEMS TOTALLY ILLOGICAL THAT THE DESIGN IS TRYING TO PROTECT YOU FROM STRANDED WHEN BATTERY RUNS OUT, SO IT RATHER STOP IN THE MIDDLE OF THE ROAD TO GET THE MODULE FIXED BEFORE YOU CAN DRIVE IT TO A SAFE PLACE.    THERE ARE QUITE A FEW INCIDENTS REPORTED LIKE THIS, SO VW HAS A SERIOUS SAFETY ISSUE TO FIX ON 2016 EGOLF IMMEDIATELY. MAYBE IT REQUIRES A DESIGN FIX TO LET DRIVERS DRIVE TO A DEALER TO GET THE FAULTY PART TO BE FIXED, INSTEAD OF STRANDING IN THE MIDDLE OF THE ROAD.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2016",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    }
+  ]
+}

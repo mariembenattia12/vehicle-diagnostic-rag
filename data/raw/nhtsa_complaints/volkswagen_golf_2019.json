@@ -1,0 +1,1788 @@
+{
+  "count": 81,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11709174,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/19/2025",
+      "dateComplaintFiled": "01/06/2026",
+      "vin": "3VWH17AU1KM",
+      "components": "POWER TRAIN",
+      "summary": "The transmission lurches and studders at stops with roughly 60K miles on it. The dealer believes it to be the mechatronic unit. I am put at risk because the car begins to move, stops, and then begins again moving. Cars behind me may believe I am accelerating from a stop and rear end me.  There are no warning lamps, messages, or anything whatsoever, the issue generates no codes for dealer techs to diagnose.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11677470,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/30/2025",
+      "dateComplaintFiled": "07/31/2025",
+      "vin": "3VWG57AU9KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I am currently stationed in the United Kingdom and the VW dealership is stating that they are unable to complete the needed recall because it is an imported vehicle?! Not sure how something that important can just be shrugged off because I am in a different country.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11653958,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/10/2025",
+      "dateComplaintFiled": "04/10/2025",
+      "vin": "3VW5T7AUXKM",
+      "components": "AIR BAGS",
+      "summary": "The contact owns a 2019 Volkswagen Golf. The contact stated that while the vehicle was parked, the contact attempted to start the vehicle and the air bag warning light illuminated. The contact attempted to contact the dealer; however, the vehicle was not diagnosed. The contact stated that an independent mechanic was contacted, and the vehicle was scheduled to be taken to be diagnosed. The vehicle was not repaired. The manufacturer was not made aware of the failure. The failure mileage was approximately 75,038.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11636066,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/26/2024",
+      "dateComplaintFiled": "01/15/2025",
+      "vin": "3VWH17AU7KM",
+      "components": "POWER TRAIN,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "When I take my foot off the brake to accelerate, the car jerks backward and shudders. It feels as though it’s about to stall. When pressing the gas pedal, the car also has delayed acceleration. Both of these issues create dangerous driving conditions. The car hesitates when accelerating from a stopped position, nearly causing me to be rear-ended at traffic lights on multiple occasions. I’ve also experienced a couple of close calls while making right turns on red, as the car hesitates and won’t accelerate immediately. I feel unsafe driving the vehicle.  Have had the car to one independent mechanic, the sister dealership of where it was purchased from, and two VW dealerships. They have acknowledged an issue as they have replaced the motor mounts and mounting plate. It did not resolve the issue. The car does operate as designed.  There are no fault codes or engine lights so they have advised me to continue driving until it gets worse. It is unsafe to drive since there is an issue with accelerating.  The service team at Mossy VW replicated the backward jerking motion during a test drive and confirmed that the vehicle is exhibiting a delayed throttle response. While the mechanic submitted a Volkswagen Technical Assistance (VTA) request, he reiterated that no repairs could be performed without a fault code.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11609117,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/17/2024",
+      "dateComplaintFiled": "08/17/2024",
+      "vin": "3VWG57AU7KM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "This has been an open recall for 5 years and the manufacturer will not fix it.  This  could lead to vehicle fires and injuries..  It is not acceptable that Volkswagen can just ignore these safety recalls!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11587310,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/06/2024",
+      "dateComplaintFiled": "05/06/2024",
+      "vin": "3VW6T7AU6KM",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "When driving down the road doing about 35 mph with no car close in front of me my forward collision sensor went off without warning and initiated sharp braking which almost caused the car behind me to run into me.  My car jolted like I’d been hit (I hadn’t) and the red warning light lit up the dashboard.  The person behind me was able to brake in time and didn’t hit me.  I don’t think my brake lights engaged.  It was terrifying and incredibly unsafe and I’m lucky I wasn’t on a highway or there wasn’t anyone following too closely behind.  Very, very dangerous situation.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11584895,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/24/2024",
+      "dateComplaintFiled": "04/24/2024",
+      "vin": "3VWG57AUXKM",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "When driving over train tracks the automatic emergency brakes engaged and the forward collision detection beeping alarm sounded. This has happened over 5 times since I have owned the car. Many times the forward collision alarm will go off without engaging the brakes, seemingly without cause. Only when passing over train tracks do the emergency brakes bring the vehicle to a stop or to an extreme slowdown.   I have a video of the incident if you would like it, but no way to upload on this website. You can hear the emergency brake and alarm going off with nothing in front of my car.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11581354,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/05/2024",
+      "dateComplaintFiled": "04/05/2024",
+      "vin": "3VWW57AU6KM",
+      "components": "SERVICE BRAKES",
+      "summary": "Purchased vehicle brand new from Seacoast VW in Greenland, NH in March of 2020. In February of 2022 with just 12804 miles on this vehicle I had them check a problem with noisy rear brakes. I was informed that the rear brakes were delaminating and needed replacement for around $800. As this was beyond the 12 month warranty that this charge was not to be covered. After much negotiation I agreed to pay 20% of the parts & labor charge and they would pick up the remaining 80% as a one time goodwill because I was a loyal VW customer. The excuse that was given to me at that time is that I didn't drive enough miles & rust on the rotor caused the delamination. Jump forward to April 2024 I again was told my rear brakes were delaminating and would not pass the NH state safety inspection. The service consultant was very surprised that they had already replaced the rear brakes in 2022! I was again told this was because I did not drive enough. I then called VW Customer Care phone number that the dealer provided to see if VW would provide some financial relief. The woman who answered the phone was very polite and understood my frustration that brakes would fail after only 12000 miles but after checking with her supervisor informed me that VW would not help with this Safety problem. I then asked her if I was the only one who has experienced this problem And she emphatically stated that I was not the only complaint for this problem and even suggested that I keep all of my records for possible reimbursement in a future recall due to the significant number of complaints that VW has had with this problem. This is a severe safety problem that VW is trying to sweep under the rug and needs to be investigated so VW bears the cost of this and not the many customers that have so far had to bear the expense that is an actual design flaw!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11573196,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/27/2023",
+      "dateComplaintFiled": "02/21/2024",
+      "vin": "3VWM17AU2KM",
+      "components": "SERVICE BRAKES",
+      "summary": "I was making my final trip of my move from Minneapolis to the Denver area and was on [XXX] traveling West in the right lane. The truck ahead was moving from the right lane to the left to give room to a car stopped on the right shoulder. There was another car in the left lane so I couldn’t move to the left. The truck was soon blocking much of the left lane so the car in the left lane was slowing as I slowed. I then applied my brakes and the pedal went all the way to the floor without actuating the brakes! Fortunately, by then there was room between the truck and the car on the shoulder and I was able to miss both as I sailed by.  Pumping the brake pedal restored the brake function. Thinking that I must be low on brake fluid, I pulled off the highway at the next large service station. The brake fluid reservoir was full. I continued to my new home and at my first opportunity I went to the nearest VW dealership and left it for several days to be checked. No error codes so they did nothing. VW customer service arranged for another dealership to check it out. No error codes and not able to reproduce the problem so they did nothing. About a month later I was one a trip on a very hilly rout. Costing down a steep section I applied the brakes as I started to be more than 10 mph over the speed limit. The pedal went about 80% to the floor! But there was braking this time. Pumping the pedal restored normal brake function. VW customer serviced had arranged for yet one more dealership to look at the car. Again, not surprisingly, they couldn’t reproduce the problem and no error codes so they did nothing.  I consider this to be a significant safety problem. As VW would not fix the problem, even as the car is still under warranty, I replaced the master cylinder at my own expense and have  taken the car on a 2500 mile trip with no sign of the braking problem I have more confidence in the car. INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11562500,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/29/2023",
+      "dateComplaintFiled": "12/29/2023",
+      "vin": "3VWG57AU1KM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2019 VW Golf. The contact received notification of NHTSA Campaign Number: 23V604000(Electrical System) however, the part to do the recall repair was unavailable. The local dealer was contacted and it was confirmed that the part was not available. The contact stated that the manufacturer exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the issue. The contact had not experienced the failure. The VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11549494,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/26/2023",
+      "dateComplaintFiled": "10/11/2023",
+      "vin": "3VW6T7AU1KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Driving on the interstate with no cars near me and my sunroof exploded and showered me with glass. VW is claiming that it was hit and it was not. The car is my daily driver, and I inspect it daily.  The plastic insert was cracked (also an issue with this model)and mentioned by me on a previous service visit at Baxter Volkswagen of Omaha, but it was not investigated by Baxter and then the service advisor gave no explanation as to why it was not looked at.  A month a half later the sunroof exploded.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11549292,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/19/2023",
+      "dateComplaintFiled": "10/10/2023",
+      "vin": "3VW6T7AU2KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I was driving and the spring from the grab handle (driver side) popped out and hit me by my left eyebrow. At home, I tried to compare the driver side grab handle with the front passenger grab handle to see if I can fix it. As I grabbed the handle and the spring became loose and it is now sideways (picture) In addition, according to my repair log, my GTI was serviced to repair the right side rear passenger grab handle on 18 Jan 2020. I have a service appointment tomorrow 11 Oct 2023 to repair the grab handles and a check engine light.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11545891,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/21/2023",
+      "dateComplaintFiled": "09/21/2023",
+      "vin": "3VWM17AU5KM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "Several times now, my 2019 VW Golf Alltrack S while driving has flashed a warning saying \"ignition switched off\" and then \"check starter system\". I can still apply the brakes, steer, and accelerate, but various electrical systems stopped working, including the speedometer. I've brought it to a VW dealer, but they said they couldn't find an issue. Several places online say that this is an ignition switch issue and that it was fixed once they replaced the ignition switch.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11544677,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2021",
+      "dateComplaintFiled": "09/15/2023",
+      "vin": "3VW5T7AU6KM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "* \"Starter system faulty\", currently the supposedly damaged part has already been replaced   * When this fault appears, all the vehicle's electrical instruments stop working, lights, radio, air conditioning, reversing camera, security systems, but the vehicle's engine remains on, this happens a few minutes after starting the car and the cabin. is above 90 degrees temperature.   * part 5Q1.905.865 is defective under high temperatures.   * No, but you can search for information on the Internet with the part number 5q1 905 865 and you will find hundreds of complaints from VOLKSWAGEN vehicle owners with this same problem.   * The warning appears on the dashboard screen and in 3 seconds all the vehicle's electronic instruments turn off but the engine continues to run",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11541513,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/14/2023",
+      "dateComplaintFiled": "08/29/2023",
+      "vin": "",
+      "components": "VISIBILITY,AIR BAGS",
+      "summary": "The contact owns a 2019 Volkswagen Golf. The contact stated while starting the vehicle, the check engine warning light and the air bags warning light illuminated. The vehicle was taken to the dealer and the contact stated that the vehicle was experiencing the failure listed in NHTSA Campaign Number: 21V892000 (Visibility, Air Bags) however, neither the VIN nor the model vehicle was included. The vehicle was not repaired. The manufacturer was not contacted. The failure mileage was approximately 40,000. The VIN was not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11539008,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/16/2023",
+      "dateComplaintFiled": "08/16/2023",
+      "vin": "3VWM17AU6KM",
+      "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "While driving, all vehicle gauges and HVAC suddenly stopped working. Car beeped, and screen said \"pull over safely\" (or something like that), and then said \"Check starter system\". Turned car off, and then eventually it turned back on. Same thing happened again, but I was able to continue driving (engine kept running), with no HVAC, no speedometer, no tachometer, nothing. I don't know if turn signals or exterior lights were working.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11539035,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/01/2023",
+      "dateComplaintFiled": "08/16/2023",
+      "vin": "3VWM17AU7KM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "After being in hot sunlight all day(95+ degrees), car started and about three minutes into drive the engine and all electronics died while going approximately 15mph, warning display flashed up on center lcd display that ignition was off, please pull over, and then to check the starter.  The power steering turned off so I had very limited steering.  The car would not restart, took about 5 minutes of waiting and had to remove the key and reinsert it before it would start again.  I was only going 15mph on an empty residential road, so no damage, but if it happened on a busy highway it might have resulted in a crash.  Dealer could not reproduce the fail, but read codes that showed the ignition switch was faulty, and they replaced that.  The car was at the dealership to look at another issue(the blind spot monitor lights not turning off), and I picked it up from the dealership minutes before this ignition switch issue occurred. They found no issues or error codes with the blind spot monitoring or any other electrical system, the ignition switch issue only occurred after the car was sitting outside in direct sunlight for 5 hours.  I believe the heat was the issue, I have found multiple online forum posts where owners of 2019 VWs of different models have the same issue on hot days.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11531201,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/07/2023",
+      "dateComplaintFiled": "07/09/2023",
+      "vin": "3VWH17AU9KM",
+      "components": "VISIBILITY/WIPER",
+      "summary": "Windshield cracked while it was parked. Four people were in the car on a trip from Reno to San Francisco. No one heard or saw anything hit the windshield before they stopped for breakfast. When they came back to the car they found that the windshield had a crack about 12 inches long.  There was no sign of a stone or other object that might have caused the crack. there was no chip in the glass either.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11530947,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/05/2023",
+      "dateComplaintFiled": "07/07/2023",
+      "vin": "3VWM17AUXKM",
+      "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,VISIBILITY/WIPER",
+      "summary": "On July 5, 2023 the electronics in our 2019 VW Golf Alltrack S, stopped working, while that car was been driven on a highway. The following was no longer operational, (while the car was still in motion): gauges such as speedometer, tachometer, fuel indicator and engine temperature; controls such as turn signals, wipers, dashboard and car indicator lights, also the infotainment system, used at that time for driving directions, was no longer operating. The car engine was still running; however, safely pulling to the side of the road was hardly possible, as the turn signals and lights no longer worked. After the car was stopped and the engine was turned off and on few times, the above-listed electronics started working again. Prior to this incident, the car has been driven daily and has not been parked for an extended period of time; it also has been serviced in accordance with the manufacturer requirements. A few weeks prior to this incident, the car was serviced / inspected by an authorized VW dealer. The same dealer examined the car, next day after the incident, and determined that a faulty ignition was the cause of the issues. Replacing that part (under warranty) required few days, as an incorrect part was ordered by the dealer. The loss of key controls and gauges mentioned above, and required for a safe vehicle operation, created a dangerous situation, which should be investigated, in order to determine if design issues exist and require further actions, to prevent such incidents.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11521144,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/05/2023",
+      "dateComplaintFiled": "05/09/2023",
+      "vin": "3VW5T7AU9KM",
+      "components": "ENGINE",
+      "summary": "The engine completely failed while driving normally and lost power while on the highway, doing highway speeds. I had no power to safely exit the highway and it became extremely dangerous for surrounding traffic as I had to slow down. The problem has been confirmed by a Volkswagen dealer. Yes the vehicle has been inspected by Volkswagen. No warning lights or check engine lights prior to the failure",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11510411,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/15/2022",
+      "dateComplaintFiled": "03/06/2023",
+      "vin": "3VW6T7AUXKM",
+      "components": "SEATS,LANE DEPARTURE",
+      "summary": "Driver seats frame is loose, have been waiting for part since October/2022, they said that I can take over a year. Strong Volkswagen technician told me that is not safe to drive the car because if I get in accident I can get smashed once the seat is not safely locked in place. The strong vw service manager told me that the solution is sale the car for someone who doesn’t know about the problem. The car is under the warranty bumper to bumper.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11509555,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/27/2023",
+      "dateComplaintFiled": "02/28/2023",
+      "vin": "3VWG57AU7KM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The contact owns 2019 Volkswagen Golf. The contact stated that while a complete stop, the Auto Start/Stop feature failed to engage and a message advising to manually start the vehicle by turning the ignition key was displayed. The contact stated that as he attempted to turn the ignition key, the key was stuck and the key fob fractured, causing the vehicle to go into Safe Mode. The anti-theft warning light was illuminated. The contact was able to push the vehicle to the side of the road with the assistance of bystanders. The vehicle was towed the contact’s residence.  The contact notified the dealer of the failure and ordered a new key. The vehicle was not diagnosed nor repaired. The manufacturer was not notified of the failure. The failure mileage was approximately 50,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11504407,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/25/2023",
+      "dateComplaintFiled": "01/30/2023",
+      "vin": "3VWH17AU3KM",
+      "components": "WHEELS",
+      "summary": "This vehicle has experienced cracked front rims on two separate occasions resulting in sudden air pressure loss to the tire and an emergency stop and a ruined tire.  Additionally, this car has worn the front tires aggressively ever since new.  There is an existing recall on 2019 Alltracks that is the result of improperly machined front wheel bearings and has resulted in a number of incidents surrounding the front wheels and the drivability issues.  This recall apparently doesn't impact my vehicle, but seeing that VW recommends not driving the vehicle until the repairs are made and with the issues that appear similar to the recall, I am concerned that recall should be expanded.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11500632,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/01/2023",
+      "dateComplaintFiled": "01/07/2023",
+      "vin": "3VW5T7AU0KM",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "Faulty/unreliable water pump resulted in sudden coolant leak and subsequently overheating the engine. This seems to be a common problem when looking at reports/discussion from other owners of this vehicle online. It’s a known issue that the stock water pump is bad.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11491552,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/31/2022",
+      "dateComplaintFiled": "10/31/2022",
+      "vin": "3VW6T7AU6KM",
+      "components": "SUSPENSION",
+      "summary": "GTI has an overly squeaky front suspension. Suspension is 100% stock and unmodified. Searching online yields many Golf owners experiencing the same issues (in the USA and worldwide). People say to lube up the suspension with grease, but this could cause a safety issue if it gets on the brakes. Volkswagen claims this is normal, but I've owned nine Volkswagen vehicles and this is the first one that's ever had this issue. This sound has been ongoing since the vehicle had 10,000 miles on the odo; the vehicle now has 60,000 miles.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11489503,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2022",
+      "dateComplaintFiled": "10/17/2022",
+      "vin": "3VWH17AU2KM",
+      "components": "SERVICE BRAKES,FORWARD COLLISION AVOIDANCE",
+      "summary": "I was driving during the afternoon on a local road at approximately 30 mph.  When I approached a traffic light with car brake lights showing ahead of me, I gently tapped my brakes in anticipation of possibly needing to slow down or stop.  Instead of an expected gradual slowing of the vehicle, I was surprised when the brakes seemed to grab and the car stopped abruptly as if I had stepped down hard on the brake pedal.   Fortunately, the situation appeared to return to normal in an instant when I let up on the brakes.  The incident has not reoccurred.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11464370,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/02/2019",
+      "dateComplaintFiled": "05/12/2022",
+      "vin": "3vwh17au7km",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,ENGINE",
+      "summary": "Multi-system failure - multi incidents; Dealership has confirm and 'corrected' but several electrical/engine issues persist.  Vehicle has been inspected by three VW dealerships (Royal Motor Sales in San Francisco, Serramonte, CA and Kalispell VW in Montana).  Several issues were observed while driving - multiple system failure warnings, and also engine failure multiple times. The last time the engine failed while driving 75 miles an hour and there was no where to pull off nor shoulders.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11455944,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/27/2021",
+      "dateComplaintFiled": "03/09/2022",
+      "vin": "3vwm17auxkm",
+      "components": "SERVICE BRAKES",
+      "summary": "The plastic button for the hand brake/ parking brake pops out of the handle which then causes the brake to release. VW has replaced the part under warranty 2 times since I purchased the vehicle. In my case the second time it happened the car popped out of gear and struck 2 cars across the street from my driveway. Dealer states its a common issue. But Volkswagen has done nothing to correct the issue other than replacing the hand brake repeatedly on the cars. It's a major safety issue in my opinion. And I feel they need to come up with a permanent solution rather than replacing with a new faulty part. I have since sold the car back to the dealer as I don't trust that the hand brake on the car won't fail again.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11443870,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/29/2021",
+      "dateComplaintFiled": "12/15/2021",
+      "vin": "3VWG57AU2KM",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "11/2021 @ 5927 miles - sunny day, no vehicle in front, without warning AEB lit up, flashing and automatic brakes engaged, vibration felt, bringing car to near stop for no reason. Speed approx 35 mph on flat, straight roadway, approx 4 lanes heading one direction. Could have been rear-ended since car stopped suddenly. No prior occurrence. VW Case #05016886 created by VW upon contacting. Recommended VW service inspection. VW service stated Fault C113B00 for hill descent button, which this model doesn’t have hill descent option. VW technician reconfigured the ABS module to rectify error.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11431238,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/06/2021",
+      "dateComplaintFiled": "08/31/2021",
+      "vin": "3VW5T7AU0KM",
+      "components": "VEHICLE SPEED CONTROL,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "The car idles rough during initial cold start up, intermittently hesitates during acceleration and feels like it misfires during cruising. My dealer found that the ignition timing was retarded by 5º and told me to use better gas, citing a VW field service action (https://static.nhtsa.gov/odi/tsbs/2020/MC-10176770-0001.pdf). The problem persisted after they treated the fuel. The car has never thrown a code causing the check engine light to turn on, and so the dealer has declined to investigate further. My records show the car was only filled with premium fuel, using VW recommended brands (BP, Exxon, Mobil, Shell) in the 2,000 miles prior to the service appointment and was only filled with regular fuel twice (due to the Colonial Pipeline shutdown) since the car was delivered new from the dealer.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11428235,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/08/2021",
+      "dateComplaintFiled": "08/08/2021",
+      "vin": "3VW6T7AU5KM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "Intermittent warning light on dash indicating, \"Cruise control system malfunction\".The owner's manual says to have the system checked by Volkswagen. The dealer said the vehicle is operating normally. I first noticed this the day after service action code 24FX was completed on 4/8/21. I noticed this four more times since.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11421493,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/14/2021",
+      "dateComplaintFiled": "06/19/2021",
+      "vin": "3VWH17AU2KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I experienced two leaks inside my car due to a VW manufacturer defect with sun roof drain tubes.  The first time it happened my car was three months old.  At 20 months it happened again causing extensive staining in the interior of my car.  No where in my maintenance schedule was I told to clean out drains.  The dealer is saying I'm liable because the drain clogging was environmental.  I say the drains should not be clogging this much on a new car.  There are numerous instances of leaks and vehicle buy-backs for VW Alltracks, as well as other VWs for this.  I paid the dealer $250 to unclog the drains because I have no choice but now I'm out of luck with the replacement of the headliner.  The dealer admitted it's no where written that unclogging those drains is required.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11407230,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/07/2021",
+      "dateComplaintFiled": "04/09/2021",
+      "vin": "3VWM17AU8KM",
+      "components": "POWER TRAIN",
+      "summary": "COOLANT LEAKING FROM THERMOSTAT HOUSING WATERPUMP MODULE CAUSING ENGINE ISSUES.  COMMON ISSUE ON THE VW EA888 GEN 3 ENGINE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11386904,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/02/2021",
+      "dateComplaintFiled": "01/07/2021",
+      "vin": "3VWM17AU4KM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "KEY FOB LEFT ON TOP OF CAR WHILE TRYING TO PUT CAR SEAT IN, WHICH ALLOWED CAR TO START (PUSH TO START) AND MOVE, HOWEVER KEYS FELL OFF CAR DURING MOVEMENT.  WHEN DONE WHILE PARKED THIS WILL NORMALLY LEAD TO A BEEPING SOUND AND A WARNING THAT THERE IS NO LONGER A KEY IN PROXIMITY, AND TWO BIG YELLOW LIGHTS COME UP ON THE DASHBOARD.  HOWEVER, AS THE KEY FELL OFF THE ROOF WHEN THE CAR WAS ALREADY IN GEAR/MOVING, NO WARNING SOUND OR DASHBOARD LIGHT CAME UP (CAR ACTED AS IF EVERYTHING WAS NORMAL EVEN THOUGH THERE WAS NO LONGER A KEY IN RANGE).  THIS LED TO A SET OF LOST KEY FOB/HOUSE KEYS AND BEING STRANDED ONCE PARKED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11341069,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2020",
+      "dateComplaintFiled": "07/23/2020",
+      "vin": "3VWW57AUXKM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "AUTONOMOUS EMERGENCY BRAKING SYSTEM DOES NOT WORK IN EMERGENCY SITUATION - DID NOT DEPLOY IN A REAR-END COLLISION SITUATION.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11323353,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/03/2020",
+      "dateComplaintFiled": "05/05/2020",
+      "vin": "3VWH17AU0KM",
+      "components": "POWER TRAIN",
+      "summary": "ISSUE WITH AUTOMATIC DSG TRANSMISSION AFTER 3 DAYS OF OWNERSHIP AND 182 MILES ON THE ODOMETER.  ISSUE FIRST HAPPENED WHILE ACCELERATING FROM A STOP AT A TRAFFIC LIGHT AFTER IT TURNED GREEN.  AFTER SHIFTING FROM 1ST TO 2ND THE CAR LOST POWER, FREE REV'D AND AFTER APPROXIMATELY 5 SECONDS WAS ABLE TO ENGAGE 2ND GEAR QUITE ROUGHLY.  PRESENTED AN ERROR MESSAGE THAT STATED \"TRANSMISSION IN EMERGENCY MODE: REVERSE NOT AVAILABLE.\"  PULLED INTO A PARKING LOT UNDER IT'S OWN POWER AND POWER CYCLED THE IGNITION.  ERROR CLEARED, NO WARNING LIGHTS AT THAT POINT.  HAPPENED AGAIN A FEW HOURS LATER WHILE DRIVING AT 40 MPH, A SERIES OF SUDDEN JERKS AND AN ABRUPT LOSS OF POWER, TRANSMISSION APPEARED TO BE IN NEUTRAL.  CEL AND OTHER WARNING LIGHTS ILLUMINATED.  ONCE THE CAR SLOWED IT ENGAGED FIRST GEAR AND LIMP MODE.  IT WAS ONLY POSSIBLE TO DRIVE AT ABOUT 10 MPH IN THIS STATE.  IT WAS QUITE ABRUPT DECELERATION IN A NORMAL TRAFFIC PATTERN AND WAS DIFFICULT TO AVOID GETTING REAR-ENDED AND PULLING OVER SAFELY.  SCAN TOOL ERROR CODES ATTACHED.  INDICATES CLUTCH 2 OPENING AND CLOSING UNINTENTIONALLY.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11322344,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/01/2020",
+      "dateComplaintFiled": "04/27/2020",
+      "vin": "3VWM17AU3KM",
+      "components": "STRUCTURE",
+      "summary": "SUNROOF LEAKS INTO CABIN CAUSING HEADLINER STAINS AND WATER DAMAGE TO HEADLINER. VW IS NOT TAKING CARE OF THE ISSUE PROPERLY AND I HAVE BEEN WITHOUT MY CAR FOR 29 DAYS NOW.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11310540,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/04/2020",
+      "dateComplaintFiled": "02/21/2020",
+      "vin": "3VWM17AU1KM",
+      "components": "STRUCTURE,UNKNOWN OR OTHER",
+      "summary": "HELLO. I PURCHASED A NEW VW GOLF ALLTRACK SE FROM OPEN ROAD VW MANHATTAN ON 2/3/2020. THE NEXT DAY, I STARTED NOTICING RATTLING NOISES FROM THE DRIVER SIDE HEADLINER WHEN CAR IS IN MOTION OVER BUMPS AND CORNING AROUND SOFT SHOULDERS. THE DEALERSHIP NOTICED THE SOUND AND ATTEMPTED TO REPAIR THE ISSUE ON 2/17/2020 WITH LUBRICATION. THE CAR WAS RETURNED TO ME AND UNFORTUNATELY THE RATTLING SOUNDS PERSISTS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11308999,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2019",
+      "dateComplaintFiled": "02/13/2020",
+      "vin": "3VWM17AU8KM",
+      "components": "STRUCTURE",
+      "summary": "VEHICLE WAS DELIVERED BRAND NEW WITH A LEAKING PANORAMIC SUNROOF. THE DEALERSHIP ATTEMPTED TO REPAIR IT BY GRINDING DOWN BAD WELDS, REPLACING THE SUNROOF ASSEMBLY AND HEADLINER TO NO AVAIL. VEHICLE WAS BOUGHT BACK BY VOLKSWAGEN USA. THIS IS A WIDESPREAD PROBLEM WITH THESE VEHICLES AND VOLKSWAGEN NEEDS TO COME UP WITH A FIX THAT'S FREE TO OWNERS REGARDLESS OF WARRANTY BEING ACTIVE, IN OTHER WORDS AN OFFICIAL RECALL, UNTIL THEN DO NOT GET STUCK WITH ONE OF THESE CARS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF ALLTRACK",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11307370,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/05/2020",
+      "dateComplaintFiled": "02/05/2020",
+      "vin": "3VW6T7AU4KM",
+      "components": "ENGINE",
+      "summary": "ENGINE STALLED WHILE STOPPED AT A STOP SIGN IN MY NEIGHBORHOOD ON NEW CAR. START/STOP FEATURE WAS DISABLED AND I WAS RETURNING HOME.  THE ENGINE WAS WARMED UP. THE VEHICLE DISPLAY INFORMED ME TO PUT THE VEHICLE IN PARK AND RESTART THE VEHICLE MANUALLY.  THIS GTI HAS THE DSG AUTO TRANSMISSION.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11306451,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/29/2020",
+      "dateComplaintFiled": "02/01/2020",
+      "vin": "3VWG57AU6KM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "ENGINE HESITATE, STUMBLE AND JERK FROM STOP TO THE FIRST 5 GEARS AND MAKE WHINING  NOISE. BRAND NEW CAR! SCARY DO DRIVE AND DANGEROUS. HAVE THE CAR FOR ABOUT 2 WEEKS, 1,500 MILES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11298397,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/09/2020",
+      "dateComplaintFiled": "01/10/2020",
+      "vin": "3VW6T7AU9KM",
+      "components": "ENGINE",
+      "summary": "ENGINE STALLS REPEATEDLY WHILE SLOWING TO A STOP",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11281274,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/15/2019",
+      "dateComplaintFiled": "11/20/2019",
+      "vin": "3VW5T7AU5KM",
+      "components": "STEERING,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "2019 GTI 6MT STALLS. THE ISSUE PRESENTS ITSELF SLOWING DOWN TO A STOP, WHERE THE ENGINE WILL SOFT STALL AND REQUIRE RESTARTING.  THIS HAS HAPPENED WHEN STOPPED AT A LIGHT, AS WELL AS WHEN IN MOTION, COASTING TO A STOP.  IT HAS HAPPENED ON THE HIGHWAY, IN HEAVY TRAFFIC, AS WELL AS PARKING IN A PARKING SPOT.  THE UNSAFE CONDITION IS WHEN IN HEAVY TRAFFIC, IN RUSH HOUR ON RT 287 (MAJOR HIGHWAY) COASTING TO A STOP, THE ENGINE DIES AND I LOOSE CONTROL OF THE STEERING WHEEL CONTROL AND ACCELERATION.  THE START STOP BUTTON NEEDS TO BE PUSHED TO GET THE CAR TO START UP AGAIN.  THE CAR IS BRAND NEW AND HAS ROUGHLY 650 MILES ON IT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11278695,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/30/2019",
+      "dateComplaintFiled": "11/07/2019",
+      "vin": "3VWW57AU4KM",
+      "components": "VISIBILITY/WIPER",
+      "summary": "THE DRIVER'S SIDE REARVIEW MIRROR DEVELOPED A STRESS CRACK WHICH MAY AFFECT VISIBILITY. THE ISSUE WAS NOT CAUSED BY ROAD DEBRIS. VEHICLE WAS IN MOTION ON HIGHWAY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11270430,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/23/2019",
+      "dateComplaintFiled": "10/23/2019",
+      "vin": "3VW5T7AU8KM",
+      "components": "ENGINE",
+      "summary": "I HAD SOME ENGINE STALL PROBLEMS WITH THE VEHICLE WHEN FIRST PURCHASED. THE ENGINE WOULD CUT OFF QUIETLY WHILE AT A STOP LIGHT AND BEGINNING TO DEPRESS THE CLUTCH WHILE IN NEUTRAL. HAPPENED IN HEAVY TRAFFIC ON THE HIGHWAY AND IN STOP-AND-GO CITY TRAFFIC. I BROUGHT IT BACK TO THE DEALERSHIP AND THEY CLAIM TO HAVE RESET THE ENGINE CONTROL MODULE. UPON A FEW DAY AFTER RETURN, THE ENGINE CUT OFF WHILE THE CLUTCH WAS DEPRESSED IN THE MIDDLE OF A TURN.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11268502,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/01/2019",
+      "dateComplaintFiled": "10/15/2019",
+      "vin": "3VW5T7AU3KM",
+      "components": "POWER TRAIN",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF. WHILE DRIVING IN FIRST AND SECOND GEARS, THE VEHICLE SUDDENLY STALLED. THE FAILURE OCCURRED ON MULTIPLE OCCASIONS AND ALSO OCCURRED WHILE THE TRANSMISSION WAS NOT IN GEAR WITH THE CLUTCH PEDAL DEPRESSED. THE VEHICLE WAS TAKEN TO THE LOCAL DEALER, BUT THE FAILURE COULD NOT BE DUPLICATED. THE MANUFACTURER WAS NOTIFIED OF THE FAILURE AND PROVIDED CASE NUMBER: 190719047. THE CONTACT INDICATED THAT THE FAILURES WERE RELATED TO NHTSA INVESTIGATION NUMBER: DP19-003. THE FAILURE MILEAGE WAS 100.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11268696,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/06/2019",
+      "dateComplaintFiled": "10/15/2019",
+      "vin": "3VW6T7AU9KM",
+      "components": "ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF. THE CONTACT PURCHASED THE VEHICLE A FEW DAYS AGO. WHILE DRIVING, THE VEHICLE STALLED TWICE WITHOUT WARNING. THE CONTACT ACTIVATED THE ECO AND NORMAL MODES, BUT THE VEHICLE FAILED TO START. THE CONTACT ALSO DEPRESSED THE ACCELERATOR PEDAL TO SEE IF THE VEHICLE WOULD START, BUT WAS UNSUCCESSFUL. THE CONTACT HAD TO MANUALLY START THE VEHICLE WITH THE KEY AND WAS ABLE TO DRIVE. THE CONTACT CALLED NORM REEVES VOLKSWAGEN SUPERSTORE (20 AUTO CENTER DR, IRVINE, CA 92618, (949) 830-7300) AND WAS INFORMED TO SCHEDULE AN APPOINTMENT OR TAKE THE VEHICLE TO A LOCAL DEALER. THE VEHICLE WAS NOT TAKEN TO A DEALER OR AN INDEPENDENT MECHANIC FOR DIAGNOSTIC TESTING. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS APPROXIMATELY 320.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11265704,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/31/2019",
+      "dateComplaintFiled": "10/02/2019",
+      "vin": "3VW5P7AU0KN",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF. WHILE DRIVING FREQUENTLY AT VARIOUS SPEEDS AND ATTEMPTING TO STOP THE VEHICLE, THE CLUTCH ENGAGED ON ITS OWN. THERE WERE NO WARNING INDICATORS ILLUMINATED. THE VEHICLE WAS TAKEN TO LOW COUNTRY VOLKSWAGEN (1001 JOHNNIE DODDS BLVD, MT PLEASANT, SC 29464, (843) 881-8555) WHO STATED THAT THE CAUSE OF THE FAILURE WAS UNDETERMINED. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS CONTACTED AND DID NOT ASSIST. THE FAILURE MILEAGE WAS 800. THE VIN WAS INVALID.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11255801,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/12/2019",
+      "dateComplaintFiled": "09/16/2019",
+      "vin": "3VW5T7AU9KM",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+      "summary": "PURCHASED 2019 GTI RABBIT EDITION 6MT. SOON AFTER PURCHASE, VEHICLE BEGAN STALLING UNEXPECTEDLY WHEN COMING TO A STOP WHEN CAR IS IN NEUTRAL. HAS HAPPENED WHEN CLUTCH IS EITHER DEPRESSED OR NOT. SOMETIMES CAR HAS STALLED WHEN FULLY STOPPED. IN THIS CASE THE CAR STARTS IDLING ROUGHLY AND SHUDDERS BEFORE STALLING. CAR STARTS UP AGAIN WITH NO WARNING LIGHTS ILLUMINATED. CALL HAS STALLED 6+ TIMES SINCE PURCHASE. CAR HAS ALSO EXHIBITED EXCESSIVE VIBRATION COMING FROM THE ENGINE SINCE PURCHASE. DEALERS HAVE NOT REALLY BEEN HELPFUL; THEY EITHER DENY THAT THERE IS A PROBLEM OR SAY THAT THE WHEELS/TIRES NEED BALANCING, HOWEVER BALANCING AND REPLACING THE TIRES DID NOT FIX THE ISSUE. I AM POSITIVE THIS IS RELATED TO THE STALLING ISSUES. ALSO, THE GEAR NUMBER INDICATOR SOMETIMES SHOWS THAT THE CAR IS A A DIFFERENT GEAR THAN WHAT IS CURRENTLY SELECTED (I.E., CAR IS IN 4TH BUT GEAR INDICATOR INCORRECTLY SHOWS THE CAR IS IN 2ND). I HAVE SEEN THAT OTHER OWNERS HAVE THESE SAME EXACT ISSUES WHICH MEANS THAT THESE ARE MANUFACTURING DEFECTS IN THE VEHICLE. THIS IS A SAFETY ISSUE BECAUSE THE CAR COULD STALL AT ANYTIME MAKING IT HARDER TO CONTROL OR STOP, ESPECIALLY IN AN EMERGENCY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11254728,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/10/2019",
+      "dateComplaintFiled": "09/11/2019",
+      "vin": "3VW5T7AU2KM",
+      "components": "STEERING,POWER TRAIN",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF. WHILE THE VEHICLE WAS STATIONARY AT A STOP SIGN, IT STALLED, SHUT OFF, AND THE STEERING WHEEL SEIZED. WHEN THE VEHICLE WAS RESTARTED, IT RESUMED NORMAL OPERATION. RIVERSIDE VOLKSWAGEN (8330 INDIANA AVE D, RIVERSIDE, CA 92504, (951) 509-2100) WAS CALLED AND STATED THAT THEY WOULD ATTEMPT TO DUPLICATE THE FAILURE. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 40.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11254088,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/05/2019",
+      "dateComplaintFiled": "09/09/2019",
+      "vin": "3VW5T7AU7KM",
+      "components": "ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF. WHILE DRIVING 5-15 MPH, THE VEHICLE SEIZED WITHOUT WARNING. THE CONTACT VEERED TO THE SHOULDER OF THE ROAD, MANUALLY RESTARTED THE ENGINE, AND THE VEHICLE RESUMED NORMAL OPERATION. THE VEHICLE WAS TAKEN TO SUNTRUP VOLKSWAGEN (6000 S LINDBERGH BLVD, ST. LOUIS, MO 63123, (314) 892-8200) TO BE DIAGNOSED, BUT THE CAUSE OF THE FAILURE COULD NOT BE DETERMINED. THE VEHICLE WAS NOT REPAIRED AND THE FAILURE RECURRED MULTIPLE TIMES. THE MANUFACTURER WAS NOT MADE AWARE OF THE FAILURES. THE FAILURE MILEAGE WAS APPROXIMATELY 75,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11252435,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/18/2019",
+      "dateComplaintFiled": "08/30/2019",
+      "vin": "3VW5T7AU6KM",
+      "components": "ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF. WHILE STOPPED AT A STOP LIGHT, THE VEHICLE STALLED WITHOUT WARNING. THE VEHICLE WAS TAKEN TO MCKENNA VOLKSWAGEN (18711 BEACH BLVD, HUNTINGTON BEACH, CA 92648, (888) 355-5733), BUT THEY WERE UNABLE TO DUPLICATE THE FAILURE. THE VEHICLE WAS NOT DIAGNOSED OR REPAIRED. THE MANUFACTURER WAS NOT CONTACTED. THE FAILURE MILEAGE WAS 900.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11245869,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/21/2019",
+      "dateComplaintFiled": "08/22/2019",
+      "vin": "3VW5T7AU4KM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "I WAS PULLING UP TO A RED LIGHT, CLUTCHED IN, SHIFTED TO NEUTRAL AND NOTICED MY STEERING HAD LOCKED. I RESTARTED THE CAR, IT STUMBLED, AND THEN DIED. RESTARTED AGAIN, IT STUMBLED AND THEN DIED. RESTARTED AGAIN, IT STUMBLED, AND THEN DIED. RESTARTED AGAIN, AND THEN THE LIGHT HAD TURNED SO I GAVE IT THROTTLE TO KEEP IT FROM STALLING AND THEN GOT GOING. ONCE MOVING I DID NOT HAVE ANY DRIVEABILITY ISSUES. IT HAD ABOUT A 1/4 TANK OF 93 OCTANE FUEL AND I HAD JUST DRIVEN A FEW MILES ON SOME CITY BACKROADS. DURING THE STALL THE GAUGE GEAR INDICATOR SHOWED 5>4 WHEN IN NEUTRAL MEANING THE CAR THOUGHT IT WAS IN 5TH GEAR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11245936,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/20/2019",
+      "dateComplaintFiled": "08/22/2019",
+      "vin": "3VW5T7AU7KM",
+      "components": "POWER TRAIN",
+      "summary": "2019 VW GTI RABBIT EDITION 6SPD MANUAL.  INTERMITTENTLY, WHEN APPROACHING A STOP LIGHT OR TRAFFIC STOPPING, THE CAR IN NEUTRAL, OR WITH THE CLUTCH FULLY DEPRESSED, THE ENGINE WILL STALL.  THE CAR WILL RESTART.  SOMETIMES AFTER THIS HAPPENS, THE CAR WILL HAVE A STRANGE EXHAUST SOUND THAT REMINDS ME OF A CAR THAT IS RUNNING ON NOT ALL OF THE CYLINDERS, OR HAS AN AFTERMARKET CAMSHAFT.  IF THE CAR IS SHUT OFF FOR A SHORT PERIOD OF TIME AND THEN RESTARTED, THIS EXHAUST SOUND WILL DISAPPEAR.    WHEN THE CAR STALLS, ALL POWER STEERING ASSIST CEASES.  THIS STALLING ONLY SEEMS TO HAPPEN WHILE STOPPING AND IS RANDOM.  SOME DAYS, IT WILL DO IT 4-5 TIMES IN A 11 MILE TRIP AND SOME DAYS, NOT AT ALL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11243518,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/06/2019",
+      "dateComplaintFiled": "08/13/2019",
+      "vin": "3VW5T7AU0KM",
+      "components": "ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2019 VOLKSWAGEN GOLF GTI. THE CONTACT STATED THAT ON SEVERAL OCCASIONS WHILE STOPPED AT A TRAFFIC LIGHT, THE VEHICLE STALLED. THE CONTACT WAS ABLE TO RESTART THE VEHICLE. THE VEHICLE WAS TOWED TO HARPER VOLKSWAGEN LOCATED AT 9901 KINGSTON PIKE, KNOXVILLE, TN 37922, (865) 691-0393, TO BE DIAGNOSED. THE MECHANIC WAS UNABLE TO RETRIEVE A FAULT CODE OR TO DUPLICATE THE FAILURE. THE CONTACT STATED THAT ON THE FIFTH OCCASION OF HAVING THE VEHICLE TAKEN TO THE DEALER, THE CONTACT WAS INFORMED THAT THE VEHICLE HAD SHIFTED TO ECONOMY MODE WHICH CAUSED THE VEHICLE TO SHUT OFF. ON ONE OCCASION, THE VEHICLE WAS STRUCK IN THE REAR BY ANOTHER VEHICLE WHILE ATTEMPTING TO DRIVE OFF FROM A TRAFFIC LIGHT. THERE WAS NO INJURY SUSTAINED IN THE REAR END COLLISION. THE CONTACT STATED THAT THE SERVICE TECH CALLED THE MANUFACTURER TO INFORM THEM OF THE FAILURE WITH THE VEHICLE. THE MANUFACTURER'S RESPONSE WAS STILL PENDING. THE VEHICLE WAS NOT REPAIRED. THE APPROXIMATE FAILURE MILEAGE WAS 2,604.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11235282,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/23/2019",
+      "dateComplaintFiled": "07/27/2019",
+      "vin": "3VW5T7AUXKM",
+      "components": "POWER TRAIN",
+      "summary": "COMING UP TO A STOP WITH THE VEHICLE IN NEUTRAL, WHETHER HAVING THE CAR IN NEUTRAL OR USING THE CLUTCH PEDAL, THE VEHICLE WILL STALL. THIS OCCURS IN ANY SCENARIO SUCH AS EXITING A HIGHWAY AND COMING TO A STOP, OR PULLING INTO A PARKING SPACE, OR INCHING FORWARD IN TRAFFIC. IT ALWAYS OCCURS IN THE FINAL MOMENTS OF COMING TO A STOP. JULY 23 2019 IS THE FIRST DATE OF OCCURRENCE. SINCE THEN IT HAS OCCURRED RANDOMLY HAPPENING ONCE IN A DAY OR 9 TIMES IN ONE DAY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11232051,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/12/2019",
+      "dateComplaintFiled": "07/15/2019",
+      "vin": "3VW6T7AU8KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "CAR IS STALLING AND TRANSMISSION IS NOT SHIFTING PROPERLY. HAVE HAD IN THE DEALERSHIP MULTIPLE TIMES, TOTALING OVER 5 DAYS IN SHOP. 4 DAYS FIRST TIME, AT THE DEALERSHIP TWICE TODAY (JULY 15, 2019)    STALL OCCURS AFTER SITTING IN TRAFFIC OR STOP-GO DRIVING. WHEN COMING TO A STOP, WILL SHUTTER AND COME TO A STALL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11229984,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/07/2019",
+      "dateComplaintFiled": "07/08/2019",
+      "vin": "3VW5T7AU6KM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "AS I AM BRAKING TO A STOP WITH THE CLUTCH FULLY DEPRESSED (AT A RED STOP LIGHT OR TO MAKE A LEFT TURN), THE CAR QUIETLY AND COMPLETELY STALLS OUT AND SHUTS DOWN. THE DASH LIGHTS REMAIN ON. I CAN RESTART THE CAR. THIS SEEMS TO OCCUR RANDOMLY BUT OCCURRED 3 TIMES YESTERDAY AFTERNOON. NO ENGINE CHECK LIGHT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11229842,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/28/2019",
+      "dateComplaintFiled": "07/06/2019",
+      "vin": "3VW5T7AUXKM",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "THE CAR STALLS FREQUENTLY WHEN IDLE AND STOPPED AT LIGHT OR OTHER AND NEEDS TO BE RESTARTED FROM THE PUSH START BUTTON AND ONLY HAS LESS THAN 1000 MILES   IF STARTED SOON AFTER BUYING IT AND CALLED DEALER BUT COULD NOT FIND THE GOOD TIME FOR APPT",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11228619,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2019",
+      "dateComplaintFiled": "07/01/2019",
+      "vin": "3VWG57AU5KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "SUNROOF SPONTANEOUSLY SHATTERED WITH NO IMPACT WHILE DRIVING ON A HIGHWAY",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11228804,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/30/2019",
+      "dateComplaintFiled": "07/01/2019",
+      "vin": "3VW5T7AU3KM",
+      "components": "ENGINE",
+      "summary": "ENGINE STALLS.  INTERMITTENT.  PROBLEM RELATES TO 2019 GTI (S MODEL) WITH 6-SPEED MANUAL TRANSMISSION.  WHEN FULLY WARM OR HOT, THE ENGINE RANDOMLY STALLS WITH TRANSMISSION IN NEUTRAL AND WHEN BRAKING TO A STOP, USUALLY WITH THE CLUTCH DEPRESSED AND USUALLY AT SPEEDS FROM 10-0 MPH.  THE ENGINE STALLS ARE GENTLE WITH NO STUTTERING OR SHAKING.  EXAMPLE:  COMING TO A STOP AT A STOP SIGN OR IN HEAVY TRAFFIC, THE ENGINE QUIETLY DIES WITHOUT WARNING.  ENGINE RESTARTS AND RUNS NORMALLY THEREAFTER UNTIL THE NEXT UNEXPECTED STALLING EVENT.  VEHICLE PURCHASED NEW IN MAY OF 2019.  FIRST STALL AT 250-300 MILES.  MOST RECENT STALL ON 6/30/19 AT 1150 MILES.  NO \"CHECK ENGINE\" WARNING APPEARS ON DASHBOARD.  NO ERROR CODES SHOW UP VIA OBD-2 DIAGNOSTIC SCAN.  92 OCTANE CHEVRON GAS USED EXCLUSIVELY. OWNER HAS DECADES OF EXPERIENCE DRIVING MANUAL TRANSMISSIONS WITH NO ISSUES UNTIL NOW - DOUBTFUL THIS IS OPERATOR ERROR.  VW DEALER IS FRIENDLY, BUT BAFFLED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11228856,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/01/2019",
+      "dateComplaintFiled": "07/01/2019",
+      "vin": "3VW5T7AU3KM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "THIS IS A 6MT 4 DOOR SE VW GTI 2019 WITH 1500 MILES AND 6 WEEK OF OWNERSHIP. THE VEHICLE RANDOMLY STALLS AT LOW SPEED WHEN BREAKING APPROX 5 MPH OR EVEN WHEN STATIONARY AFTER COMING TO A HALT.  HAPPENS WHEN THE CAR IS IN NEUTRAL OR WHEN THE CLUTCH IS FULLY DEPRESSED.  THIS IS NOT A CASE OF WRONG GEAR OR NOT FULLY DEPRESSING THE CLUTCH.  IT HAS HAPPENED A COUPLE OF DOZEN TIMES BOTH WITH MYSELF AND MY WIFE DRIVING SO NOT THE DRIVER AT FAULT.  HAPPENS WHEN THE ENGINE IS AT TEMPERATURE BUT NOT AT FIRST START UP.  THIS ISSUE IS BECOMING DANGEROUS AS RECENTLY IT PUT THE CAR INTO THE PATH OF ONCOMING TRAFFIC AND PREVIOUSLY NEARLY GETTING REAR ENDED DUE TO SUDDEN STALL.    CONSISTENT STALLING AS WE TURN INTO OUR DRIVE WAY - LESS THAN 5 MPH CLUTCH DEPRESSED AND TURNING RIGHT.  SOFT STALL - ENGINE JUST CUTS OUT V A ROUGH STALL YOU WOULD EXPECT WHEN TRYING TO PULL AWAY IN THIRD GEAR.    MOST RECENT DATE OF OCCURRENCE ENTERED BELOW.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11228558,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/30/2019",
+      "dateComplaintFiled": "06/30/2019",
+      "vin": "3VW5T7AU1KM",
+      "components": "ENGINE",
+      "summary": "IN SOME SITUATIONS WHEN COMING TO A STOP WITH THE CLUTCH DEPRESSED THE ENGINE WILL SHUT OFF QUIETLY. DOES NOT HAPPEN EVERY TIME I COME TO A STOP BUT HAS SEVERAL TIMES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11218942,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/08/2019",
+      "dateComplaintFiled": "06/10/2019",
+      "vin": "3VW5T7AU4KM",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+      "summary": "2019 GOLF GTI SE 6MT PURCHASED WITH 12 MILES. ENGINE RANDOMLY STALLS IN NEUTRAL WHEN ROLLING TO STOP WITH CLUTCH FULLY DISENGAGED AFTER HAVING DOWNSHIFTED TO EITHER SECOND OR FIRST GEAR. THIS HAS HAPPENED (3) TIMES SINCE PICKING UP THE BRAND NEW CAR (4) DAYS AGO. THE ELECTRONIC DISPLAY THAT SHOWS WHICH GEAR YOU ARE IN HAS ALSO REPORTED THE WRONG GEAR ONCE (SO FAR). THIS IS AN ISSUE AFFECTING *MANY* 2019 GOLF GTI OWNERS. HERE ARE SOME NOTES OF THE ISSUE SO FAR:    - 6-8-19 @ 1AM (131 MILES)  - NO CEL  - CLUTCH WAS OUT AND CAR WAS IN NEUTRAL COMING TO STOPLIGHT IN LEFT TURN LANE. GOING LESS THAN 5MPH WHEN CAR DIED. SEEMED LIKE IT HAPPENED WHEN THE TACH WAS AT IDLE-RANGE. RESTARTED WITH BUTTON.    - 6-8-19 @ 10:56PM (225 MILES)  - NO CEL  - PULLING UP TO DRIVEWAY. CAR DIED AT LESS THAN 2MPH GOING UP A VERY SLIGHT HILL WHEN CLUTCH WAS DEPRESSED TO GO INTO FIRST FROM NEUTRAL. WAS GOING *VERY SLOW* WHEN THIS HAPPENED. RESTARTED WITH BUTTON.    - 6-9-19 @ 3:30PM (276 MILES)  - NO CEL  - BROTHER WAS DRIVING WITH ME IN THE PASSENGER SEAT. PULLING UP TO STOP SIGN IN HIS NEIGHBORHOOD AND HE WAS IN NEUTRAL WITH CLUTCH OUT SLOWING TO A STOP AND THE CAR SOFTLY DIED AGAIN. RESTARTED WITH BUTTON.    - 6-9-19 @ 11:44PM (418 MILES)  - NO CEL  - DRIVING UP A STREET IN A NEIGHBORHOOD GOING 20-25MPH IN 2ND GEAR AND THE DISPLAY BETWEEN MY TACH AND SPEEDO SAID I WAS IN 3RD AND SHOULD SHIFT INTO 4TH. WHEN I CRESTED THE HILL AND HIT THE BRAKES TO SLOW DOWN FOR A PART OF THE STREET THAT WAS DAMAGED, THE GEAR DISPLAYED SWITCHED TO 2ND (WHICH IS WHAT I WAS IN AND HADN'T CHANGED).    THESE ISSUES ARE VERY WELL DOCUMENTED BY DRIVERS IN ENTHUSIAST FORUMS SUCH AS REDDIT AND GOLFMK7.COM. YOU CAN ALSO FIND VIDEOS OF THE ISSUE ON YOUTUBE:    HTTPS://WWW.REDDIT.COM/R/GOLFGTI/COMMENTS/B9CPB7/POSSIBLE_2019_6MT_STALL_ISSUE_YOUR_FEEDBACK/    HTTPS://WWW.GOLFMK7.COM/FORUMS/SHOWTHREAD.PHP?P=776852#POST776852",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11217288,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/31/2019",
+      "dateComplaintFiled": "06/01/2019",
+      "vin": "3VW5T7AU1KM",
+      "components": "ENGINE",
+      "summary": "BRAND NEW PURCHASED 2 DAYS AGO ON 5/30/19 WITH 24 MILES ON IT. IT'S A 6 SPEED MANUAL TRANSMISSION AND WHEN APPROACHING A STOP EITHER IN GEAR WITH CLUTCH DEPRESSED OR IN NEUTRAL, CAR WILL STALL AND NEED TO BE RESTARTED. DANGEROUS, SAFETY IS A CONCERN. IT'S A VERY SUBTLE STALL AND YOU REALLY HAVE TO BE PAYING ATTENTION OR BAD THINGS WILL HAPPEN. HAPPENING MORE OFTEN NOW, VEHICLE NOW HAS 122 MILES AND GOING BACK TO DEALER FOR MORE TESTING. INITIAL TESTING AT DEALER WAS ABLE TO DUPLICATE PROBLEM 1 DAY AFTER PURCHASE. IT'S NOW 2 DAYS OLD! BUILD DATE WAS 3/2019. IT APPEARS TO ME TO BE SLOW SPEED COASTING, CLUTCH NOT ENGAGED IN NEUTRAL TO A STOP OR CLUTCH ENGAGED IN GEAR COASTING TO A STOP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11210260,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/24/2019",
+      "dateComplaintFiled": "05/28/2019",
+      "vin": "3VW5T7AU3KM",
+      "components": "ENGINE",
+      "summary": "2019 MANUAL TRANSMISSION GTI'S STALL WHEN COMING TO A STOP IN TRAFFIC.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11208702,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/19/2019",
+      "dateComplaintFiled": "05/20/2019",
+      "vin": "3VW5T7AU8KM",
+      "components": "ENGINE",
+      "summary": "ENGINE STALLS AS CAR COMES TO A FULL STOP IN NORMAL STREET TRAFFIC:  BRAKING WITH TRANSMISSION IN NEUTRAL, CLUTCH ENGAGED OR DISENGAGED, NEAR-STATIONARY OR FULL-STATIONARY; BRAKING WITH TRANSMISSION IN GEAR AND CLUTCH FULLY DISENGAGED, NEAR-STATIONARY OR FULL-STATIONARY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11206028,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/03/2019",
+      "dateComplaintFiled": "05/07/2019",
+      "vin": "3VW5T7AU3KM",
+      "components": "ENGINE",
+      "summary": "VEHICLE WITH MANUAL TRANSMISSION, ENGINE STALLS AT LOW SPEEDS IN NEUTRAL. BRAND NEW CAR, ONLY 100 MILES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11205657,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/05/2019",
+      "dateComplaintFiled": "05/06/2019",
+      "vin": "3VW5T7AU2KM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "WHEN COMING TO A STOP, UNDER 5 MPH. THE CAR STARTS TO DROP RPMS AND THEN IT WILL STALL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11205774,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/04/2019",
+      "dateComplaintFiled": "05/06/2019",
+      "vin": "3VW5T7BU0KM",
+      "components": "ENGINE",
+      "summary": "AFTER DRIVING THE CAR FOR 30 OR SO MINUTES ON BOTH CITY AND HIGHWAY STREETS, MY NEW GLI WITH 800 MILES ON THE ODOMETER WILL INTERMITTENTLY STALL WHEN COMING TO A STOP. THIS ENGINE STALL HAPPENS WHEN THE CLUTCH IS TO THE FLOOR AND IN GEAR AND SOMETIMES WITH THE CLUTCH OUT AND IN NEUTRAL. IT IS A VERY GENTLE STALL - NOTHING LIKE THE LURCHING THAT OCCURS DURING A TYPICAL STALL, IN FACT THERE HAVE BEEN TIMES WHEN I DIDN'T NOTICE THE ENGINE DIED. AFTER THE OCCURRENCE OF THE FIRST STALL IT USUALLY CONTINUES TO HAPPEN AT EACH SUBSEQUENT STOP FOR THE REST OF THAT PARTICULAR DRIVING TRIP. THE CAR RETURNS TO NORMAL AFTER SITTING FOR ALONG PERIOD OF TIME. THIS ISSUE HAS HAPPENED ON THREE SEPARATE OCCASIONS OVER THE FIRST MONTH OF OWNERSHIP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11204292,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/20/2019",
+      "dateComplaintFiled": "04/28/2019",
+      "vin": "3VW5T7AU9KM",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "I HAVE A WHITE GTI RABBIT WITH A MANUFACTURE DATE OF 10/18. VEHICLE ENGINE STALLS WHEN COMING TO A STOP. THIS OCCURS WITH THE VEHICLE IN NEUTRAL REGARDLESS OF WHETHER OR NOT THE CLUTCH IS DEPRESSED AND HAPPENS DURING CITY DRIVING. THE VEHICLE EXHIBITED THIS PROBLEM AROUND 3000 MILES AND HAS OCCURRED SEVERAL TIMES SINCE.  IT DOES THIS EVERY SO OFTEN IN AN UNPREDICTABLE MANNER AND AM UNABLE TO REPEAT IT. ALSO NOTICED THAT THE GEAR SELECTOR ON THE DASH ACTS ERRATICALLY WHEN THIS HAPPENS SOMETIMES SHOWING 4-2 OR 4-3 OR 2-3 BEFORE THE STALL OCCURS.  NO DASH LIGHTS COME ON. THERE ARE NO CHECK ENGINE LIGHTS.  VEHICLE REQUIRES A RESTART BY PUSHING THE START BUTTON BEFORE DRIVING AGAIN. AM AFRAID THAT THIS WILL HAPPEN DURING FREEWAY DRIVING.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11204142,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/27/2019",
+      "dateComplaintFiled": "04/27/2019",
+      "vin": "3VW5T7AUXKM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "ENGINE SOFT SHUT-OFF WHEN IN NEUTRAL (MANUAL TRANSMISSION) OR WITH THE CLUTCH TO THE FLOOR, WHILE SHIFTING TO NEUTRAL, AND COMING TO A STOP. CITY STREET. THIS OCCURRED 3 SUCCESSIVE TIMES OVER A SHORT, 5 MINUTE TRIP HOME ON CITY STREETS. EVERY DOWNSHIFT, WITH GEAR NEUTRAL OR DISENGAGED, THE ENGINE SHUTS OFF JUST AS OR AFTER COMING TO A STOP. THERE IS NO \"STALL SHUDDER\" FROM THE ENGINE, AND IT JUST REVS FROM 1K RPM TO 0 WHEN STOPPED OR WHILE STOPPING, IN NEUTRAL. THE VEHICLE HAD BEEN WARMED UP TO OPERATING TEMPERATURE. THE DASHBOARD GEAR REPORTER ALSO MISREPORTED THE CURRENT GEAR AT THIS TIME: REPORTED 3RD WHEN IN 2ND, OR 3RD-TO-5TH WHEN IN 3RD. AGAIN AT LOW SPEEDS, AND LOW REVS THAT WOULD NOT BE APPROPRIATE FOR AN UPSHIFT. VEHICLE BOUGHT NEW THIS WEEK, CURRENTLY AT 100 MILES ON THE ODOMETER.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11203618,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/23/2019",
+      "dateComplaintFiled": "04/25/2019",
+      "vin": "3VW5T7AU9KM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "ON SEVERAL OCCASIONS SINCE ABOUT APRIL 8,2019 MY NEW GTI STALLED WHILE I WAS DRIVING. WHEN THE CAR STALLS IT DOES SO WITHOUT WARNING. THE STALL OCCURS AS IF THE CAR SIMPLY TURNED OFF. ON A FEW OCCASIONS THE CAR STALLED WHEN I STOPPED AT A STOP SIGN OR WHEN I DROVE ONTO MY DRIVEWAY. TWICE THE CAR STALLED IN BUMPER TO BUMPER TRAFFIC ON I580 NEAR SAN FRANCISCO. BOTH OF THOSE STALLS CAME AT A MOMENT WHEN VEHICLES FOLLOWING ME NEARLY COLLIDED WITH ME BECAUSE TRAFFIC BEGAN TO MOVE BUT MY CAR STALLED AND FOR A MOMENT DID NOT MOVE IN SYNC WITH TRAFFIC.  THE STALLING SEEMS TO HAPPEN MORE AS I COME TO A STOP. IT HAS BEEN HAPPENING MORE FREQUENTLY OVER THE LAST FEW DAYS ALSO. I REALIZED THERE IS IN FACT AN ISSUE SO I CONTACTED THE DEALERSHIP WHERE I PURCHASED THE CAR. I HAVE AN APPOINTMENT IN 1 WEEK SO THEY CAN HOPEFULLY ADDRESS THIS ISSUE. I WILL NOT BE DRIVING THE CAR UNTIL THE DEALERSHIP CLEARS IT AS SAFE TO OPERATE.   THE CAR IS A 2019 VW GTI 6 SPEED MANUAL SHIFT.  THE STALLS STARTED WHEN THE CAR HAD ABOUT 400 MILES, TODAY IT STALLED FOR ABOUT THE 8TH OR 9TH TIME AND HAS ABOUT 1125 MILES.  I AM VERY EXPERIENCED OPERATING A MANUAL TRANSMISSION AND I KNOW THAT THE STALLING IS A VEHICLE ISSUE AND NOT OPERATOR ERROR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11197188,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/15/2019",
+      "dateComplaintFiled": "04/18/2019",
+      "vin": "3VW5T7AU9KM",
+      "components": "ENGINE",
+      "summary": "VEHICLE DIED WHEN STOPPING AT RED LIGHT AT A HIGH TRAFFIC CITY INTERSECTION, CLUTCH WAS ALL THE DOWN.  ALSO, DIED TWICE IN REVERSE WHILE PARKING IN DRIVEWAY AT SLOW ROLL WHILE CLUTCH WAS COMPLETELY DEPRESSED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11196841,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/16/2019",
+      "dateComplaintFiled": "04/17/2019",
+      "vin": "3VW5T7AU3KM",
+      "components": "ENGINE",
+      "summary": "ENGINE STALLS AT CRAWL SPEEDS/COMING TO A COMPLETE STOP WITH THE CLUTCH PEDAL FULLY DEPRESSED. HAS HAPPENED THRICE SINCE PURCHASE. FIRST EPISODE WITH ODO AT AROUND 100 MILES. SECOND AROUND 350 MILES.LATEST EPISODE 4/16/19 AT 556 MILES.  THE STALL IS VERY QUIET LIKE IF THE CAR HAS AN AUTO STOP START FUNCTION AND IS ONLY NOTICED WHEN PUSHING ON THE GAS PEDAL TO GET MOVING AGAIN.  HAS NEVER HAPPENED WHEN COASTING IN NEUTRAL WITH THE CLUTCH LET OUT.  HAS NOT HAPPENED AT HIGHER SPEEDS BUT HAVE NOT DRIVEN MANY HIGHWAY MILES.  STARTS RIGHT UP AGAIN WITH NO TROUBLE ON PUSHING THE STOP/START BUTTON.  NO TROUBLE WITH THE GEAR INDICATOR AS SOME OTHER OWNERS OF THE SAME MODEL HAVE STATED ON ONLINE FORUMS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11196007,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/12/2019",
+      "dateComplaintFiled": "04/13/2019",
+      "vin": "3VW5T7AU6KM",
+      "components": "ENGINE",
+      "summary": "IT'S A 2019 RABBIT EDITION GTI AND THE ENGINE STALLS AT A STOP IN NEUTRAL POSITION AT NORMAL RUNNING TEMPERATURE. MANY OWNERS OF THE GTI RABBIT MK7.5 ARE EXPERIENCE THE SAME PROBLEM AND THERE'S NO WARNING LIGHTS ON THE PANEL THAT INDICATES THE CAR SHOULD BE SERVICE. I HAVE EXPERIENCE THIS PROBLEM ONLY AFTER A FULL STOP NOT RUNNING!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11195494,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/27/2019",
+      "dateComplaintFiled": "04/10/2019",
+      "vin": "3VW5T7AU7KM",
+      "components": "POWER TRAIN",
+      "summary": "I PURCHASED A 2019 GOLF GTI RABBIT EDITION (URANO GREY) W/ MANUAL TRANSMISSION ON 2/23/2019. ON 2/27, MY CAR STALLS WHEN I AM STATIONARY ON FLAT TERRAIN, WAITING FOR THE GREEN LIGHT AT THE INTERSECTION, WITH MY CLUTCH ALL THE WAY IN.  I RESTARTED THE ENGINE WITHOUT RELEASING THE CLUTCH. THE REVS GOES UP TO 800, STAYS THERE FOR A SECOND, AND THE CAR STALLS AFTERWARDS. I DID ANOTHER TWO RESTARTS AFTER THAT, WHICH GAVE ME THE SAME RESULT.  THE WAY I GET OUT OF THIS SITUATION IS TO APPLY A LITTLE THROTTLE WHEN WAITING, RAISING THE REV TO AROUND 1100.  THIS ISSUE NEVER OCCURRED AFTERWARDS, BUT I BELIEVE THERE IS A POTENTIAL DEFECT IN POWER TRAIN OR ENGINE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11194804,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/08/2019",
+      "dateComplaintFiled": "04/08/2019",
+      "vin": "3VW5T7AUXKM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "VEHICLE STALLS WHEN COMING TO A STOP WITH CLUTCH DEPRESSED.  GEAR INDICATOR WILL INDICATE WRONG GEAR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11194200,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/02/2019",
+      "dateComplaintFiled": "04/05/2019",
+      "vin": "3VW5T7AUXKM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "THE CAR COMING SLOWING DOWN TO A STOP WILL SHUT (STALL) OFF AND REQUIRE RESTARTING.  SECONDARY ISSUE WHERE THE TRANSMISSION GEAR SELECTION INDICATOR WILL SHOW THE WRONG GEAR SELECTED.    HTTPS://WWW.YOUTUBE.COM/WATCH?V=56OMNOQSI-C",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11193937,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/04/2019",
+      "dateComplaintFiled": "04/04/2019",
+      "vin": "3VW5T7AU1KM",
+      "components": "ENGINE",
+      "summary": "I HAVE A NEW 2019 VW GOLF GTI RABBIT WITH 500 MILES, I'VE HAD A PROBLEM WITH THE CAR STALLING AS I COME TO A STOP. IT'S HAPPENED MULTIPLE TIMES, ALL WHILE SLOWLY COMING TO A STOP. IT'S QUIET AND DON'T EVEN NOTICE UNTIL I TRY TO ACCELERATE",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11193940,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/04/2019",
+      "dateComplaintFiled": "04/04/2019",
+      "vin": "3VW5T7AU7KM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "VEHICLE IS STALLING WHILE COMING UP TO A STOP AT LOW SPEEDS.  I FULLY ENGAGE THE CLUTCH AND THEN IT STALLS.  IT FEELS MORE OF AN ENGINE SHUTDOWN THAN A STALL; I SAY THIS BECAUSE IT IS A VERY QUIET AND GENTLE SHUTDOWN.  YOU CANT EVEN TELL IT HAPPENED UNTIL YOU SEE THE RPM'S DROP TO ZERO.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2019",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    }
+  ]
+}

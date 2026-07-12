@@ -1,0 +1,2851 @@
+{
+  "count": 129,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11744671,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/03/2026",
+      "dateComplaintFiled": "06/17/2026",
+      "vin": "3VW217AU4FM",
+      "components": "SUSPENSION",
+      "summary": "Rear strut completely broke",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11739492,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/25/2026",
+      "dateComplaintFiled": "05/22/2026",
+      "vin": "3VW817AU0FM",
+      "components": "SUSPENSION",
+      "summary": "The right rear coil spring on my 2015 Volkswagen Golf fractured suddenly while the vehicle was completely stationary in a parking lot. There was no collision, pothole impact, curb strike, road hazard, or other external event that could reasonably explain the failure. The incident was captured on dash cam video.  The failed component is the right rear suspension coil spring. I will retain the broken component and make it available for inspection upon request, although the vehicle must be repaired immediately because it is my primary means of transportation.  Volkswagen has previously acknowledged potential manufacturing and material defects involving rear axle coil springs in technical service bulletin/campaign 42J5, which states that certain rear axle coil springs may not have met factory specifications due to defective materials or production process issues.  This failure created a significant safety concern because a fractured coil spring can shift position, puncture a tire, damage suspension or brake components, or cause instability and loss of vehicle control if the failure occurs while driving at speed. In this case, the spring failed while the car was parked and stationary, but the same spontaneous failure could have occurred during highway driving.  The defect has been confirmed by both an independent repair shop and a Volkswagen specialist, and I have written repair estimates documenting the broken spring.  The vehicle and component have not been inspected by Volkswagen because the dealership required approximately $200 solely for diagnostic inspection despite the visible and documented mechanical failure.  There were no warning lights, dashboard messages, noises, drivability symptoms, or other indications of impending failure prior to the incident. The spring failed without warning.  I contacted Volkswagen/dealership personnel seeking goodwill assistance due to the known spring defect issue and the unusual circumstances of the failure, but was denied.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11708381,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/20/2025",
+      "dateComplaintFiled": "01/02/2026",
+      "vin": "3VW217AU6FM",
+      "components": "VEHICLE SPEED CONTROL,ENGINE,ENGINE AND ENGINE COOLING",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact stated that the vehicle jumped the curb while driving, but he was able to regain control. The driver turned off the vehicle and restarted it.  Recently, while reversing out of a parking spot and placing the vehicle into drive, there was sudden acceleration, and he crashed into a fence in front of the dumpsters. The brake pedal was applied, but the vehicle continued to accelerate.  The contact's neighbor was jumping up and down in front of my vehicle, waving his arms; the driver was able to stop approximately six feet in front of his neighbor. The vehicle was turned off. While reversing, the vehicle accelerated and crashed into a parked Jeep, causing damage to the driver's side front and rear doors. There was no police report filed, air bag deployment, fire, or injuries. Additionally, the EPC has been turning on. The engine was chugging. The vehicle was restarted, and the light cleared. On one occasion, the EPC light stayed on, and cylinder number 5 had stopped firing. The local dealer was not contacted. The vehicle was not diagnosed or repaired. The manufacturer was contacted. Additionally, the contact wanted to send the complaint copy to the insurance company and manufacturer to obtain the EDR to provide to the police and insurance company for his claim approval. The failure mileage was approximately 114,500.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11707246,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/25/2021",
+      "dateComplaintFiled": "12/27/2025",
+      "vin": "3VW817AU7FM",
+      "components": "SUSPENSION,FUEL/PROPULSION SYSTEM",
+      "summary": "Sirs: I am reporting  TWO issues:  One:   My car should have been included in the recall campaign for rear coil spring fracture that other 2015 Golfs have experienced.  I had to pay to replace fractured rear coil springs myself, last year.  Two:   Volkswagen has made it impossible for me to get ANY recall performed, including the suction fuel pump recall.  After I filed a 1 star review for the utter failure of the Ithaca NY VW dealer to repair my brakes in late October 2021,  the service manager retaliated.  He called and assailed me with four letter language.  Afterward, I made an appointment with another local VW dealer AT RANDOM, and one I had never done business with.   Before I could identify myself or my VIN number this second dealer proceded to accuse me of being a deadbeat who does not pay his bills.  He said if I came to his shop, I would pay in advance for any servicing.   I would have to agree to surrender my car for an indeterminate time, and pay to strip it of all aftermarket parts at my expense, before even proceeding with diagnosis.   It was apparent to me that the service manager had badmouthed me to ALL the local dealerships.  I am in effect, blacklisted.  I complained to Volkswagen corporation about this treatment in writing.  I sent them proof of payment.  They refused to help me.  There is so much hostility coming from VW dealers, that I don't feel I can trust them to do safety recalls.  I don't deserve this.   I've always been polite and paid my bills immediately.  The Ithaca dealer was paid for their diagnosis, even though they lied to me about the problem and never fixed the brakes.  I want VW to provide the parts and servicing information for the suction pump recall.  I will find an independent mechanic to do the repairs.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11669266,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/21/2025",
+      "dateComplaintFiled": "06/25/2025",
+      "vin": "3VWRA7AU6FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "The chrome plastic trim coating on the START/STOP button and also the steering wheel have peeled and are razor sharp.  I cut myself badly on both pieces on my right fore fingertip and middle ring finger.  I try to avoid placing my hand accross the horn of the steering wheel since this happened, but the trim there is very dangerously sharp.  There is a recall on the same trim on 2017 cars (Service Action 34L9), but the VW dealer told me there was not on my vehicle.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11653103,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/03/2025",
+      "dateComplaintFiled": "04/07/2025",
+      "vin": "3VW217AU0FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I brought my 2015 Volkswagen (with only 50,000 miles) to Island Volkswagen in NY for a fuel system recall repair. Before this, the car had no fuel smell, no leaks, and was driving normally.  Immediately after the recall work, I began smelling fuel. The dealership told me the fuel line is leaking and needs to be replaced. I never had this issue before, and it’s clearly related to the repair they performed. I’m now being told I must pay $550 out of pocket for something I believe was caused by their handling of the fuel system during the recall.  This is a serious safety concern. If I drive this car and something goes wrong, it could result in a fire. I believe this issue deserves review, especially if other drivers experience similar problems after this recall.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11626162,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/18/2024",
+      "dateComplaintFiled": "11/19/2024",
+      "vin": "3VW217AU5FM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact stated while driving at an undisclosed speed, the fuel gauge level dropped quickly, and there was an abnormal fuel odor before the vehicle shutoff in the middle of the roadway. The contact stated that the check engine warning light was illuminated. The contact exited the vehicle and push the vehicle to the side of the road. The contact stated that while checking underneath the vehicle, the contact became aware of a fuel leak. The vehicle was towed to an independent mechanic to be diagnosed. The independent mechanic confirmed the fuel leak and referred the contact to the dealer for assistance with the repair. The vehicle was not yet repaired. The contact referenced NHTSA Campaign Number: 24V110000 (FUEL SYSTEM, GASOLINE) as a possible cause for the failure. The manufacturer was not notified of the failure. The approximate failure mileage was 111,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11621842,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/01/2020",
+      "dateComplaintFiled": "10/24/2024",
+      "vin": "3VW217AUXFM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "When I turn on the ignition it says on the screen Starting system fault please service the vehicle.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11609559,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/18/2021",
+      "dateComplaintFiled": "08/19/2024",
+      "vin": "3VW917AU0FM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "I was driving to my grandparents house and once i got to the house there was gasoline dripping from the back of car, from the area of the tank.   \"61821 SE VERIFICO UNIDAD CON LIQUEO DE GASOLINA , SE VERIFICO Y SE ENCONTRO CHARCOL CANISTER LLENO DE GASOLINA , SE HIZO TEST PLAN Y SE ENCONTRO VALVULA INTERNA DEL TANQUE DE LA GASOLINA TRANCADA Y ESTO OCASIONANDO LIQUEO DE GASOLINA , SE REMOVIO Y SE INSTALO TANQUE DE GASOLINA NUEVO Y CANISTER DE LOS GASES NUEVO Y VALVULA N80 NUEVA Y SE LIMPIARON TODAS LAS LINES DEL SISTEMA , SE HIZO TEST Y NO PRESENTO LIQUEO DE GASOLINA\" - Mecanic",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        },
+        {
+          "type": "Vehicle",
+          "productYear": "9999",
+          "productMake": "TBD",
+          "productModel": "TBD",
+          "manufacturer": "ODI Demo Co"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11604416,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/25/2024",
+      "dateComplaintFiled": "07/25/2024",
+      "vin": "3VW217AU9FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Vehicle had recall for \"leaking fuel fire risk\"  Strong smell of fuel inside car. Manufacturer recall #20UF NHTSA recall 24V110 There has not been a fix yet available.  Dealer (Team Volkswagen Merrillville IN) replaced the Jet fuel pump.  Problem continued, VW engineering said bring the car back and replace the entire fuel tank. Completed. Problem returned 2 weeks later (XXX). While driving home from work noticed extremely strong fuel odor in car.  Pulled off in a store parking lot, someone ran up and told me my car was leaking fuel. Gas was literally pouring out, I lost 1/4 tank of fuel on way home. The fuel was leaking under hood, under fuel tank area and under the rear passenger seat. I had the car towed to the dealer. Volkswagen does not have an actual fix for the problem. I should be given a replacement car due to Volkswagen being unable to correct this serious safety issue. What should I do, I am afraid to take the car back. I have videos and several pictures but unable to upload onto this website. Call [XXX]  Crown Point Indiana  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11600861,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/10/2024",
+      "dateComplaintFiled": "07/10/2024",
+      "vin": "3VW217AU2FM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact received notification of NHTSA Campaign Number: 24V110000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The contact stated that while refueling the vehicle, there was fuel leaking from the vehicle, making it impossible to fill the fuel tank. The dealer was contacted. The manufacturer was not made aware of the issue. The failure mileage was 73,780. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11599200,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/30/2024",
+      "dateComplaintFiled": "07/05/2024",
+      "vin": "3VW2A7AUXFM",
+      "components": "STRUCTURE",
+      "summary": "The hood release doesn’t work and cannot access anything in the engine bay. No oil changes until the hood can be opened. Clear recall due to the danger of not being able to open. The handle inside the car broke by attempting to open the hood.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11585517,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/26/2024",
+      "dateComplaintFiled": "04/26/2024",
+      "vin": "3VW217AU0FM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact received notification of NHTSA Campaign Number: 24V110000 (Fuel System, Gasoline) however, the part to do the recall repair was not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The dealer was contacted and confirmed that parts were not yet available. The manufacturer was made aware of the issue and informed the contact that a second notice would be mailed when parts became available. The contact had not experienced a failure. VIN tool confirms parts not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11577119,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/13/2023",
+      "dateComplaintFiled": "03/13/2024",
+      "vin": "3VW217AU5FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Thermostat/water pump housing leaking coolant at 20,000 miles. No damage to vehicle that caused this, seems to be a common issue with VW Golfs. The repair is out of pocket and the dealership which sold me the car only a year ago is quoting $1600.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11577150,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/06/2024",
+      "dateComplaintFiled": "03/13/2024",
+      "vin": "3VWRA7AU3FM",
+      "components": "SUSPENSION,POWER TRAIN",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact stated that while driving at an undisclosed speed, the stick shift was inoperable. The vehicle was taken to the dealer where it was diagnosed with a failed rear axle and coil springs. The contact was informed that the rear axle and coil springs needed to be replaced.  The vehicle was not repaired. The manufacturer was made aware of the failure but provided no assistance. The failure mileage was approximately 50,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11575002,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/15/2024",
+      "dateComplaintFiled": "03/02/2024",
+      "vin": "3VW217AU9FM",
+      "components": "STRUCTURE",
+      "summary": "Leaking sunroof !!!!!!!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11573889,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/11/2022",
+      "dateComplaintFiled": "02/25/2024",
+      "vin": "3VW217AUXFM",
+      "components": "STRUCTURE",
+      "summary": "There is a crack and leak in my sunroof. I have not done anything to my car that would result in the crack.  Based on Reddit searches, this is a frequent problem for VW owners.  Autobody shops do not want to touch my sunroof or fix it because they do not have success fixing sunroofs.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11556818,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": true,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/25/2023",
+      "dateComplaintFiled": "11/26/2023",
+      "vin": "3VW2A7AU5FM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "I smelled a strong odor coming from the heater that turned out to be burnt plastic and wiring associated with the auxiliary heater. This is an obvious fire/ smoke hazard that could have been deadly if other nearby components caught fire.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11549044,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/05/2019",
+      "dateComplaintFiled": "10/09/2023",
+      "vin": "WVWLF7AU7FW",
+      "components": "ENGINE",
+      "summary": "Thermostat housing and water pump are leaking coolant. It is available for inspection. It can cause my engine to overheat and/or fail while being used. It has been confirmed by a dealership. It has not been inspected by the police, manufacturer, or insurance company. There have been occasional reports of low coolant, and the coolant drains significantly faster than expected especially in cold weather (e.g. needing to fill coolant every 7 days). It was first repaired in 2019, and has since failed again.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11541025,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/01/2023",
+      "dateComplaintFiled": "08/27/2023",
+      "vin": "3VW217AU6FM",
+      "components": "ENGINE",
+      "summary": "While normally driving on the street, I noticed that the car started to overheat and could hear the radiator working to keep the heat level normal. I stopped and did not notice any leaks and added coolant to the car after I left it cool for about 3 hours. The problem went away but i still took it to the dealership and i was told it might be the head gasket of the engine or thermostat/waterpump,  a $4000 repair. Was advised to just sell the car. VW should address this issue as it has been a long issue now",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11537537,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/03/2023",
+      "dateComplaintFiled": "08/09/2023",
+      "vin": "3VW2A7AU5FM",
+      "components": "STEERING",
+      "summary": "One night I started hearing a crunching noise while I was turning my wheel at low speeds. I backed out of a parking spot and started to turn the wheel to hear the full extent of the noise. The next morning, I got up and went out, backed up the car, turned the wheel to the same noise coming from the steering wheel. About an hour later, I drove home and turned into my parking spot, when the noise got worse and then stopped. At the end of the noise, two error codes arose: Airbag and transmission error. The steering wheel controls, such as volume and song control do not work, as well as other functions on the wheel, such as the dash control and cruise control buttons.   I quickly googled the symptoms around the make, model and year and saw mass amounts of Volkswagen vehicles around 2015 that experienced the same issues, and the issue of a faulty clock-spring being the culprit. With this in mind, I reached out to a Volkswagen dealership to relay my concerns and the conversation ended with an appointment booked and a consensus that the issue was a faulty clock-spring, as many have had this issue.   This issue seems to be widespread throughout many years and models of the Volkswagen line, however, my car follows a wide group of cars by one year in manufacture date, yet it lacks a recall part, despite the believed widespread affected group of cars.  My appointment with the Volkswagen dealership went as expected- they found that my clock spring was indeed the issue. The service advisor admitted that the \"clock-springs are bound to break.\" However, my car is 6,000 miles out of warranty to be able to cover the cost of this repair at the moment of typing this. And with further confirmation, the clock spring part is not a recalled part, thus deeming the uncovered service, despite the admittance to a faulty and common issue.   I drove a significant distance to reach my dealership with the fear of my stearing wheel locking up while I am driving on the freeway. It has yet to lock.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11532637,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/16/2023",
+      "dateComplaintFiled": "07/17/2023",
+      "vin": "3VW2A7AU1FM",
+      "components": "SUSPENSION",
+      "summary": "Driving on thruway at 65 when the left rear coil spring broke. There was a loud bang and pieces of the spring exited out onto the highway where several vehicles ran over them before they bounced off the road.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11529909,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2023",
+      "dateComplaintFiled": "07/01/2023",
+      "vin": "3VW217AU9FM",
+      "components": "AIR BAGS",
+      "summary": "Air bag error appeared on dashboard. Horn is not functioning as well. May be due to a faulty switch in the steering.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11526988,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/12/2023",
+      "dateComplaintFiled": "06/14/2023",
+      "vin": "3VW817AU7FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "I was putting gas and it started shooting out gas from the tank fuel. I had filled up 2 gallons and the entire two gallons ended up on the floor of the gas station. I took the car to an old Volkswagen specialist and he suggested I get an evap system smoke test to determine what the problem is. I did the test and it came back as a faulty evap canister. That the evap vent valve is stuck closed and purge is allowing fuel into the canister. So I bought an oem canister and replaced the old one. For one day the car drove fine with no issue putting gas or any leaks. The next day I noticed the smell of gas and saw that it was leaking gas from behind the rear wheel. I took it to a local mechanic and the car leaked the remaining 60 miles of gas on the floor. Also the new canister is filled with gas again.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11525100,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/11/2023",
+      "dateComplaintFiled": "06/02/2023",
+      "vin": "3VW2A7AUXFM",
+      "components": "POWER TRAIN,VEHICLE SPEED CONTROL",
+      "summary": "Over the last two months, I've had over 30 incidences where the car will either randomly shift extremely hard into a gear or will hesitate, stutter, lose power while accelerating. Some of the shifts have been so hard that they've thrown me forward. Some of the losses of power are extremely dangerous as I'm accelerating at highway speeds. I have a full log of at least 30 of these incidents (and detailed as best I could) and they are attached. I picked May 11th because that was the hardest shift/loss of power which caused me the greatest harm.   I've been able to reproduce the errors in drive, sport, and Tiptronic mode. The errors occur in all gears, but are most common in 2nd and 3rd (although the higher gears are involved as well), which leads me to believe it's not the transmission, yet the mechatronics unit or something outside of the transmission and engine itself.   The troubling issue here is that the car is recording absolutely zero fault codes for diagnosis; that is, the car is shifting, stuttering, hesitating randomly and erratically and no diagnostics are being provided to resolve the issue. Technicians are able to guess what the issue is, but cannot give a guarantee what the problem is without the fault codes. This is the greatest safety concern, but luckily no crashes so far.   I was interested to learn that there was a recall on the same model by the Australian government related to the pressure accumulator and I'd like to see if this could be the issue, since I'm experiencing the same symptoms as those described in the recall: https://www.vehiclerecalls.gov.au/recalls/rec-005369.   The contact stated that the loss of power issue still persists. The contact stated the issue is a faulty crank trigger.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11515575,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2023",
+      "dateComplaintFiled": "04/05/2023",
+      "vin": "3VW2A7AU6FM",
+      "components": "STRUCTURE,WHEELS,UNKNOWN OR OTHER",
+      "summary": "Discovered several inches of water in the spare tire boot area.  The entire back seat was also soaked through. Water appears to be leaking into the car from rear pressure vents behind the bumper or from another undetermined source, posing risks including black mold and damage to the spare tire.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11515691,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/02/2023",
+      "dateComplaintFiled": "04/05/2023",
+      "vin": "3VW217AUXFM",
+      "components": "SUSPENSION",
+      "summary": "Left rear coil spring failed and is not available for inspection. The car was difficult to control when the spring failed which put driver safety at risk. The car was brought to an independent service center and confirmed that the failure was a left rear coil spring which required replacing both the left and right rear coil springs. The component was not inspected by the manufacturer. There were no warning signs or symptoms of the problem prior to failure. The car suddenly start making a loud noise in the rear left section of the vehicle while driving.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11514261,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/12/2021",
+      "dateComplaintFiled": "03/28/2023",
+      "vin": "3VW2A7AU3FM",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+      "summary": "The frame and track of the sun roof has developed a crack.  It is available for inspection upon request. Because the frame/track developed a crack in the structural material, I can hear it rattling when I drive, which tells me it is loose.  A loose sun roof structural system is not good, as driving on a freeway / highway at a higher speed could possibly cause the sun roof to become detached and fly off of the vehicle, or dislodge enough to distract the driver.  Another secondary problem that has happened because of this loose, cracked sun roof track/frame, is that water has now been leaking into the car (possibly causing mold and condensation which has fogged up the windshield while driving) and slippery conditions all over the track/frame.  This water drips through the overhead electrical panel, the headliner and down into the speakers.  This can cause an electrical shortage in the vehicle, or shock.  Water dripping into the car while driving on a rainy day on the freeway, can cause major distraction to the driver in dangerous conditions.  The vehicle and sun roof issue have been inspected by the VW dealer, auto shop, and insurance.  The VW dealer did tell me they have this issue often for these same models (they were fixing one as i was talking to them) and I have seen lawsuits online for this same issue.  The car has never warned me about this issue, there are no warning lamps or messages pertaining to this.  Nothing has ever severely impacted the car to cause this problem (It has never been in an accident). Please note, I have not used / opened / activated / operated this sun roof since this issue began back in December 2021.  Car Insurance has offered to pay for a new headliner, but not for sun roof repair.  The lifetime warranty has declined to pay for the repair because water has been involved (even though water is a secondary issue to the initial issue of a crack developing in the sun roof track/frame under normal dry warm conditions).",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11508805,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/03/2023",
+      "dateComplaintFiled": "02/23/2023",
+      "vin": "3VW2A7AUXFM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS,FORWARD COLLISION AVOIDANCE",
+      "summary": "Clock  spring issue in VW golf’s should re reinvestigated. These are failing on these cars and companies are not looking into fixes or warranty help for these devices that should last. It’s shortsighted for consumers to continue to deal with this issue.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11495757,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2022",
+      "dateComplaintFiled": "12/02/2022",
+      "vin": "WVWLF7AU4FW",
+      "components": "ENGINE AND ENGINE COOLING,FUEL SYSTEM, GASOLINE",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact noticed that the fuel pump would frequent stop while fueling the vehicle. The contact then stated that while his vehicle was being driven by a valet, fuel began to pour out of the fuel tank while on an incline. The valet attendant managed to drive the vehicle down a decline which stopped the leak. Despite the failure, the contact was able to drive the vehicle home. The vehicle was then driven to a dealer where a diagnostic test was performed. The dealer informed the contact that the suction pump, seal, and emission filter needed to be replaced. Upon investigation, the contact linked the failure to NHTSA Campaign Number: 16V647000 (Fuel System, Gasoline, Engine and Engine Cooling) however, the VIN was not included in the recall. The manufacturer was notified of the failure and informed him that the vehicle was no longer under warranty. The vehicle had yet to be repaired and remained in the possession of the dealer. The failure mileage was approximately 115,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11495289,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/04/2022",
+      "dateComplaintFiled": "11/29/2022",
+      "vin": "3VW217AU3FM",
+      "components": "ENGINE",
+      "summary": "Loss of coolant due to cheap plastic housing leads to damage to the thermostat and water pump. Researching the forums on this issue has shown that it's a common problem with the vehicle that Volkswagen hasn't addressed.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11493326,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/10/2022",
+      "dateComplaintFiled": "11/13/2022",
+      "vin": "3VW217AU4FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Suction pump recall was completed by Karmart the dealership I purchased the vehicle from. Suction pump continues to be an issue with fuel purging or leaking. This has been an ongoing issue for the past 5 months. Most recently a few days ago.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11482218,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/25/2022",
+      "dateComplaintFiled": "08/31/2022",
+      "vin": "3VW817AU5FM",
+      "components": "SUSPENSION",
+      "summary": "The contact owns a 2015 Volkswagen Golf. The contact stated that he noticed that the vehicle had been sitting lower than normal while parked. The contact did an inspection of the vehicle and noticed that the rear coil spring on the driver’s side had fractured. The contact had not taken the vehicle to the dealer. The contact stated that the coil spring needed to be replaced. The contact ordered the part to perform the repair himself. The vehicle was not yet repaired. The manufacturer was not made aware of the failure. The approximate failure mileage was 140,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11480553,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/01/2022",
+      "dateComplaintFiled": "08/22/2022",
+      "vin": "3VW817AU4FM",
+      "components": "SUSPENSION",
+      "summary": "Both Rear Coil Springs fractured. resulting in poor vehicle stability and potentially dangerous situation.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11476528,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/29/2022",
+      "dateComplaintFiled": "07/29/2022",
+      "vin": "3VWRA7AU7FM",
+      "components": "AIR BAGS,UNKNOWN OR OTHER",
+      "summary": "My airbag light came on today as I was backing out of a parking space  (7/29/22 and mileage 235845), and this was after plastic creaking/cracking noises coming from my steering wheel for quite a while when I turned it. The frequency and amount of noise when I turned the wheel had increased a lot lately. This is the second time this exact thing has happened - I had to replace the clock spring in the steering wheel once before (3/19/19 at milage 154165). While I know I drive a lot, it’s mostly straight on the interstate since I live in a rural area, so I am not turning the wheel constantly. I’m hesitant about if it’s worth it to spend money on replacing it since the last time it was almost $800, and has now broken again, only 80k miles later. I know that earlier years of VWs had this part recalled and I am wondering if that should have extended to 2015s - although I’m not sure what good that would do me since the replacement one I had installed at the dealer also broke.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11475220,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/22/2022",
+      "dateComplaintFiled": "07/22/2022",
+      "vin": "3VW217AUXFM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "When I switch the key to turn on the car it does turn on and it says starting system error on the dashboard car runs ok it’s just that it keep saying that and I think there is something wrong with the ignition switch that Volkswagen should address. Thank you!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11474855,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/13/2022",
+      "dateComplaintFiled": "07/20/2022",
+      "vin": "3VW117AU5FM",
+      "components": "SUSPENSION",
+      "summary": "Right rear coil spring fractured while vehicle was being driven at low speed on city streets.  There was no obvious precipitating event.  Upper part of spring was lost, lower part is available for inspection.  Part has been ordered from local dealer but is currently unavailable, due to prior recall on similar models (19V188000).  Report will be filed with VW Customer Service.  Dealer unable to estimate when part will become available.   Car is currently undrivable.  Please extend recall to include my VIN.    Recall 19V188000 Summary Volkswagen Group of America, Inc. (Volkswagen) is recalling certain 2017-2019 Golf Sportwagen, 2019 Jetta, 2015-2019 Golf, and 2018-2019 Tiguan vehicles. The rear coil springs may prematurely fracture.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11469677,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/14/2022",
+      "dateComplaintFiled": "06/16/2022",
+      "vin": "3VW217AU9FM",
+      "components": "SUSPENSION",
+      "summary": "The contact's girlfriend owns a 2015 Volkswagen Golf. The contact stated that while his girlfriend was driving approximately 45 MPH, she heard a loud popping sound coming from the passenger’s side rear of the vehicle after rolling over a small bump on the roadway. The vehicle made a loud clanking noise, and the rear end felt loose and unstable every time the vehicle rolled over bumps on the roadway. The contact stated that there was no warning light illuminated. The contact drove the vehicle to a tire repair facility. The vehicle was diagnosed and the mechanic determined that there was a failure in the passenger’s side rear coil spring; however, the repair parts were on national back order. The vehicle was not repaired. The manufacturer had been informed of the failure. The contact researched online and related the failure to NHTSA Campaign Number: 19V188000 (Suspension). The failure mileage was approximately 80,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11466165,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/23/2022",
+      "dateComplaintFiled": "05/26/2022",
+      "vin": "WVWLF7AU4FW",
+      "components": "ENGINE",
+      "summary": "Water Pump and Thermostat leaking.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11460386,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/10/2022",
+      "dateComplaintFiled": "04/11/2022",
+      "vin": "3VW217AU6FM",
+      "components": "SUSPENSION",
+      "summary": "While driving the rear driver-side coil snapped and cause the car to veer across a lane.  The car was driveable but this almost caused an accident.  We had the broken coil inspected by an independent repair shop.  Apparently, there is a recall for this exact issue on Volkswagens of this model and year but I'll specific vehicle is not covered under the recall.  There was no warning prior to failure.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11459772,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/03/2022",
+      "dateComplaintFiled": "04/05/2022",
+      "vin": "3vw2a7au4fm",
+      "components": "STEERING,POWER TRAIN,ENGINE",
+      "summary": "Driving 65 mph down highway vehicle shut off with no warning.   Fault code shows defective injector #1.  Vw tdi (post fix dieselgate).   Dealer will not fix because I cleared the code to drive home.   Irresponsible for vw to make a car that shuts down completely with no limp mode or short time to clear road.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11454820,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/21/2022",
+      "dateComplaintFiled": "03/02/2022",
+      "vin": "3vw917au0fm",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "Alarm went off in car - said coolant was low - had to pull over.  Luckily was in neighborhood but could have been on highway.  Gas station confirmed issue and let me know that the water pump and entire thermostat housing system had to be replaced - very expensive repair and dangerous issue.  If it had happened on highway, would have had to pull over immediately there.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11452061,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/14/2022",
+      "dateComplaintFiled": "02/15/2022",
+      "vin": "3VW217AU3FM",
+      "components": "SUSPENSION",
+      "summary": "Rear driver side coil spring failure, the component is available for inspection Broken spring turned sideways and had a very sharp edge at fracture and was rubbing on the wheel and tire with potential to puncture tire resulting in loss of control. Vehicle handling was severely compromised making it difficult to maneuver.   Failure of spring was confirmed by independent service center No warning lamps or warnings prior to spring failure NHSTA has recalls on this same vehicle and year but VIN was not included in recall",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11446853,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/03/2022",
+      "dateComplaintFiled": "01/10/2022",
+      "vin": "3vw217au8fm",
+      "components": "ENGINE",
+      "summary": "Coolant has leaked all over my driveway because of a thermostat housing and water pump fail. I am getting fixed for the second time $1800 dollar fix. Very common amongst other Volkswagen owners. This is not fair. If they know of this problem it should be dealt with. Now I am out $4000 in repairs and have a big stain in my brand new driveway. This is very unsafe if driving long distances as coolant leaks everywhere.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11446968,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/08/2022",
+      "dateComplaintFiled": "01/10/2022",
+      "vin": "3vwra7au7fm",
+      "components": "AIR BAGS",
+      "summary": "Clockspring broken it’s the third time in 4 years. I was pulling out of a parking lot making a left turn. There was a ratcheting sound from the steering wheel. I then had an airbag error and none of the steering wheel mounted controls were working including the horn. The defective part is still installed.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11444518,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/01/2021",
+      "dateComplaintFiled": "12/20/2021",
+      "vin": "3VW2A7AU6FM",
+      "components": "AIR BAGS",
+      "summary": "We purchased our VW Golf TDI ([XXX]) in January 2015 and have now had to replace the clock spring three times. The first two times were covered under the 69L2 limited warranty(See attached bills) but our car now has 128,000 miles and is considered ineligible.  We do not understand why our model year was not included under the unlimited warranty extension as part of the 69L2 campaign. When a major component fails three times over a six year period, there is obviously something wrong with it that has not been addressed.   Our teenage son drives the car and it is unsafe to have life-saving components like the airbag and horn fail on a regular basis.  INFORMATION Redacted PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6).",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11436071,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/30/2021",
+      "dateComplaintFiled": "10/08/2021",
+      "vin": "3VW817AU5FM",
+      "components": "AIR BAGS",
+      "summary": "Steering wheel started clicking when turned. Airbag light came on.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11431916,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/05/2021",
+      "dateComplaintFiled": "09/07/2021",
+      "vin": "3VW217AUXFM",
+      "components": "STRUCTURE",
+      "summary": "THERE IS A CRACK ON THE ROOF, THE CRACK IS BETWEEN THE SUNROOF AND THE DOOR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11421601,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/10/2019",
+      "dateComplaintFiled": "06/21/2021",
+      "vin": "WVWLF7AU0FW",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Was reaching across front console when metal trim near shifter seems to be released and acted like a razor blade cutting my hand severely.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11421339,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/07/2021",
+      "dateComplaintFiled": "06/17/2021",
+      "vin": "3VW2A7AU8FM",
+      "components": "AIR BAGS",
+      "summary": "The steering control module and clockspring is faulty. My transmission light and airbag light came on. I brought it to my German auto repair shop and he did some research. It was confirmed as a faulty part and vw should pay for it. My functioning airbags and cruise control are things i rely on for safety. I will bring it in to a dealership because the clockspring has to be programmed by a dealership. I live 300 miles from a vw dealership and it is a real pain.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11418487,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/23/2021",
+      "dateComplaintFiled": "05/25/2021",
+      "vin": "3VWRA7AU4FM",
+      "components": "SUSPENSION",
+      "summary": "Broken rear spring, impacting handling and preventing safe operation of the vehicle. I discovered this after noting handling issues and clunking noises from the rear of the vehicle. There were no warning lamps",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11406568,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/04/2021",
+      "dateComplaintFiled": "04/05/2021",
+      "vin": "3VW2A7AU2FM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS",
+      "summary": "CLOCK SPRING BROKE. THIS IS A KNOWN ISSUE AND RECALL FOR PREVIOUS YEARS, BUT APPARENTLY NOT MINE. SYMPTOMS ARE AIRBAG LIGHT ON, INOPERABLE STEERING WHEEL ACCESSORIES INCLUDING HORN. THIS IS A SAFETY ISSUE. IT SHOULD BE RECALLED.     FIRST KNOWLEDGE OF THIS PROBLEM WAS UPON STARTING FIRST THING IN THE MORNING. CAR WAS PARKED IN THE GARAGE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11402868,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/03/2021",
+      "dateComplaintFiled": "03/14/2021",
+      "vin": "3VW2A7AU0FM",
+      "components": "STRUCTURE",
+      "summary": "THE CHROME TRIM AROUND THE SHIFTER LEVEL IS EXTREMELY SHARP AND IS A SAFETY HAZARD.  REACHING INTO THE STORAGE COMPARTMENT IN FRONT OF THE SHIFTER, MY FINGER CAUGHT THIS SHARP EDGE AND WAS SERIOUSLY CUT.  THERE WAS A LOT OF BLOOD AND PAIN AS A RESULT.  AN ONLINE SEARCH REVEALS THAT THIS TYPE OF INJURY IS NOT UNCOMMON.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11400372,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/11/2021",
+      "dateComplaintFiled": "03/11/2021",
+      "vin": "3VWRA7AU0FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "THE ENGINE WILL SHUT OFF WITHOUT WARNING. THE ELECTRONIC STABILITY CONTROL ERROR MESSAGE COMES UP ON THE INFORMATION DISPLAY ALONG WITH A TPMS ERROR. THIS HAS HAPPENED IN INTERSECTIONS AND HAS PUT ME IN DANGER OF COLLISIONS FROM SUDDEN DECELERATIONS WITHOUT WARNING. THE CAR WILL USUALLY START AFTER THE IGNITION BUTTON IS DEPRESSED AGAIN. IT MAY HAPPEN UP TO FOUR TIMES BEFORE IT QUITS STALLING. THE ERROR MESSAGES CLEAR AFTER IT IS MOVING AGAIN.  IT HAS EVEN HAPPENED ONCE ON THE HIGHWAY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11384851,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2020",
+      "dateComplaintFiled": "12/24/2020",
+      "vin": "3VW217AU9FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "THERMOSTAT",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11384383,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/15/2020",
+      "dateComplaintFiled": "12/21/2020",
+      "vin": "3VW217AU4FM",
+      "components": "FUEL SYSTEM, GASOLINE",
+      "summary": "TL* THE CONTACT OWNS A 2015 VOLKSWAGEN GOLF. THE CONTACT STATED THAT WHILE DRIVING OR WHILE THE VEHICLE WAS PARKED, FUEL LEAKED FROM THE VEHICLE. THE VEHICLE WAS TAKEN TO CENTRO DE SERVICIO FLAGSHIP VOLKSWAGEN (CARR. #2, KM 14.7 HATO TEJAS, BAYAMN, 00959, PUERTO RICO) AND WAS DIAGNOSED THAT THE SUBCISION PUMP, FILTER AND FUEL TANK NEEDED TO BE REPLACED. THE VEHICLE WAS NOT REPAIRED SINCE THE WARRANTY HAD EXPIRED. THE CONTACT MENTIONED THAT THE VEHICLE WAS PREVIOUSLY REPAIRED UNDER NHTSA CAMPAIGN NUMBER: 16V647000 (FUEL SYSTEM, GASOLINE, ENGINE AND ENGINE COOLING) HOWEVER, THE REPAIR FAILED TO CORRECT THE FAILURE. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE AND PROVIDED A CASE NUMBER. THE FAILURE MILEAGE WAS APPROXIMATELY 65,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11355305,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/10/2020",
+      "dateComplaintFiled": "09/16/2020",
+      "vin": "3VWRA7AU7FM",
+      "components": "AIR BAGS,VEHICLE SPEED CONTROL,UNKNOWN OR OTHER",
+      "summary": "THE CLOCKSPRING BROKE ABOUT 1 YEAR AGO I HAD IT REPLACED. IT BROKE AGAIN LAST WEEK.  THE AIRBAG IS DISABLED AS IS THE HORN AND CRUISE CONTROL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11348575,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/27/2018",
+      "dateComplaintFiled": "08/11/2020",
+      "vin": "3VW217AU7FM",
+      "components": "SUSPENSION,SEATS,UNKNOWN OR OTHER",
+      "summary": "THE CAR MAKES NOISES WHEN GOING OVER BUMPS OR AROUND CORNERS AS THE BODY ROLLS BACK AND FORTH I THINK IT IS THE RECALL THAT WAS ISSUED # 10122609 ABOUT THE SEATS AND A GAP BETWEEN A TAB AND THE SEAT FRAME. MY CAR WAS NOT INCLUDED IN THIS RECALL.IT SHOULD HAVE BEEN INCLUDED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11338906,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/01/2020",
+      "dateComplaintFiled": "07/12/2020",
+      "vin": "3VW217AU0FM",
+      "components": "ENGINE",
+      "summary": "THERMOSTAT ELBOW LEAKING",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11310624,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/21/2020",
+      "dateComplaintFiled": "02/21/2020",
+      "vin": "3VW217AU1FM",
+      "components": "ENGINE",
+      "summary": "THIS IS A SECOND REPAIR FOR A FAILED THERMOSTAT HOUSING/WATER PUMP ON THIS VEHICLE. THE FIRST TIME, JANUAARY 2019, THE THERMOSTAT HOUSING AND RELATED SEALS WERE REPLACED. THIS TIME THE THERMOSTAT HOUSING AND WATER PUMP WERE BOTH REPLACED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11287513,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/21/2019",
+      "dateComplaintFiled": "12/06/2019",
+      "vin": "3VW217AU1FM",
+      "components": "ENGINE",
+      "summary": "THERMOSTAT HOUSING & ASSOCIATED SEALS ON THE CURRENT 1.8L AND 2.0L VOLKSWAGEN/AUDI EA888 GEN 3 ENGINE ARE PRONE TO FAILURE, CAUSING LOSS OF ENGINE COOLANT. THIS COULD AFFECT ANY VW/AUDI VEHICLE USING THE 1.8 OR 2.0L EA888 GEN 3 ENGINE. VW HAS A LONG HISTORY OF WATER PUMP/THERMOSTAT HOUSING ISSUES AND THE CURRENT GENERATION OF VEHICLES IS NO EXCEPTION.    MANY OTHER REPORTS CAN BE FOUND ON VARIOUS ONLINE FORUMS SUCH AS REDDIT.COM, GOLFMK7.COM AND VWVORTEX.COM, ETC. THIS IS A COSTLY OUT OF WARRANTY REPAIR REQUIRING REMOVAL OF THE INTAKE MANIFOLD AND HAS BEEN REPORTED ONLINE BY OWNERS OF 2015 '2019 US MY VEHICLES. SOME VEHICLES, SUCH AS OURS, EXPERIENCED A REPEAT FAILURE.     THERE ARE THREE FAILURE MODES THAT I AM AWARE OF AS REPORTED ON THE SITES MENTIONED ABOVE. MY WIFE AND I HAVE EXPERIENCED FAILURE MODES 1 AND 2. WHEN THIS ISSUE IS OCCURRING OWNERS OFTEN REPORT THE SMELL OF COOLANT OUTSIDE THE VEHICLE    1. HOUSING HEATING/COOLING CAUSES EXPANSION/CONTRACTION AND WARPING RESULTING IN A SLOW WEEP OR LEAK FROM THERMOSTAT HOUSING ASSEMBLY & ASSOCIATED SEAL, MOST OF THE TIME NOT DETECTABLE AT THE HOUSING ASSEMBLY/SEAL WITHOUT PRESSURE TEST.     OFTEN, VW SERVICE CENTERS ARE UNABLE TO VERIFY THERE IS A LEAK, EVEN AFTER PRESSURE TEST, OWNERS ARE SENT ON THEIR WAY, AND YET COOLANT STILL DISAPPEARS FROM THE TANK. MY WIFE'S CAR WENT IN FOR TESTING MULTIPLE TIMES BEFORE ISSUE WAS FOUND.    2. HOUSING HEATING/COOLING CAUSES EXPANSION/CONTRACTION AND WARPING RESULTING IN A SMALL BUT CONSTANT LEAK LARGE ENOUGH TO CREATE A SMALL PUDDLE OR STREAM UNDER THE CAR. A LOW COOLANT ALERT MAY/MAY NOT APPEAR DEPENDING ON SPEED OF THE LEAK.     3. HOUSING HEATING/COOLING CAUSES EXPANSION/CONTRACTION AND WARPING RESULTING IN A SUDDEN CATASTROPHIC FAILURE RESULTING IN RAPID LOSS OF COOLANT AND CAUSING A VISIBLE LARGE PUDDLE UNDER THE CAR AND A WARNING ALERT TO APPEAR ON THE DASHBOARD.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11233314,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/01/2019",
+      "dateComplaintFiled": "07/19/2019",
+      "vin": "3VW2A7AU6FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "ERROR: SERVICE VEHICLE. ONLY LEAVE VEHICLE IN P POSITION. THIS WARNING LIGHT COMES ON INTERMITTENTLY WHILE DRIVING FOR ONLY A SECOND OR TWO. IT OCCURS BOTH HIGHWAY AND CITY DRIVING. THIS HAS BEEN GOING ON SINCE NOVEMBER 2018. DEALER SAYS TO IGNORE. INTERNET GROUPS INDICATE A COMMON PROBLEM WITH 2015 VW GOLF. SHIFTER PROBLEM THAT VW IS NOT ADRESSING..",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11232586,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/20/2018",
+      "dateComplaintFiled": "07/16/2019",
+      "vin": "3VW2A7AU5FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "WHEN I START MY CAR IN THE MORNING THE CODE ERROR SERVICE VEHICLE. ONLY LEAVE VEHICLE IN P POSITION! IT GOES AWAY BUT FLASHES AGAIN AS I'M DRIVING DOWN THE HIGHWAY OR A REGULAR ROAD OR TURNING EITHER RIGHT OR LEFT. THE ERROR MESSAGE COMES ON AND JUST AS QUICKLY GOES AWAY, ONLY TO RETURN AGAIN IN MINUTES OR HOURS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11230853,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/28/2019",
+      "dateComplaintFiled": "07/10/2019",
+      "vin": "3VW817AU0FM",
+      "components": "AIR BAGS,UNKNOWN OR OTHER,SERVICE BRAKES",
+      "summary": "I DON'T KNOW WHAT TYPE OF AIRBAGS THEY ARE, I'VE HAD TO HAVE MY CLUTCH REPLACED, WATERPUMP AND THERMOSTAT AND MY HEATER CORES, NOW MY COOLANT HOSE HAS GONE OUT ALL THIS IN LET THAN 3 MONTHS AND I HAVE ALSO HAD TO REPLACE, ROTORS TWO TIMES IN TWO YEARS IT'S GOT TO BE SOME WRONG I TAKE GOOD CARE OF MY CAR IT ONLY HAVE 72686 MILES ON IT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11230514,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/09/2019",
+      "dateComplaintFiled": "07/09/2019",
+      "vin": "3VW217AU8FM",
+      "components": "SERVICE BRAKES,ENGINE",
+      "summary": "1.  BRAKES - BACKING AND PUTTING BRAKES ON THEN INTO DRIVE THERE IS A POPPING NOISE FROM THE REAR END.  BRAKES SQUEAK AT LOW SPEEDS, WHEN BRAKING AT LOW SPEEDS THEY SQUEAL AND GRAB, WHEN BRAKING AT HIGH SPEEDS THEY GRIND.  THIS HAS BEEN FROM THE BEGINNING WHEN THE CAR WAS NEW UNTIL NOW.  TWO DEALERSHIPS STATE \"THERE IS NOTHING THEY CAN DO\".  2. COOLANT - CONTINUOUS COOLANT SMELL IN CAB AND AROUND CAR AFTER DRIVING FOR ANY DISTANCE.  DEALERSHIP HAS REPLACED CAP, RESERVOIR AND HOSES. STATE, \"NOTHING MORE TO DO UNTIL A RECALL COMES OUT\".",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11208694,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/20/2019",
+      "dateComplaintFiled": "05/20/2019",
+      "vin": "3VW217AU7FM",
+      "components": "STEERING,AIR BAGS",
+      "summary": "KEPT HEARING A CLICKING NOISE WHEN TURNING STEERING WHEEL. TODAY WHEN BACKING INTO A PARKING SPOT, THERE WAS A REAL LOUD CLICK, ALMOST LIKE A SNAP, AND MY AIR BAG ERROR MESSAGE IMMEDIATELY SHOWED UP AND NONE OF THE BUTTONS ON MY STEERING WHEEL WOULD WORK ANYMORE",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11208271,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/13/2019",
+      "dateComplaintFiled": "05/17/2019",
+      "vin": "3VWRA7AU0FM",
+      "components": "SERVICE BRAKES",
+      "summary": "UNDER NORMAL OPERATION THE RELEASE BUTTON FOR THE PARKING/EMERGENCY BRAKE CAN COME OUT AND RESULT IN THE PARKING BRAKE NOT CLICKING INTO THE ENGAGED POSITION.  IF THIS WERE TO HAPPEN WHEN THE CAR WAS UNATTENDED IT WOULD RESULT IN THE CAR ROLLING AWAY AND POSSIBLY KILLING OR INJURING SOMEONE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11180694,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/08/2019",
+      "dateComplaintFiled": "02/17/2019",
+      "vin": "",
+      "components": "POWER TRAIN",
+      "summary": "I'VE BEEN THROUGH THREE TRANSMISSIONS SINCE I PURCHASED THE CAR THREE YEARS AGO. THE FIRST TRANSMISSION WENT OUT DUE TO MECHANIC ERROR, VW PUT A NEW ONE IN THAT ONE FAIL CATASTROPHICALLY BUT VW BLAMED THE FAIL ON THE FLYWHEEL (IT HAD HOTSPOTS ON IT) PAID $4000 FOR A USED TRANSMISSION (WITH 32K ON IT) AND NEW CLUTCH AND FLYWHEEL. NOW THAT ONE FAILED WHEN I WAS DRIVING DOWN THE INTERSTATE IT WAS CONSTANTLY SLIPPING OUT OF 5TH GEAR AND IT WAS HARD TO SHIFT IT INTO A LOWER GEAR..I'VE NEVER HAD ISSUES LIKE THIS BEFORE I'VE BEEN DRIVING MANUAL FOR 7 YEARS. I'M WONDERING WHAT IS CAUSING ALL THESE TRANSMISSIONS TO FAIL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11175917,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/09/2019",
+      "dateComplaintFiled": "02/09/2019",
+      "vin": "3VW217AU5FM",
+      "components": "ELECTRICAL SYSTEM,AIR BAGS",
+      "summary": "I WAS TURNED MY STEERING WHEEL TO PARALLEL PARK TODAY AND HEARD A 'CLICK' FROM THE STEERING WHEEL. MY AIRBAG LIGHT IMMEDIATELY CAME ONE. I DID SOME INVESTIGATION, AND MY PROBLEM IS EXACTLY WHAT IS DESCRIBED IN THIS ARTICLE:    HTTPS://AUTOWEEK.COM/ARTICLE/RECALLS/NHTSA-INVESTIGATE-415000-VW-VEHICLES-AIRBAG-ISSUE    MY HORN IS NOT WORKING. ADDITIONALLY, I HAVE LOST ELECTRICAL CONTROL ON ALL BUTTONS ON THE STEERING WHEEL. THIS INCLUDES VOLUME BUTTONS, HANDS-FREE PHONE CONTROL BUTTONS, AND THE BUTTON THAT CHANGES THE DIGITAL DASHBOARD DISPLAY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11170856,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2018",
+      "dateComplaintFiled": "01/18/2019",
+      "vin": "3VWFA7AU6FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "THE AD BLUE TANK HEATER IN MY CAR HAS GONE BAD AND WILL COST $1800 TO REPAIR.  THIS HAPPENED JUST OUTSIDE THE 36,000 MILES WARRANTY WINDOW AT AROUND 40,000 MILES.  THIS HAS BEEN A PROBLEM SINCE 2016 OR BEFORE. VW, IN ADDITION TO THE EMISSIONS ISSUES, REFUSES TO COVER THIS. THE CAR WILL NOT DRIVE UNLESS THIS IS FIXED. IT IS A VERY EXPENSIVE REPAIR FOR A VERY LOW AMOUNT OF MILEAGE.  THIS SHOULD BE RECALLED SO THAT CUSTOMERS ARE NOT EATING $1800, ESPECIALLY ON BEHALF THE VW, WHO LIES AND CHEATS THEIR CONSUMERS.    HTTPS://WWW.THETRUTHABOUTCARS.COM/2016/02/VOLKSWAGEN-TDI-OWNERS-BEING-STUCK-WITH-1000-ADBLUE-HEATER-REPAIRS-STILL-NOT-EPA-COMPLIANT/",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11166092,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/27/2018",
+      "dateComplaintFiled": "01/09/2019",
+      "vin": "3VW217AU0FM",
+      "components": "POWER TRAIN",
+      "summary": "OVER TIME, A BUILD-UP OF SILICATE ON THE SHIFT LEVER MICRO SWITCH CONTACTS CAN MAKE IT POSSIBLE TO REMOVE THE KEY FROM THE IGNITION SWITCH WITHOUT THE SHIFT LEVER BEING IN THE \"P\" PARK POSITION. THIS MAKES THE VEHICLE NONCOMPLIANT WITH 49 CFR 571.114 STANDARD NO. 114 THEFT PROTECTION AND ROLLAWAY PREVENTION. IF THE IGNITION KEY IS REMOVED WITHOUT THE SHIFT LEVER BEING IN THE \"P\" PARK POSITION, THERE IS A RISK THAT THE VEHICLE MAY ROLL AWAY, RESULTING IN A CRASH THAT COULD INJURE PEOPLE AND DAMAGE PROPERTY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11163156,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/05/2018",
+      "dateComplaintFiled": "12/22/2018",
+      "vin": "3VW2A7AU2FM",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+      "summary": "VEHICLE RANDOMLY DISPLAYS MESSAGE ON HUD SCREEN \"ERROR: SERVICE VEHICLE. ONLY LEAVE VEHICLE IN P POSITION\" I HAVE ONLY EVER HAD IT HAPPEN WHILE DRIVING. EVERYTHING FROM 10MPH TO 80MPH. NO PARTICULAR SPEED SEEMS TO TRIP THE ERROR. AFTER A LONG DRAWN OUT ORDEAL, BOTH THE LOCAL DEALER AND VW OF AMERICA HAVE DENIED REPAIR EVEN THOUGH,  THIS EXACT ISSUE BECAUSE IT IS NOT INCLUDED IN THE 33,168 SELECT VOLKSWAGEN GOLFS AND GOLF SPORTWAGENS FROM 2015 TO 2018 MODEL YEARS. YET WITH ALL THE EVIDENCE TO INCLUDE THE ECU/TCU LOGS VERIFYING THE PROBLEM SINCE ITS NOT A \"AFFECTED\" VIN, THEY WILL DO NOTHING.    THE LOCAL DEALER CONFIRM THAT THIS IS THE EXACT ISSUE WE HAVE BEEN DEALING WITH SINCE JULY OF THIS YEAR. MOST RECENTLY I WAS GOING THROUGH THE PHARMACY DRIVE-THRU AND IN PARK WHEN THE VEHICLE BEGAN TO ROLL FORWARD WHICH I HAD TO HIT THE BRAKES TO STOP IT.    YET WITH ALL THE EVIDENCE TO INCLUDE THE ECU/TCU LOGS VERIFYING THE PROBLEM SINCE ITS NOT A \"AFFECTED\" VIN, THEY WILL DO NOTHING.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11163155,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/15/2018",
+      "dateComplaintFiled": "12/22/2018",
+      "vin": "3VW2A7AU9FM",
+      "components": "POWER TRAIN",
+      "summary": "VEHICLE IS INTERMITTENTLY SHOWING ERROR 'ERROR: SERVICE VEHICLE, LEAVE ONLY ON P'. ERROR HAPPENS RANDOMLY, BUT USUALLY DURING OR JUST AFTER DRIVING IN WET CONDITIONS. ALWAYS WHILE THE VEHICLE IS IN MOTION. GEAR SHIFT ASSEMBLY WAS REPLACED TWO YEARS PREVIOUSLY TO ADDRESS THE PROBLEM, BUT NOW THE ERRORS ARE BACK. SAME SYMPTOMS AS CAMPAIGN NUMBER 18V464000, VW SERVICE RECALL 37L5, HOWEVER NO RECALL IS LISTED FOR THIS VIN.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11142378,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/01/2017",
+      "dateComplaintFiled": "10/24/2018",
+      "vin": "3VW817AU8FM",
+      "components": "AIR BAGS,UNKNOWN OR OTHER",
+      "summary": "AS I WAS TURNING MY STEERING WHEEL, I HEARD A CRINKLE SOUND AND THE AIR BAG LIGHT CAME ON.  I REALIZED LATER THAT I COULD NO LONGER HONK THE HORN.  WHEN I BROUGHT MY CAR IN FOR SERVICE, THE CLOCK SPRING WAS REPLACED, HOWEVER THE EXACT SAME PROBLEM HAPPENED AGAIN WITHIN WEEKS.  I CANNOT HONK MY HORN AND I AM CONCERNED THAT MY AIR BAG WILL NOT DEPLOY IN THE CASE OF AN EMERGENCY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11129335,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/09/2017",
+      "dateComplaintFiled": "09/13/2018",
+      "vin": "3VW217AU8FM",
+      "components": "STRUCTURE",
+      "summary": "LOUD KNOCK IS PRODUCED WHEN THERE IS BODY FLEX (TIGHT TURNS, SPEED BUMPS, CHANGES IN ELEVATION) ON THE DRIVER SIDE B-PILLAR. BROUGHT INTO AUBURN VOLKSWAGEN TO DIAGNOSE, AND WAS TOLD THEY COULD FIND NOTHING WRONG WITH THE VEHICLE. TOOK THE VEHICLE TO A BODY SHOP AND HAD THEM REPRODUCE THE NOISE. WAS TOLD IT IS LIKELY A BAD WELD FROM THE B-PILLAR TO THE ROOF, AND SHOULD BE FIXED IMMEDIATELY AS IT'S A SAFETY CONCERN.  CONTACTED THE DEALERSHIP AND WAS TOLD THEY WERE NOT ABLE TO DEAL WITH ANY ISSUES CONCERNING THE BODY OF THE CAR.  CONTACTED VOLKSWAGEN OF AMERICA, AND HAVE BEEN PASSED AROUND BETWEEN CUSTOMER SERVICE AGENTS WITHOUT BEEN GIVEN ASSISTANCE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11119793,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/13/2018",
+      "dateComplaintFiled": "08/14/2018",
+      "vin": "3VW217AU3FM",
+      "components": "POWER TRAIN",
+      "summary": "CAR WOULD NOT MOVE AFTER A STOP AND THEN ACCELERATED RAPIDLY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11096430,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/16/2018",
+      "dateComplaintFiled": "05/16/2018",
+      "vin": "3VW817AU1FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "PREMATURE CLUTCH FAILURE AT 32,000 MILES (THIS CAR ALREADY HAD TWO DEFECTIVE PARTS AT 9,000 MILES - THE TIMING CHAIN COVER AND OIL LEVEL SENSOR.)  CAR STARTED MAKING SCREECHING NOISE WHEN DRIVING, HAD IT TOWED TO DEALER WHO SAID IT WASN'T MAKING ANY SOUND WHEN THEY DROVE IT, AND THEY DIDN'T SEE ANYTHING WRONG.  ONE WEEK LATER, BURNING SMELL FROM VENTS, NOW DEALER SAYS CLUTCH HAS FAILED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11092378,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/07/2018",
+      "dateComplaintFiled": "05/07/2018",
+      "vin": "3VW817AU0FM",
+      "components": "AIR BAGS",
+      "summary": "AIRBAG SENSOR LIGHTS ON. TOOK TO DEALER VENTURA VOLKSWAGEN. THEY CHARGED ME $145 TO DIAGNOSE THE PROBLEM, THEN SAY IT WILL COST $615 TO REPLACE THE \"CLOCK SPRING.\" THE CAR HAS NEVER BEEN IN AN ACCIDENT AND THE AIRBAGS NEVER HAVE DEPLOYED. VENTURA VOLKSWAGEN SAYS IT IS NOT UNDER RECALL NOR COVERED BY MY WARRANTY AND WILL CHARGE ME $615 TO FIX IT. INVOICE FROM THE DEALER IS ATTACHED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11076024,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2018",
+      "dateComplaintFiled": "03/03/2018",
+      "vin": "3VW547AU4FM",
+      "components": "STEERING,AIR BAGS",
+      "summary": "TAKATA RECALL- 2015 GTI. TURNED CAR ON AT 5:30 AFTER WORK AND AIRBAG ERROR LIGHT CAME ON, NO CONTROLS IN STEERING WHEEL WORKING LIKE VOLUME , BLUE TOOTH CRUISE CONTROL AND HORN. CAR WAS PARKED FOR 8 HOURS. LIGHT DRIVING CITY TRAFFIC USUALLY FROM AND BACK TO WORK.  THERE WAS NO INDICATION, JUST STOPPED. 44.000 MILES. CAR WAS BOUGHT AT 34500 MILES EXACTLY ONE YEAR AGO (2017) NO HORN AND NO AIRBAG WORKING AS OF YESTERDAY IS A SAFETY ISSUE AND DEALERSHIP SAID THERE IS NO RECALL ON THIS PARTICULAR MAKE MODEL YEAR !",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11061634,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": true,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/04/2018",
+      "dateComplaintFiled": "01/10/2018",
+      "vin": "3VW2A7AUXFM",
+      "components": "ELECTRICAL SYSTEM,SERVICE BRAKES,ENGINE",
+      "summary": "I DROVE THE CAR TO A MEETING ON THURSDAY EVENING, JAN 4TH, 2018.  PARKED IT IN A RESIDENTIAL HOME OFFICE PARKING AREA IN SANTA FE, NM AT 6PM.  AT 6:10PM ANOTHER PERSON ARRIVED TO THE MEETING AND SAID SHE SAW FLAMES BY A RED CAR.  IT WAS MY GOLF.  SEVERAL OF US WENT OUT WITH POTS OF WATER AND A HOSE TO CONTAIN THE FIRE.  MOVED THE OTHER VEHICLES AWAY FROM IT TO AVOID IT SPREADING.  THE FLAMES CAME DOWN FROM THE ENGINE ONTO THE GROUND IN FRONT OF THE BUMPER.  IT WAS SMOKY AND SMELT HORRIBLE. WE WERE ABLE TO CONTAIN THE FIRE. WHEN THE FIRE DEPT ARRIVED THEY USED A SPECIAL TOOL TO PRY THE HOOD OPEN AND USED THE RESIDENTIAL GARDEN HOSE TO DOUSE THE ENGINE TO STOP THE SMOLDERING AND REDUCE THE HEAT OF THE VEHICLE TO ASSURE IT WOULD NOT IGNITE AGAIN. THE  CAR WAS ASSESSED AS TOTALED.  I JUST BOUGHT IT FROM VW UPTOWN ABQ.  IT WAS A TDI THAT HAD THE MODIFICATION FOR THE EMISSIONS CLASS ACTION SUIT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11054733,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/13/2017",
+      "dateComplaintFiled": "12/14/2017",
+      "vin": "3VW2A7AU6FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "RUST ON FUEL FILTER HOUSING DISCOVERED DURING 60K MILE FUEL FILTER CHANGE OF 2015 GOLF TDI (SEE PHOTO). TOLD THIS CAN LEAD TO POTENTIAL MAJOR DAMAGE TO HIGH PRESSURE FUEL PUMP IF PARTICLES COME OFF.  ONLY USE HIGH-QUALITY DIESEL SO NOT SURE HOW THIS HAPPENED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11054737,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/01/2017",
+      "dateComplaintFiled": "12/14/2017",
+      "vin": "3VW2A7AU6FM",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "CLOCK SPRING FAILURE IN THE STEERING WHEEL DISABLED AIRBAG OF 2015 GOLF.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11047379,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/11/2017",
+      "dateComplaintFiled": "11/20/2017",
+      "vin": "3AVW2A7AYU5",
+      "components": "STEERING,AIR BAGS,UNKNOWN OR OTHER",
+      "summary": "STEERING COLUMN CONTROL MECHANISM, AIR BAG SENSOR, LOCK MECHANISM. SAW AN ARTICLE POSTED LAST WEEK ABOUT PREVIOUS RECALL NOT RESOLVING A KNOW ISSUE WITH AIRBAGS THAT AFFECTS THE STEERING COLUMN. I JUST HAD TO PAY $641.10 TO HAVE THIS REPAIRED.  IF THIS IS SOMETHING THAT VW SHOULD HAVE HAD TO PAY FOR I WOULD LOVE TO BE ABLE TO RECOUP MY MONEY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10993125,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 2,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2015",
+      "dateComplaintFiled": "06/05/2017",
+      "vin": "3VW917AU8FM",
+      "components": "STEERING,UNKNOWN OR OTHER,SERVICE BRAKES",
+      "summary": "UNSAFE 110N SR-43 OFF RAMP",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10992348,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 2,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2015",
+      "dateComplaintFiled": "05/30/2017",
+      "vin": "3VW917AU8FM",
+      "components": "WHEELS,SERVICE BRAKES",
+      "summary": "NHTSA RECALL NUMBER:15V705  MANUFACTURER RECALL NUMBER: 23R1  EXIT AVE43, WHILE I TRIED TO TURNED RIGHT FOR SMALL CURVED THE VEHICLE WAS BRAKING.  THAT DAY I JUST WENT TO REPAIR MY TIRE I GOT SOME NAIL IN MY TIRE I'M NOT SURE THAT DEALER PUT THE AIR ENOUGH OR CHECK MY TIRE PRESSURE OR NOT?    I JUST GOT VEHICLE 40DAYS AND DEALER SHIP NOT PUT GAP THAT NOT OVER $2000 FOR MY NEW CAR BUT THEY PUT VWCARE FOR $2000 FOR ME.  RECALL FOR NEW VEHICLE INCOMPLETE BEFORE SOLD FOR ME I GOT A REPORT THAT DEALER DIDN'T SEND THAT VEHICLE FOR REPAIR.    FIRST TIME BUYER NEW CAR NO GAP BUT HAS VWCARE FOR $2000.  I'M ASKING ABOUT RECALL THEY NOT ANSWER MY QUESTION.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10983166,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/26/2017",
+      "dateComplaintFiled": "05/02/2017",
+      "vin": "3VWRA7AU7FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "AFTER 60000 MILES THE AD BLUE DEF SYSTEM MALFUNCTIONED CAUSING THE ENGINE TO SHUT DOWN AFTER 600 MILES. WE STOPPED AND REFILLED THE DEF BUT THE MALFUNCTION PERSISTED. THE PROBLEM WAS FINALLY DIAGNOSED AS A MALFUNCTION PUMP. THE PART WAS BACKORDERED NATIONWIDE ACCORDING TO THE DEALER SUGGESTING THIS IS A FREQUENT FAILURE. A RECALL SHOULD BE CONSIDERED. THE REPAIR COST $1300 AND THE CAR HAS BEEN OUT OF SERVICE FOR 4 DAYS AND NO PART IS YET AVAILABLE0",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10972323,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/06/2017",
+      "dateComplaintFiled": "04/13/2017",
+      "vin": "3VW2A7AU3FM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "FOLLOWING THE RECALL NOTICE THAT I RECEIVED",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10957577,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/27/2017",
+      "dateComplaintFiled": "02/28/2017",
+      "vin": "3VW217AU7FM",
+      "components": "VISIBILITY/WIPER",
+      "summary": "THE PANORAMIC SUNROOF ON MY 2015 VW GOLF SE SPONTANEOUSLY EXPLODED WHILE DRIVING APPROXIMATELY 60 MPH ON THE FREEWAY AT APPROXIMATELY 9:15 PM ON 2/27/2017 ON HIGHWAY 880 IN OAKLAND, ABOUT 1/2 MILE SOUTH OF THE ORACLE COLISEUM. NO CARS WERE NEAR ME AND I WAS NOT UNDER A BRIDGE, THUS NO EVIDENCE THAT THE SUNROOF WAS STRUCK BY AN EXTERNAL OBJECT. THERE WAS ALSO NO VISIBLE EVIDENCE OF DAMAGE TO THE GLASS PRIOR TO ENTERING THE VEHICLE, I CHECK EVERY TIME I BUY GAS. THE GLASS SHATTERED SUDDENLY IN A LOUD EXPLOSION THAT SOUNDED LIKE A GUNSHOT AND SHARDS WERE SCATTERED THROUGHOUT THE INTERIOR OF THE VEHICLE AND COVERED MYSELF AND MY PASSENGER - ALTHOUGH MOST OF THE SHARDS BLEW OUTWARD AND LANDED ON THE ROAD.    THE EXPERIENCE WAS EXTREMELY FRIGHTENING AND COULD HAVE CAUSED SERIOUS INJURIES. LUCKILY I WAS ABLE TO MAINTAIN CALM AND SLOWLY DRIVE OFF THE FREEWAY RATHER THAN JERKING THE WHEEL WHEN THE EXPLOSION HAPPENED. THE ONLY INJURIES ARE EMOTIONAL AND 12 HOURS LATER I AM STILL FINDING SMALL SHARDS OF GLASS ON MY PERSON (HAIR, INSIDE MY MOUTH AND NOSE, ON MY CLOTHES).",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10947669,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/14/2016",
+      "dateComplaintFiled": "01/25/2017",
+      "vin": "3VWC17AU6FM",
+      "components": "AIR BAGS",
+      "summary": "ONGOING AIRBAG DEFECT WARNING LIGHT COMES ON WHEN DRIVING.  ALSO WARNING ON INFORMATION SCREEN. DEALER HAS MADE SEVERAL UNSUCCESSFUL ATTEMPTS TO REPAIR.  CAR HAS ONLY 5700 MILES ON IT.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10944510,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": true,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/05/2017",
+      "dateComplaintFiled": "01/12/2017",
+      "vin": "WVWLF7AU1FW",
+      "components": "ELECTRICAL SYSTEM,ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "NEED TO FIND OUT IF THERE ARE ANY RECALLS WITH THE VW GOLF R 2015 MODEL.  ANYTHING RELATED TO ENGINE, FUEL SYSTEM, EXHAUST THAT WOULD CAUSE A FIRE",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10940224,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/05/2017",
+      "dateComplaintFiled": "01/06/2017",
+      "vin": "WVWPP7AU5FW",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+      "summary": "WHILE DRIVING AT APPROXIMATELY 30 MILES PER HOUR THE CAR CAME UP WITH AN ALERT OF ELECTRICAL FAULT STOP NOW AND THE POWERTRAIN SHUT DOWN WITH ZERO THROTTLE RESPONSE. I WAS ABLE TO PULL INTO THE RIGHT LANE AND PARTY INTO A DRIVEWAY OF A FAST FOOD RESTAURANT. I WAS UNABLE TO TURN OFF THE CAR, I GOT OUT AND PUSHED IT INTO THE PARKING LOT. EVENTUALLY THE CAR TURNED OFF AND AFTER A FEW ATTEMPTS I WAS ABLE TO TURN IT BACK ON. I WAS IN \"B\" MODE (REGENERATIVE BRAKING MODE) AND DECIDED TO DRIVE IT IN \"D\" (REGULAR DRIVE) THE EXTRA 2 MILES HOME. THIS SHUTDOWN OFFERED NO WARNING AND NO \"LIMP MODE\", HAD I BEEN IN A BUSIER AREA THIS COULD EASILY HAVE LEAD TO A CRASH.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10939555,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 2,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2015",
+      "dateComplaintFiled": "01/04/2017",
+      "vin": "3VW917AU8FM",
+      "components": "WHEELS,SERVICE BRAKES",
+      "summary": "TAKATA RECALL",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10936537,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/19/2016",
+      "dateComplaintFiled": "12/20/2016",
+      "vin": "3VW217AU5FM",
+      "components": "ENGINE",
+      "summary": "WHEN I STARTED MY CAR, THE ENGINE JUMPED AND THE CAR SHOOK. I TRIED TO DRIVE IT BUT COULDN'T GET MORE THAN 10 FEET WITHOUT IT CONSTANTLY FEELING LIKE IT WAS BOTH STARTING AND STALLING, AND ROCKING BACK AND FORTH. I HAD TO PARK IT, AND EVEN WHEN COMPLETELY STOPPED THE CAR WOULD SHAKE AND THE ENGINE MADE A TERRIBLE NOISE. MY CAR STARTED TO SMELL REALLY BAD. THE DEALERSHIP TELLS ME THAT IT IS A COIL FAILURE IN THE ENGINE, WHICH CAUSED COMPLETE ENGINE FAILURE AND LEFT ME STRANDED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10936218,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 2,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2015",
+      "dateComplaintFiled": "12/19/2016",
+      "vin": "3VW917AU8FM",
+      "components": "AIR BAGS,UNKNOWN OR OTHER",
+      "summary": "I'M A DRIVER WHO DRIVE THIS CAR WHEN I TRIED TO TURN LEFT THE VEHICLE HAS AIRBAG POP UP AND THE CAR WAS STOPPED AND HIT WHEN IM OFF THE FREEWAY",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10935556,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/10/2016",
+      "dateComplaintFiled": "12/15/2016",
+      "vin": "3VW5T7AU3FM",
+      "components": "ENGINE",
+      "summary": "VERY ROUGH IDLE/DANGEROUS LOSS OF POWER  ELECTRONIC POWER CONTROL LIGHT ILLUMINATES.   CAR DEVELOPS ISSUE IN 2 INSTANCES, WILL IDLE SMOOTHLY AT REST AND THEN EPC LIGHT WILL ILLUMINATE AND VERY ROUGH IDLE WILL ENSUE WITH ENTIRE CAR SHAKING. CAR MUST BE SHUTOFF AND RESTARTED TO CORRECT. ONCE RESTARTED CAR WILL IDLE NORMALLY AND LIGHT IS OFF. SECOND ISSUE IS WITH CAR AT LOAD, DRIVING NORMAL SPEEDS WHEN EPC LIGHT WILL COME ON AND ENGINE POWER IS DRAMATICALLY REDUCED MAKING FOR EXTREMELY HAZARDOUS CONDITION IF PULLING OUT OR ACCELERATING IN TRAFFIC. SUDDEN LOSS OF POWER CAN ONLY BE  RESOLVED IF SAFE PLACE AVAILABLE TO PULLOVER AND RESTART THE CAR. VW DEALER SAYS THEY CAN ONLY REPAIR CAR IF IT DISPLAYS BEHAVIOR AT SHOP. SINCE LIGHT IS OFF WHEN RESTARTED IT IS NOT RUNNING POORLY WHEN DRIVEN IN FOR SERVICE THEY STATE NO PROBLEM FOUND. THEY CLAIM THE ECU FAULT CODE DOES NOT TELL THEM THE CAUSE ONLY THAT IT HAPPENED EVEN THOUGH OTHER DIAGNOSTIC TOOLS DESCRIBE THROTTLE BODY ISSUES OR BAD SPARKPLUG COILS MAY BE AT FAULT. WHITE KNUCKLE ISSUE WHICH ELIMINATES CONFIDENCE IN DAY TO DAY DRIVING. THERE IS NO WARNING INVOLVED IT JUST HAPPENS. CASUAL RESEARCH INTO THESE SYMPTOMS RESULTS IN AN ALARMING NUMBER OF OWNERS WHO HAVE EXPERIENCED SAME ISSUES. CAR UNSAFE TO DRIVE WHEN POWER LOSS MANIFESTS ITSELF. MANY OTHERS ALSO DESCRIBE A FAULTY WIRING HARNESS FOR THROTTLE BODY FOR WHICH THERE IS AN INTERNAL VW TSB BUT DEALERS SAY IS TIME  CONSUMING AND THEY ARE NOT REIMBURSED FOR IN A TIMELY MANNER BY VW OF NA. DISAPPOINTMENT AND THEN SOME.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10929773,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 2,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2015",
+      "dateComplaintFiled": "12/04/2016",
+      "vin": "3VW917AU8FM",
+      "components": "AIR BAGS,WHEELS",
+      "summary": "I WAS DRIVING ON 210N PASADENA FWY WITH MY GIRLFRIEND AND OFF AVE43 AROUND 4AM.  I TRIED TO TURN WHEEL FOR OFF BUT AIRBAG FROM WHEEL COME OUT WHILE I TURN OFF FWY  AND THAT DAY I JUST WENT TO ONE OF VWDEALER FOR CHECK SOME THING AND AFTER THAT I GOT A LOGO OF VW ON MY HAND LIKE A TATTOO AND MY CAR IT WAS TOTAL LOSS.  MY GIRLFRIEND SHE WAS PAIN INSIDE HER BACK BECAUSE WE BOTH GOT AN ACCIDENT FROM SOMEBODY HIT BEHIND MY CAR.  I BOUGHT A NEW CAR AND FIRST TIME BUYER AND I NEVER KNOW ABOUT GAP INSURANCE ON THAT TIME I JUST BOUGHT FOR ABOUT 2MONTH AND STILL OWN THAT MONEY EFFECT TO MY CREDIT UNTIL NOW. MY JOB IS DRIVER AND I NEED A CAR SO HOW CAN I DO WITH THIS PROBLEM.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10924689,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/03/2016",
+      "dateComplaintFiled": "11/07/2016",
+      "vin": "3VW217AU7FM",
+      "components": "ENGINE,FUEL/PROPULSION SYSTEM",
+      "summary": "TL* THE CONTACT OWNS A 2015 VOLKSWAGEN GOLF. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 16V647000 (ENGINE AND ENGINE COOLING, FUEL SYSTEM, GASOLINE). THE CONTACT MADE SEVERAL ATTEMPTS TO REACH THE MANUFACTURER AND WAS REFERRED TO AN AUTHORIZED DEALER, BUT WAS UNABLE TO REACH A LIVE AGENT FOR WEEKS. THE DEALER WAS UNAWARE AS TO WHEN THE MANUFACTURER WOULD SUPPLY THE PARTS TO THE DEALER. THE CONTACT WAS NOT EXPERIENCING A FAILURE. PARTS DISTRIBUTION DISCONNECT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10915886,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2016",
+      "dateComplaintFiled": "10/13/2016",
+      "vin": "3VW217AU7FM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "WHEN VW UPDATED THE SOFTWARE TO CORRECT THE DEFECTIVE CAMSHAFT, THEY DISABLED THE CRUISE CONTROL FEATURES AND ARE UNABLE AND UNWILLING TO CORRECT,  THE VEHICLE IS RUNNING WHEN THIS DISABLED FEATURE IMPACTS THE CAR UNDER ALL DRIVING CONDITIONS.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10899470,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/23/2016",
+      "dateComplaintFiled": "08/30/2016",
+      "vin": "3VW2A7AU7FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "AT LESS THAN 20,000 MILES THE GLOW PLUG LIGHT STARTED COMING ON WHILE DRIVING AT HIGHWAY SPEEDS AND THEN THE VEHICLE LOSES POWER, DROPPING DOWN TO ABOUT 30MPH.  SHUTTING ENGINE OFF CORRECTS BUT WILL REOCCUR NEXT TIME VEHICLE IS STARTED AFTER BEING PARKED FOR THE DAY.  THEN THE CHECK ENGINE LIGHT AND SERVICE NOW LIGHTS ALSO COME ON.  TOOK TO VW DEALER, AFTER 4 HOURS TOLD IT WAS A FUEL PROBLEM WITH METAL IN THE FUEL.  A SAMPLE MUST BE SENT TO VWS LAB AND IT WILL TAKE WEEKS FOR AN ANSWER.  THEY ARE PRESUMPTIVELY BLAMING BAD FUEL AND WILL NOT COVER UNDER WARRANTY.  I BELIEVE THE FUEL PUMP IS THE SOURCE OF THE METAL IN THE FUEL AS THERE HAS BEEN A BEARING SQUEAL NOISE FOR ABOUT 2 WEEKS BEFORE THIS HAPPENED.  I DON'T HAVE ANY DOCUMENTS TO ATTACH AS THEY STILL HAVE THE VEHICLE AT THE DEALERSHIP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10864490,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/10/2016",
+      "dateComplaintFiled": "05/11/2016",
+      "vin": "3VWCA7AU4FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "WHEN I PUT MY HAND INSIDE  THE COMPARTMENT BELOW THE AIR CONDITIONER KNOBS AND IN FRONT OF THE SHIFT-STICK  I CUT MYSELF ( TWO FINGERS ) WITH THE EDGE OF THE METAL PART NEAR IT. THAT METAL PART IS EXPOSED AND IS SHARP AND CUTS LIKE A THIN PAPER OR A KNIFE. THE VEHICLE WAS PARKED.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10863545,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/25/2016",
+      "dateComplaintFiled": "05/06/2016",
+      "vin": "WVWPP7AUXFW",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "CHARGING PORT FAILURE LOCKED CHARGER HANDLE IN PLACE. COULD NOT MOVE VEHICLE UNTIL EVSE WAS REMOVED FROM BUILDING. THEN CAR WAS TOWED TO SERVICE CENTER WHERE CAR'S CHARGING PORT WAS REPLACED. CAR WAS STATIONARY, CHARGING ON A LEVEL 2 EVSE. MANUAL OVERRIDE PROCEDURE DESCRIBED IN OWNER'S MANUAL FAILED TO UNLOCK CHARGING PORT.## VIN PASSED ## VW E-GOLF SEL 2015 ##",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10855306,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/13/2016",
+      "dateComplaintFiled": "04/13/2016",
+      "vin": "3VW217AU4FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "PARKED CAR IN DRIVEWAY, IN THE MORNING PANORAMIC SUNROOF WAS COMPLETELY SHATTERED. NOT AN ATTEMPTED BREAK IN, IT APPEARS SPONTANEOUS, LIKE PRESSURE BUILT UP IN THE GLASS MADE IT EXPLODE OR BURST.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10854580,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/06/2016",
+      "dateComplaintFiled": "04/09/2016",
+      "vin": "3VW217AU3FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "1ST INCIDENT IN JANUARY 2016I WAS DRIVING ON HIGHWAY AND CONSTRUCTION BARRELL ROLLED ACROSS HIGHWAY.  MY FORWARD COLLISION WARNING SYSTEM DID NOT ACTIVATE; I HAD TO HIT THE BARRELL; LOTS OF DAMAGE TO MY CAR; THE BOSCH RADAR WARNING SYSTEM IS HELD IN PLACE WITH PLASTIC AND IT BROKE OFF DURING COLLISION.  2ND INCIDENT,APRIL 2016  HIT A RUBBER CONE THAT HAD FALLEN OUT OF A TRUCK ON THE HIGHWAY.  THE WARNING SYSTEM SENSOR BROKE OFF AGAIN. WHEN I PURCHASED THE CAR NEW,  I PAID EXTRA FOR THE EXPENSIVE $1,000 +DRIVER ASSISTANCE PACKAGE WITH FORWARD COLLISION WARNING SYSTEM.  IT HAS NOT ONLY FAILED ME TWICE, IT BREAKS EASILY BECAUSE A PIECE OF PLASTIC HOLDS IT IN PLACE.  I HAVE LOOKED AROUND AND HAVE NOT SEEN ANY OTHER CARS WHERE THIS IMPORTANT SENSOR IS POSITIONED SO OPENLY AND IS SO VULNERABLE TO BEING HIT BY SMALL OBJECTS AND BREAKING AND NOT MAKING THE CAR RESPOND.  THIS POORLY DESIGNED SAFETY DEVICE IS VERY FRAGILE.  EVEN THE VOLKSWAGON DEALERSHIP AGREED THAT IT IS A POOR DESIGN AND THE COLLISION WARNING SYSTEM WILL ONLY WORK IF THERE IS TO BE A COLLISION WITH ANOTHER CAR.  THIS IMPORTANT SAFETY DEVICE BREAKS OFF TOO EASILY. DID NOT HAVE POLICE REPORT FOR FIRST INCIDENT, BUT HAD INSURANCE CLAIM..POLICE REPORT NUMBER FOR THE SECOND INCIDENT IS 16-011613 (DURHAM, N.C.).  THE PART I AM MOST CONCERNED ABOUT IS: BOSCH, RADAR SENSOR, 5Q0907561F.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10850575,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/01/2016",
+      "dateComplaintFiled": "03/21/2016",
+      "vin": "3VWFA7AU6FM",
+      "components": "ENGINE AND ENGINE COOLING",
+      "summary": "LETTER FROM SENATOR BROWN ON BEHALF OF CONSTITUENT REGARDING HIS DISSATISFACTION WITH THE VOLKSWAGEN GROUP OF AMERICA FOLLOWING THE PURCHASE OF HIS JETTA TDI (ATTN: JOHN PATTERSON).  *SMD  THE CONSUMER STATED VOLKSWAGEN DELIBERATELY ADDED SOFTWARE TO DECEIVE ITS OWNERS. *JB",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10850324,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/16/2016",
+      "dateComplaintFiled": "03/17/2016",
+      "vin": "3VW217AU4FM",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM,ENGINE",
+      "summary": "2015 GOLF STARTED EXPERIENCING PROBLEMS WITH THE ENGINE/TRANSMISSION AFTER FEB 5, 2016 ON THREE DIFFERENT OCCASIONS. UPON STARTING CAR THE IDLE IS EXTREMELY ROUGH AND THEN A WARNING MESSAGE APPEARS THAT STARTS OUT WITH \"TRANSMISSION...\" GOES OFF QUICKLY BUT A HIGHLIGHTED EXCLAMATION POINT REMAINS. THE MESSAGE GOES OFF TOO QUICKLY TO CAPTURE A PICTURE OF IT. THE EXCLAMATION POINT AND ROUGH IDLE REMAINS UNTIL THE CAR IS TURNED OFF. WHEN THE CAR IS TURNED ON AGAIN IT IS FINE. THE CAR IS CURRENTLY AT A DEALER TO BE REPAIRED AS THEY STATE: WE HAVE TO REPLACE THE SHIFTER ASSEMBLY. I HAVE BEEN TOLD I CANNOT DRIVE IT, THAT THE CAR HAS TO STAY IN THE SHOP AND WAIT FOR A PART TO ARRIVE SOMETIME NEXT WEEK. THIS PROBLEM IS SEPARATE FROM THE OTHER PROBLEMS I HAVE EXPERIENCED:  1). THE RIGHT FRONT SEAT HEATER COME ON AND HEATS UP TO EXTREMELY UNCOMFORTABLE DEGREES-- DEALER SAYS THEY CANNOT FIND A PROBLEM.   2). THE NAVIGATION SYSTEM GOES BLANK-- DOESN'T WORK-- DEALER CAN'T FIND THE PROBLEM  3). A WARNING AND BEEPING THAT THE FRONT RIGHT SEAT BELT NEEDS TO BE FASTENED-- AND NO ONE IS IN THE SEAT, JUST A CELL PHONE.   THIS GOLF ONLY HAS 10,600 MILES ON IT.... DID I PURCHASE A LEMON?  THE DATE BELOW IS THE LAST TIME THE PROBLEM OCCURRED.   IT MAY OR MAY NOT HAVE ANYTHING TO DO WITH IT BUT THE CAR DID NOT HAVE THIS PROBLEM UNTIL AFTER THE TRANSMISSION SOFTWARE UPDATE WAS DONE IN FEBRUARY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10825932,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/14/2016",
+      "dateComplaintFiled": "02/13/2016",
+      "vin": "3VWCA7AU8FM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "IN 3 SEPARATE INSTANCES, WHILE DRIVING AT HIGHWAY SPEEDS (65-72 MPH), THE CRUISE CONTROL HAS DISENGAGED, CAUSING SUDDEN AND RAPID DECELERATION OF THE VEHICLE.  IN ALL INSTANCES, THE PAVEMENT WAS DRY, I WAS NOT TAILGATING, AND FEET WERE NOT NEAR THE BRAKE (I.E. I DID NOT ACCIDENTALLY HIT THE BRAKE).  THIS IS A DANGEROUS SCENARIO.  WILL BE TAKING THE CAR INTO DEALER IN A FEW WEEKS, BUT UNSURE THEY WILL BE ABLE TO REPRODUCE OR DIAGNOSE THE PROBLEM.  SEVERAL OTHER OWNERS OF GOLFS HAVE REPORTED THIS SAME ISSUE ON THE TDI FORUM.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10824898,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/18/2015",
+      "dateComplaintFiled": "02/08/2016",
+      "vin": "3VWC17AU9FM",
+      "components": "SERVICE BRAKES,ENGINE",
+      "summary": "TL* THE CONTACT OWNS A 2015 VOLKSWAGEN GOLF. THE CONTACT RECEIVED NOTIFICATION OF NHTSA CAMPAIGN NUMBER: 15V705000 (ENGINE AND ENGINE COOLING, SERVICE BRAKES, HYDRAULIC) AND WAS UNABLE TO DETERMINE WHEN THE PARTS WOULD BECOME AVAILABLE FOR LONGER THAN A MONTH. THE DEALER AND THE MANUFACTURER INFORMED THE CONTACT TO WAIT UNTIL THE SECOND NOTICE WAS MAILED TO DETERMINE WHEN THE PARTS WERE AVAILABLE. THE MANUFACTURER WAS UNABLE TO PROVIDE A TIME FRAME THAT THE PARTS WOULD BE SUPPLIED TO THE DEALER. THE CONTACT HAD NOT EXPERIENCED A FAILURE. VIN TOOL CONFIRMS PARTS NOT AVAILABLE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10822447,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/26/2016",
+      "dateComplaintFiled": "01/26/2016",
+      "vin": "3VW5T7AU5FM",
+      "components": "STRUCTURE",
+      "summary": "I WAS DRIVING HOME FROM WORK TODAY ON THE INTERSTATE AND IT SOUNDED LIKE A SHOTGUN WENT OFF.  MY SUNROOF SHATTERED.  I LOOKED UP AND THERE WAS A HUGE HOLE IN THE MIDDLE.  IT WAS ABOUT 68 DEGREES F, SO IT WASN'T COLD.  I HAVE A GARMIN DASH CAM SO I WENT HOME AND REVIEWED THE VIDEO LOOKING FOR AN OBJECT COMING FROM THE SKY OR ROAD JUST BEFORE THE SOUND IN THE VIDEO.  NOTHING.  I DON'T BELIEVE THAT ANYTHING HIT THE SUNROOF.  I DID NOT HIT ANY POTHOLES.  THE GLASS JUST EXPLODED.  I GOOGLED GTI SUNROOF BREAK AND FOUND SOMEONE IN CANADA WITH THE SAME STORY.  I THINK VW HAS AN ISSUE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10821849,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/21/2016",
+      "dateComplaintFiled": "01/23/2016",
+      "vin": "3VW2A7AU6FM",
+      "components": "AIR BAGS",
+      "summary": "AIRBAG SYSTEM IS NOT RECOGNIZING OCCUPANT IN FRONT PASSENGER SEAT.  AIRBAG IS OFF WITH SEAT OCCUPIED.  CALLED VW CUSTOMER SERVICE TO ASK ABOUT RECALL 69L6 WHICH DESCRIBES THIS PROBLEM AND WAS TOLD OUR VIN WAS NOT IN THE RECALL ALTHOUGH YOUR WEBSITE GIVES OUR MANUFACTURE DATE OF 18 JULY 2014 AS INSIDE THE RECALL RANGE.  PERHAPS THE RECALL SHOULD BE EXPANDED.  AIRBAG LIGHT ON AT ALL TIMES.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10808181,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/03/2015",
+      "dateComplaintFiled": "12/03/2015",
+      "vin": "",
+      "components": "ENGINE",
+      "summary": "2015 VW GOLF SPORTWAGEN TDI 2.0L    THE CAR HAS LESS THAN 5000 MILES ON IT AND ALREADY TWICE I GET AN ENGINE MALFUNCTION INDICATOR LIGHT (MIL) TO \"REDUCE OIL LEVEL.\"  I HAVEN'T EVEN TAKEN IT IN FOR ITS FIRST SERVICE YET AND NOW THIS. TOO MUCH OIL?  I CHECKED THE LEVEL SEVERAL TIMES AND THE DIP STICK INDICATES THE LEVEL IS WITHIN TOLERANCE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10786213,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/23/2015",
+      "dateComplaintFiled": "10/27/2015",
+      "vin": "3VWCA7AU3FM",
+      "components": "UNKNOWN OR OTHER,ENGINE",
+      "summary": "THE FIRST TIME, BACKING OUT OF A PARKING SPACE IN PARKING LOT STARTED TO GO FORWARD AND THE CAR JUST SHUT OFF ON ITS OWN. IT HAS DONE THIS SEVERAL TIMES LEAVING ME IN IN HARMS WAY TRYING TO PULL OUT INTO TRAFFIC IT JUST SHUTS OFF ARBITRARILY NO TELLING WHEN ITS GOING TO HAPPEN. ALSO HAVE HAD PEOPLE IN THE CAR WITH ME WHEN IT HAS HAPPENED.[ KINDA LIKE PLAYING RUSSIAN ROULETTE ] HAVE HAD IT TO THE DEALERS THREE TIMES INSIDE OF 2300 AND THEY HAVE FOUND NOTHING. FIRST TIME 1 DAY  SECOND TIME 7 DAYS, MORE THAN LIKELY 3 OR 4 MORE DAYS AT DEALER NOW. THREE OF THE TIMES HAPPENED JUST STARTING TO PULL OUT  ON TO THE STREET. ONE IN A PARKING SPACE BACKED OUT STARTED TO GO AND IT DIED. ONE TIME TURNING ON CITY STREETS . TO ME MIGHT BE FUEL PUMP OR SOMETHING ELECTRICAL.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10781635,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/27/2015",
+      "dateComplaintFiled": "10/13/2015",
+      "vin": "3VW217AU5FM",
+      "components": "STEERING,POWER TRAIN",
+      "summary": "TL* THE CONTACT OWNS A 2015 VOLKSWAGEN GOLF. WHILE DRIVING 20 MPH AND ATTEMPTING TO ACCELERATE TO 30 MPH, THE STEERING WHEEL AND VEHICLE WOULD VIBRATE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE IT WAS DIAGNOSED THAT THE AXLE NEEDED TO BE REPAIRED. THE AXLE WAS REPAIRED; HOWEVER, THE STEERING WHEEL CONTINUED TO VIBRATE. THE MANUFACTURER WAS MADE AWARE OF THE FAILURE. THE FAILURE MILEAGE WAS 800.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10777992,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/17/2015",
+      "dateComplaintFiled": "09/28/2015",
+      "vin": "3VWCA7AU8FM",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "CAR HAS SHUT DOWN AFTER STOPPING 4 TIMES NOW STARTING IN JUNE OF THIS YEAR LAST INCIDENT WAS 11 SEPT 2015 TOOK TO KALAMAZOO VW SERVICE DID NOT FIND ANY FAULT CODES ALSO KEY FOB WILL NOT UNLOCK CAR WITHIN RANGE OR NOT START VEHICLE WILL STATE KEY FOB NOT IN RANGE WHEN TRYING TO START WITH KEY IN CAR.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10748597,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/09/2015",
+      "dateComplaintFiled": "08/13/2015",
+      "vin": "WVWKP7AU3FW",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "I LEASED THE E-GOLF FOR ABOUT 4 MONTHS. I WAS DRIVING DOWN THE STREET AND SUDDENLY CAR SHUT DOWN. AN ERROR \"ERROR:ELECTRICAL SYSTEM. STOP!\" APPEARED. CAR STOPPED AND BLOCKED THE LANE. I CALLED VW SOS AND THEY CONNECTED ME TO 911.  POLICE OFFICER CAME AND HELPED ME PULLING THE CAR TO THE ROADSIDE. THE WINDOWS AND MULTIMEDIA WORKED. TRIED TO PRESS THE POWER BUTTON OFF AND TURNED IT ON BUT SAME ERROR SHOWED. I WAITED FOR ONE HOUR TO TOW MY CAR TO THE DEALER. I GOT CAR BACK FROM DEALER 4 DAYS LATER, IN THEIR REPORT STATED \" CHECKED FAULTS IN SYSTEM, FOUND P0C0100 DRIVE MOTOR A CURRENT HIGH. CONTACTED VW HELPLINE. VW HELPLINE ADVISED THESE FAULTS ARE RELATED TO CUSTOMER PRESSING START/STOP BUTTON WHILE DRIVING\" , I'M PRETTY SURE I DIDN'T TOUCH THE POWER BUTTON WHEN DRIVING. AND THEY \" CLEARED ALL FAULTS, SET BASIC SETTING FOR ELECTRIC DRIVE AND ROAD TESTED EXTENSIVELY FOR 90 MILES AND NO MALFUNCTION OCCURRED AT THIS TIME\". I LIKE THE CAR'S DESIGN AND STILL DRIVING THE CAR DAILY BUT JUST REALLY REALLY WORRY ABOUT THE SAFETY.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10746890,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/24/2015",
+      "dateComplaintFiled": "08/06/2015",
+      "vin": "WVWPP7AU8FW",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+      "summary": "WHILST DRIVING HOME AT APPROXIMATELY 6:30 PM DURING HEAVY FREEWAY TRAFFIC, APPROXIMATELY  70 MPH THE ELECTRONIC DRIVE SYSTEM OF THE VW EGOLF DIED. I LOST ALL POWER AND WAS FORCED TO PULL ACROSS THREE  LANES OF TRAFFIC TO REACH THE SAFETY OF THE SHOULDER. WHILE NO ACCIDENT, THAT WAS MORE LUCK THAN ANYTHING ELSE AND GRACE OF OTHER DRIVERS ALLOWING ME TO DIRECTLY MOVE IN FRONT OF THEM. VEHICLE HAD CODE P32B2 AND P060C REPORTED BY VW REPORT AND REPLACED PARTS: 5QE-907-070-C AND 12E-998-152-A. DEALER WOULD NOT PROVIDE ANY ADDITIONAL INFORMATION DESPITE MY CONTINUED REQUESTS IN TO THE CAUSE OF FAILURE. UPDATED 11/05/15  *BF  THE VEHICLE WAS RETURNED TO THE DEALER. IT HAS BEEN THERE SINCE JULY 28, 2015. THEY WERE STILL UNABLE TO REPAIR THE VEHICLE AS OF AUGUST 26, 2015. THE FAILURE WAS RELATED TO POWER AS THE BATTERY AND CHARGING SYSTEM FAILED AGAIN. UPDATED 11/17/15. *JB",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10745257,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/30/2015",
+      "dateComplaintFiled": "07/31/2015",
+      "vin": "3VW217AU1FM",
+      "components": "POWER TRAIN",
+      "summary": "WHEN TRYING TO ACCELERATE FROM A COMPLETE STOP, THE VEHICLE SOMETIMES LAGS THEN ACCELERATES ABRUPTLY OR IT BUCKS TWICE BEFORE ACCELERATING SMOOTHLY. IT NEEDS A CALIBRATION UPDATE FOR THE POWERTRAIN.   UPDATED 09/15/15*LJ        *CN",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10744652,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/25/2015",
+      "dateComplaintFiled": "07/29/2015",
+      "vin": "3VW2A7AU5FM",
+      "components": "WHEELS",
+      "summary": "I PURCHASED A 2015 VW GOLF TDI WITH 18\" WHEELS AND LOW PROFILE PIRELLI TIRES AUGUST 2014.  THIS VEHICLE WAS RE-ENGINEERED FOR THE US MARKET TO MAKE ROOM FOR THE UREA TANK THAT IS NEW AND SPECIFIC TO THE US TDI PLATFORM.  ALL OTHER GOLF MODELS HAVE AN INDEPENDENT SUSPENSION SYSTEM WHILE THIS MODEL WAS DOWNGRADED TO A TORSION BEAM REAR SUSPENSION.  THE VEHICLE IS EQUIPPED ON LOWER END MODELS WITH 16\" WHEELS AND HIGHER PROFILE TIRES, BUT THE HIGH END VEHICLES HAVE THE 18\" WHEELS AND LOW PROFILE TIRES AS STANDARD EQUIPMENT.  ON APRIL 25, I NOTICED A SIDEWALL BUBBLE ON A FRONT TIRE. VW REPLACED BOTH THE TIRE AND BENT RIM AND I WAS TOLD THE OTHER 3 RIMS WERE BENT.  THEN THE OTHER FRONT TIRE HAD A SIDEWALL BLOWOUT AND BOTH THAT TIRE AND WHEEL WERE REPLACED. THE OTHER WEEK I ENDED UP WITH A SIDE WALL NAIL IN A REAR TIRE.  THIS TIRE WAS REPLACED BUT NOT THE WHEEL AND I WAS TOLD THAT ALL WHEELS ARE BENT, INCLUDING THE 2 NEW WHEELS. I HAVE JUST UNDER 18000 MILES ON THE VEHICLE, HAVE CALLED VW AMERICA AND WAS SENT THE SPEC SHEET ON THE CAR.  I ASKED IF A CAR WITHOUT INDEPENDENT SUSPENSION WAS ENGINEERED FOR LOW PROFILE TIRES AND ASKED FOR SOMEONE TO EXPLAIN WHY I HAVE HAD 2 SIDEWALL ISSUES AND 6 BENT RIMS IN UNDER 18,000 MILES AND 11 MONTHS WITHOUT ANY RESPONSE OTHER THAN VW AMERICA SENDING THE SPEC SHEET.  I FEEL THAT THIS IS A SAFETY ISSUE AND ASKED FOR THE SPECIFIC ENGINEERING APPROVAL OF LOW PROFILE TIRES WITH THIS SUSPENSION SYSTEM AND WAS TOLD VW AMERICA DOES NOT HAVE THIS INFORMATION AND WOULD NOT PROVIDE IT TO ME IF THEY DID.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10734705,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/08/2015",
+      "dateComplaintFiled": "07/17/2015",
+      "vin": "3VW2A7AU5FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "FAILURE OF ADBLUE EMISSIONS SYSTEM. DEALER REPLACED PUMP FAILED AGAIN BEFORE LEAVING WORK BAY",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10726947,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/20/2015",
+      "dateComplaintFiled": "06/23/2015",
+      "vin": "WVWPP7AU0FW",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "THE VW EGOLF AUTOMATICALLY TURNS ITSELF OFF WHEN THE DRIVER EXITS THE VEHICLE.  EVEN THOUGH THE KEY IS LEFT IN THE VEHICLE, ONCE THE DRIVER EXITS THE VEHICLE THE VEHICLE SHUTS DOWN.      THIS IS A SERIOUS SAFETY CONCERN.  YOU INTENTIONALLY LEAVE THE VEHICLE ON TO ENSURE THE CABIN IS MAINTAINING A COMFORTABLE TEMPERATURE FOR YOUR PASSENGERS...  MEANWHILE, THE VEHICLE SHUTS DOWN AND DISABLES THE CLIMATE CONTROL.  YOU HAVE NOW LEFT YOUR FAMILY MEMBERS, ELDERLY, CHILDREN, PETS, ETC POSSIBLY IN A HOT VEHICLE WITH NO WAY TO MAINTAIN CABIN TEMPERATURE!      PEOPLE, CHILDREN AND PETS DIE REGULARLY FROM CABIN EXTREME TEMPERATURES!     PLEASE CONTACT VW AND TELL THEM TO REVERSE THIS PROGRAMING!  A DRIVER/OWNER SHOULD HAVE CONTROL OVER THIS!  I'M NOT AWARE OF ANY OTHER VEHICLE IN THE MARKET THAT AUTOMATICALLY TURNS ITSELF OFF WHEN THE DRIVER EXITS THE VEHICLE!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10726334,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/10/2015",
+      "dateComplaintFiled": "06/20/2015",
+      "vin": "3VW17AU7FM0",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I WAS TRAVELING ON AN INTERSTATE HIGHWAY AT APPROXIMATELY 70 MILES AN HOUR AND MY SUNROOF EXPLODED WITHOUT WARNING.  TEMPERATURES OUTSIDE WERE IN THE MID 90'S, TIME OF DAY WAS 6:00 PM, I HAD AIR CONDITIONING RUNNING AND SUNROOF AND INTERIOR SHADE TOTALLY CLOSED.  AFTER THE EXPLOSION, THE SUNROOF WAS BOWED FROM THE INSIDE OUT (CONVEX CURVE) AND THE SAFETY GLASS WAS SHATTERED IN WEBLIKE PIECES.  I PULLED OVER AS SOON AS POSSIBLE AND I WAS MISSING GLASS FROM THE MIDDLE OF THE ROOF ABOUT THE SIZE OF AN OBLONG WATERMELON.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10725422,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/10/2015",
+      "dateComplaintFiled": "06/15/2015",
+      "vin": "WVWKP7AU4FW",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "I WAS IN HAYWARD ON THE 880 FREEWAY (FLAT, DRY ROAD) IN RUSH HOUR TRAFFIC, IN THE HOV LANE GOING ABOUT 40 MPH, AND MY VW E-GOLF  JUST SHUT DOWN AND SHOWED THE ERROR \"ELECTRICAL SYSTEM FAILURE: STOP!\". I HAD ENOUGH MOMENTUM TO COAST 5 FEET OVER TO THE LEFT SIDE (CENTER DIVIDER) I COULD NOT MAKE IT COMPLETELY OUT OF THE LANE. CARS WERE LAYING ON THEIR HORN AND SPEEDING PAST ME WHILE MY BUMPER HUNG OUT A FOOT INTO THE LANE. THE CAR IS 3 MONTHS OLD. IT HAD A CHARGE OF 86 MILES WHEN IT HAPPENED, I HAD IT ON A CHARGING STATION IT SHOWED I CHARGED MY CAR ACCUMULATED (KWH): 29.523. THE RADIO, WINDOWS, BLUETOOTH AND ALL OTHER ELECTRICAL POWERED INSTRUMENTS STILL WORKED. I PRESSED THE POWER BUTTON OFF AND TURNED IT ON AGAIN , THE ERROR STILL REMAINED, AND THE CAR WOULD NOT \"TURN ON\".",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10724109,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/01/2015",
+      "dateComplaintFiled": "06/08/2015",
+      "vin": "3VWRA7AU1FM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "THE MODEL ABOVE IS A GOLF TDI WITH A 6 SPEED MANUAL TRANSMISSION....AS I WAS DRIVING IN 6TH GEAR AT 60 M.P.H. WITH THE CRUISE ENGAGED I CAME UPON A DOWN GRADE AND AS I HAVE DONE FOR CLOSE TO 50 YEARS AND NUMEROUS STANDARD TRANSMISSION CARS, DOWN SHIFTED TO 5TH TO ALLOW ENGINE BRAKING DOWNHILL. WHEN I LET THE CLUTCH BACK OUT THE CAR ACCELERATED INSTEAD OF SLOWING BECAUSE THE CRUISE NEVER CANCELLED. IT WAS TRYING TO BRING ME BACK TO THE SET 60 M.P.H. SET SPEED. TOOK THE CAR TO THE DEALER, GANLEY VW NORTH OLMSTEAD OHIO, ON 6/8/15, AND AFTER THEY LOOKED AT IT I WAS TOLD THIS WAS \"NORMAL\" THIS WAS NEVER \"NORMAL\" WITH ANY OTHER CAR I HAVE OWNED AND IF SO IT DEFINITELY IS NOT A SAFE FEATURE.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10715076,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/06/2015",
+      "dateComplaintFiled": "05/07/2015",
+      "vin": "3VWFA7AU2FM",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "RURAL ROAD IN FLORIDA, CRUISE CONTROL SET TO SPEED LIMIT OF 45 MPH. APPROACHING A SHARP CURVE, I DOWN SHIFTED MY MANUAL TRANSMISSION FROM 5TH TO 3RD TO SLOW DOWN TO AN APPROPRIATE SPEED OF ABOUT 35 MPH.  WHEN I RELEASED THE CLUTCH, AND BEGAN STEERING INTO THE CURVE, THE CAR'S CRUISE CONTROL RE-ENGAGED AND I FOUND MYSELF STRUGGLING TO STEER AROUND THE CURVE AT 45 MPH.    EXACT MODEL IS GOLF SPORTWAGEN TDI SEL WITH MANUAL TRANSMISSION.    VW'S OWN INSTRUCTION VIDEO SAYS THAT WHEN THE CLUTCH PEDAL IS DEPRESSED THE CRUISE CONTROL DIS-ENGAGES AND THAT THE DRIVER MUST PRESS THE RESUME BUTTON FOR THE CRUISE CONTROL TO BE RE-ENGAGED.    IN MY 50 YEARS OF OPERATING AUTOMOBILES, EVERY CAR WITH CRUISE CONTROL AND A MANUAL TRANSMISSION HAS OPERATED PER THE INSTRUCTIONS IN THE VW VIDEO.    UPON CAREFUL READING OF THE OWNER'S MANUAL I FOUND THE FOLLOWING DISCLAIMER:  \"CHANGING GEARS WHEN CRUISE CONTROL IS ACTIVE ... THE CRUISE CONTROL REDUCES ACCELERATION AS SOON AS THE CLUTCH PEDAL IS PRESSED, AND AUTOMATICALLY CONTINUE TO REGULATE SPEED AFTER A GEAR CHANGE.\"    THIS NON-STANDARD BEHAVIOR MAY SOON LEAD TO PEOPLE BEING KILLED.   *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10714197,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/01/2015",
+      "dateComplaintFiled": "05/02/2015",
+      "vin": "3VW817AU2FM",
+      "components": "STRUCTURE,ENGINE",
+      "summary": "THE PAINT NEAR A BOLT FOR ENGINE SUPPORT ON THIS ALLEGED NEW CAR IS DAMAGED, AND BARE METAL IS EXPOSED. AS THE RUST DEVELOPS, THE ENGINE SUPPORT MAY FAIL, AND THE ENGINE BLOCK MAY GO OUT OF POSITION. THIS CAN CAUSE FATAL ACCIDENT. BELOW IS THE PICTURE OF THE PAINT DAMAGE. THE WEB ADDRESS IS CASE SENSITIVE.  HTTPS://LH3.GOOGLEUSERCONTENT.COM/-YVIYISDZMDO/VUVSSTKR7UI/AAAAAAAACBO/IEPTS_IAK4C/W1219-H914-NO/IMG_3189.JPG.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10714200,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/01/2015",
+      "dateComplaintFiled": "05/02/2015",
+      "vin": "3VW817AU2FM",
+      "components": "STRUCTURE,ENGINE",
+      "summary": "TWO FOAM PIECES, ONE ON THE LEFT AND THE OTHER ON THE RIGHT, IN THE ENGINE COMPARTMENT ARE WRAPPED IN TRANSLUCENT VINYL. SINCE THE VINYL CANNOT WITHSTAND THE HEAT, IT CAN CAUSE FIRE. BELOW ARE PICTURES OF THE VINYL WRAPPED FOAM ON THE RIGHT SIDE. THE WEB FOLDER ADDRESSES ARE CASE SENSITIVE. HTTPS://LH4.GOOGLEUSERCONTENT.COM/-TAJJEWYCJ6E/VUKQFQ8MJPI/AAAAAAAAB_E/4OZ-CUBFFRI/W1157-H868-NO/IMG_3101.JPG HTTPS://LH4.GOOGLEUSERCONTENT.COM/-APZJAK01WIM/VUKQGSDF26I/AAAAAAAAB_Q/PQUVYQ0OOKY/W1157-H868-NO/IMG_3112.JPG HTTPS://LH6.GOOGLEUSERCONTENT.COM/-JIXPGFG4D4Q/VUKQFRDJGMI/AAAAAAAAB_I/H5VKEOKW2G4/W1157-H868-NO/IMG_3104.JPG.  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10702350,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/03/2014",
+      "dateComplaintFiled": "03/28/2015",
+      "vin": "3VWRA7AU7FM",
+      "components": "EXTERIOR LIGHTING",
+      "summary": "THE DRIVERS SIDE HIGH BEAM IS NOT AIMED PROPERLY, IT IS POINTED BELOW THE CUT-OFF LINE OF THE LOW BEAM.  THE HEAD LAMP ASSEMBLY HAS BEEN REPLACED BY THE DEALER TWICE BUT THE AIM WAS NOT IMPROVED.  VOLKSWAGEN WAS CONTACTED, THEY EVALUATED THE SITUATION AND SAID THAT THIS WAS THE WAY THE SYSTEM WAS DESIGNED AND SO COULD NOT BE FIXED.  THE DEALER ALSO SAID THAT THEY LOOKED AT OTHER CARS OF THIS SAME MODEL AND THEY ALL OPERATED THE SAME.  BOTH THE HIGH AND LOW BEAM REFLECTORS ARE MOUNTED IN A COMMON HOUSING AND THE ASSEMBLY ONLY HAS ONE ADJUSTMENT SO BOTH BEAMS MOVE UP AND DOWN BY THE SAME AMOUNT.  THIS APPEARS TO BE A DESIGN DEFECT.      I FEEL THIS IS A SAFETY HAZARD AS ONLY ONE OF THE HIGH BEAMS IS ILLUMINATING THE ROAD.    *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10692757,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/03/2014",
+      "dateComplaintFiled": "03/07/2015",
+      "vin": "3VW217AU9FM",
+      "components": "POWER TRAIN,ENGINE",
+      "summary": "WHEN I'M IN TRAFFIC STOP AND GO BETWEEN 11MPH TO 18 MPH AT LOW RPM (1,100 TO 1,800 RPM) THE VEHICLE FEELS LIKE SHAKING IN THE ENGINE OR TRANSMISSION LIKE I'M DRIVING A MANUAL CAR BUT MY CAR IS AUTOMATIC. NOW WHEN GOING UP A INCLINE AT 30 TO 33 MPH VEHICLE DOES THE SAME PROBLEM.    *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10690247,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/12/2015",
+      "dateComplaintFiled": "02/24/2015",
+      "vin": "3VW217AU5FM",
+      "components": "VISIBILITY",
+      "summary": "INSIDE WINDOWS  IN THE WINTER  AT DIFFERENT TEMPERATURES FROST OVER AFTER SITTING. I HAVE TO SCRAP MY WINDSHIELD , VW DEALERSHIP TOLD ME IT IS BUILT THAT WAY. JAY THE SERVICE MANAGER TOLD ME  OTHER 2015 MODELS DO THE SAME THING AND THERE IS NOTHING WRONG WITH MY CAR.   *JS",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 10678632,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/10/2015",
+      "dateComplaintFiled": "01/23/2015",
+      "vin": "3VW217AU6FM",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "THE CAR SMELLS LIKE GAS FROM THE AIR VENTS. I HAVE MADE MULTIPLE ATTEMPTS FOR THE DEALER TO FIX IT, BUT THEIR RESPONSE IS \"YOUR SERIAL NUMBERS ARE NOT PART OF THE RECALL\". THAT'S FINE, BUT IT SMELLS LIKE GAS INSIDE THE CAR!  *TR",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2015",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "GOLF",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    }
+  ]
+}
