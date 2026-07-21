@@ -4,6 +4,9 @@ import uuid
 import json
 from datetime import datetime, timezone
 from typing import Optional
+from fastapi import UploadFile, File
+from faster_whisper import WhisperModel
+import tempfile
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", "rag"))
 
@@ -79,3 +82,20 @@ def get_session(session_id: str):
     if session_id not in sessions:
         raise HTTPException(status_code=404, detail="Session introuvable.")
     return {"session_id": session_id, "history": sessions[session_id]}
+
+whisper_model = WhisperModel("small", device="cpu", compute_type="int8")
+
+
+@app.post("/transcribe")
+async def transcribe(audio: UploadFile = File(...)):
+    with tempfile.NamedTemporaryFile(suffix=".webm", delete=False) as tmp:
+        content = await audio.read()
+        tmp.write(content)
+        tmp_path = tmp.name
+
+    segments, info = whisper_model.transcribe(tmp_path, language="fr")
+    text = " ".join(segment.text for segment in segments).strip()
+
+    os.remove(tmp_path)
+
+    return {"text": text, "language": info.language}
