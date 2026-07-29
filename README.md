@@ -1,4 +1,4 @@
-# vehicle-diagnostic-rag
+
 # Assistant de diagnostic véhicule (RAG)
 
 Assistant conversationnel d'aide au diagnostic automobile, combinant recherche augmentée par génération (RAG), reranking par cross-encoder et données publiques (codes DTC, plaintes et rappels NHTSA).
