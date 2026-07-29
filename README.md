@@ -3,8 +3,6 @@
 
 Assistant conversationnel d'aide au diagnostic automobile, combinant recherche augmentée par génération (RAG), reranking par cross-encoder et données publiques (codes DTC, plaintes et rappels NHTSA).
 
-Projet réalisé dans le cadre de la préparation d'un stage de fin d'études (PFE) en systèmes embarqués et Edge AI, avec un intérêt particulier pour les activités de diagnostic et maintenance automobile.
-
 ## Aperçu
 
 L'utilisateur pose une question en langage naturel (texte ou voix) sur un code défaut, un symptôme ou un rappel constructeur. Le système :
