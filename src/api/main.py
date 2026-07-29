@@ -7,7 +7,8 @@ from typing import Optional
 from fastapi import UploadFile, File
 from faster_whisper import WhisperModel
 import tempfile
-
+from dotenv import load_dotenv
+load_dotenv()
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", "rag"))
 
 from pipeline import rag_query
@@ -99,3 +100,9 @@ async def transcribe(audio: UploadFile = File(...)):
     os.remove(tmp_path)
 
     return {"text": text, "language": info.language}
+
+from fastapi.staticfiles import StaticFiles
+
+FRONTEND_BUILD = os.path.join(os.path.dirname(__file__), "..", "..", "frontend", "dist")
+if os.path.isdir(FRONTEND_BUILD):
+    app.mount("/", StaticFiles(directory=FRONTEND_BUILD, html=True), name="frontend")

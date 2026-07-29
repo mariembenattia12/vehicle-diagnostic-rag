@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import './App.css'
 
-const API_URL = 'http://127.0.0.1:8000'
+const API_URL = import.meta.env.DEV ? 'http://127.0.0.1:8000' : ''
 
 const EXAMPLE_QUESTIONS = [
   "Qu'est-ce que le code P0171 ?",
@@ -98,8 +98,13 @@ function App() {
         body: JSON.stringify({ question, session_id: sessionId }),
       })
 
-      if (!response.ok) {
-        throw new Error(`Erreur serveur (${response.status})`)
+     if (!response.ok) {
+        let detail = `Erreur serveur (${response.status})`
+        try {
+          const errBody = await response.json()
+          if (errBody.detail) detail = errBody.detail
+        } catch {}
+        throw new Error(detail)
       }
 
       const data = await response.json()
@@ -291,13 +296,15 @@ const startRecording = async () => {
           title={recording ? "Arrêter l'enregistrement" : "Enregistrer une question"}
         >
           {transcribing ? (
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" className="mic-spin">
               <path d="M21 12a9 9 0 1 1-6.219-8.56" strokeLinecap="round" />
             </svg>
           ) : (
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-              <rect x="9" y="2" width="6" height="12" rx="3" />
-              <path d="M5 10v1a7 7 0 0 0 14 0v-1M12 18v3M9 21h6" />
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <rect x="9" y="2" width="6" height="12" rx="3" fill="currentColor" stroke="none" />
+              <path d="M5 10v1a7 7 0 0 0 14 0v-1" />
+              <path d="M12 18v3" />
+              <path d="M9 21h6" />
             </svg>
           )}
         </button>

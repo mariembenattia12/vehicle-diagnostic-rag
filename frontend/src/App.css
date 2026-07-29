@@ -419,17 +419,24 @@ body {
   background: var(--accent);
   color: var(--accent-contrast);
   border-radius: 50%;
-  width: 42px;
+  width: 44px;
+  height: 44px;
   flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: transform 0.1s, filter 0.15s;
+  transition: transform 0.12s, filter 0.15s, box-shadow 0.15s;
+  box-shadow: 0 2px 8px rgba(20, 30, 15, 0.15);
 }
 
 .mic-btn:hover:not(:disabled) {
   filter: brightness(1.2);
+  transform: translateY(-1px);
+}
+
+.mic-btn:active:not(:disabled) {
+  transform: scale(0.94);
 }
 
 .mic-btn.recording {
@@ -442,6 +449,14 @@ body {
   cursor: not-allowed;
 }
 
+.mic-spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
 @media (prefers-reduced-motion: reduce) {
   .status-dot.online, .status-dot.offline, .status-dot.checking,
   .dots span, .mic-btn.recording {
