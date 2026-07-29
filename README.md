@@ -93,20 +93,22 @@ docker run -p 7860:7860 --env-file .env vehicle-diagnostic
 
 ## Structure du projet
 
+```
 vehicle-diagnostic-rag/
 ├── data/
-│ ├── raw/ # Données brutes (DTC, NHTSA)
-│ └── processed/ # Données nettoyées et indexées
+│   ├── raw/              # Données brutes (DTC, NHTSA)
+│   └── processed/         # Données nettoyées et indexées
 ├── src/
-│ ├── ingestion/ # Scripts de collecte des données
-│ ├── rag/ # Retriever, reranking, prompt, pipeline RAG
-│ ├── api/ # API FastAPI
-│ └── eval/ # Évaluation RAGAS
-├── frontend/ # Application React
-├── docs/ # Cahier des charges, limitations, évaluation
-├── chroma_db/ # Base vectorielle persistée
+│   ├── ingestion/          # Scripts de collecte des données
+│   ├── rag/                 # Retriever, reranking, prompt, pipeline RAG
+│   ├── api/                  # API FastAPI
+│   └── eval/                  # Évaluation RAGAS
+├── frontend/                   # Application React
+├── docs/                        # Cahier des charges, limitations, évaluation
+├── chroma_db/                    # Base vectorielle persistée
 ├── Dockerfile
 └── requirements.txt
+```
 
 
 ## Périmètre et limites
