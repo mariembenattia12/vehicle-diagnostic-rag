@@ -3,14 +3,14 @@ import os
 import uuid
 import json
 from datetime import datetime, timezone
-from typing import Optional
+from typing import Optional, List
 from fastapi import UploadFile, File
 from faster_whisper import WhisperModel
 import tempfile
 from dotenv import load_dotenv
 load_dotenv()
-sys.path.append(os.path.join(os.path.dirname(__file__), "..", "rag"))
 
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", "rag"))
 from pipeline import rag_query
 
 from fastapi import FastAPI, HTTPException
@@ -37,10 +37,20 @@ class ChatRequest(BaseModel):
     session_id: Optional[str] = None
 
 
+class SourceRef(BaseModel):
+    source_type: str
+    reference: str
+    excerpt: str
+
+
 class ChatResponse(BaseModel):
     answer: str
     session_id: str
     sources_count: int
+    dtc_code: Optional[str] = None
+    causes_probables: List[str] = []
+    confidence: str
+    sources: List[SourceRef] = []
 
 
 @app.get("/health")
@@ -56,7 +66,7 @@ def chat(request: ChatRequest):
     session_id = request.session_id or str(uuid.uuid4())
 
     try:
-        answer, sources = rag_query(request.question)
+        answer, sources, structured = rag_query(request.question)
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Erreur du pipeline RAG: {str(e)}")
 
@@ -71,11 +81,20 @@ def chat(request: ChatRequest):
         "question": request.question,
         "answer": answer,
         "sources_count": len(sources),
+        "confidence": structured["confidence"],
     }
     with open(LOG_PATH, "a", encoding="utf-8") as f:
         f.write(json.dumps(log_entry, ensure_ascii=False) + "\n")
 
-    return ChatResponse(answer=answer, session_id=session_id, sources_count=len(sources))
+    return ChatResponse(
+        answer=answer,
+        session_id=session_id,
+        sources_count=len(sources),
+        dtc_code=structured["dtc_code"],
+        causes_probables=structured["causes_probables"],
+        confidence=structured["confidence"],
+        sources=[SourceRef(**s) for s in structured["sources"]],
+    )
 
 
 @app.get("/sessions/{session_id}")
@@ -83,6 +102,7 @@ def get_session(session_id: str):
     if session_id not in sessions:
         raise HTTPException(status_code=404, detail="Session introuvable.")
     return {"session_id": session_id, "history": sessions[session_id]}
+
 
 whisper_model = WhisperModel("small", device="cpu", compute_type="int8")
 
@@ -100,6 +120,7 @@ async def transcribe(audio: UploadFile = File(...)):
     os.remove(tmp_path)
 
     return {"text": text, "language": info.language}
+
 
 from fastapi.staticfiles import StaticFiles
 
